@@ -22,6 +22,14 @@ warn() {
 
 has_gnu_parallel() {
     if command -v parallel > /dev/null; then
+        # The moreutils package comes with a simpler version of "parallel"
+        # that does not support the --version or -a options.  Check for
+        # that first.  In some distros, installing the "parallel" package
+        # will replace the moreutils version with the GNU version.
+        parallel --version >/dev/null 2>&1
+        if [ $? -ne 0 ]; then
+            return 1
+        fi
         if parallel --version | grep -Fqi 'gnu parallel'; then
            return 0
         fi
