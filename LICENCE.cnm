@@ -8,9 +8,17 @@ conditions are met:
 conditions and the following disclaimer in the documentation and/or other
 materials provided with the distribution.
 
-2. Redistribution and use shall be used only with Texas Instruments Incorporateds
-silicon products. Any other use, reproduction, modification, translation,
-or compilation of the Software is prohibited.
+2. Redistribution and use the following software binaries shall be restricted as
+specified below:
+
+  2.1 Restricted to Texas Instruments Incorporated's silicon products only.
+    * wave521c_k3_codec_fw.bin
+
+  2.2 Restricted to NXP's silicon products only.
+    * wave633c_imx9_codec_fw.bin
+
+Any other use, reproduction, modification, translation, or compilation of the
+Software is prohibited.
 
 3. No reverse engineering, decompilation, or disassembly is permitted.
 
@@ -19,5 +27,5 @@ TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THIS SOFTWARE IS PROVIDED
 OR IMPLIED WARRANTIES OF MERCHANTABILITY, ACCURACY, FITNESS OR SUFFICIENCY FOR A
 PARTICULAR PURPOSE, SATISFACTORY QUALITY, CORRESPONDENCE WITH DESCRIPTION, QUIET
 ENJOYMENT OR NON-INFRINGEMENT OF THIRD PARTY INTELLECTUAL PROPERTY RIGHTS.
-CHIPS&MEDIA, INC., ITS AFFILIATES AND THEIR SUPPLIERS DISCLAIM ANY WARRANTY THAT THE
-DELIVERABLES WILL OPERATE WITHOUT INTERRUPTION OR BE ERROR-FREE.
+CHIPS&MEDIA, INC., ITS AFFILIATES AND THEIR SUPPLIERS DISCLAIM ANY WARRANTY THAT
+THE DELIVERABLES WILL OPERATE WITHOUT INTERRUPTION OR BE ERROR-FREE.
