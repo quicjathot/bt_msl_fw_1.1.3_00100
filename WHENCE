@@ -2982,6 +2982,12 @@ File: brcm/brcmfmac43242a.bin
 File: brcm/brcmfmac43143.bin
 File: brcm/brcmfmac43143-sdio.bin
 File: brcm/brcmfmac43430a0-sdio.bin
+File: brcm/brcmfmac43456-sdio.bin
+Link: brcm/brcmfmac43456-sdio.radxa,rockpi4b-plus.bin -> brcmfmac43456-sdio.bin
+Link: brcm/brcmfmac43456-sdio.radxa,rockpi4b.bin -> brcmfmac43456-sdio.bin
+Link: brcm/brcmfmac43456-sdio.radxa,zero.bin -> brcmfmac43456-sdio.bin
+Link: brcm/brcmfmac43456-sdio.radxa,zero2.bin -> brcmfmac43456-sdio.bin
+File: brcm/brcmfmac43456-sdio.clm_blob
 File: brcm/brcmfmac4350c2-pcie.bin
 File: brcm/brcmfmac4350-pcie.bin
 File: brcm/brcmfmac43569.bin
@@ -2991,6 +2997,11 @@ File: brcm/brcmfmac43602-pcie.ap.bin
 File: brcm/brcmfmac4366b-pcie.bin
 File: brcm/brcmfmac4366c-pcie.bin
 File: brcm/brcmfmac4371-pcie.bin
+File: brcm/BCM4345C5.AP6256.hcd
+Link: brcm/BCM4345C5.radxa,rockpi4b-plus.hcd -> BCM4345C5.AP6256.hcd
+Link: brcm/BCM4345C5.radxa,rockpi4b.hcd -> BCM4345C5.AP6256.hcd
+Link: brcm/BCM4345C5.radxa,zero.hcd -> BCM4345C5.AP6256.hcd
+Link: brcm/BCM4345C5.radxa,zero2.hcd -> BCM4345C5.AP6256.hcd
 
 Licence: Redistributable. See LICENCE.broadcom_bcm43xx for details.
 
@@ -3110,6 +3121,11 @@ Link: brcm/brcmfmac43455-sdio.pine64,rockpro64-v2.1.txt -> brcmfmac43455-sdio.AW
 Link: brcm/brcmfmac43455-sdio.pine64,soquartz-model-a.txt -> brcmfmac43455-sdio.AW-CM256SM.txt
 Link: brcm/brcmfmac43455-sdio.pine64,soquartz-cm4io.txt -> brcmfmac43455-sdio.AW-CM256SM.txt
 Link: brcm/brcmfmac43455-sdio.pine64,soquartz-blade.txt -> brcmfmac43455-sdio.AW-CM256SM.txt
+File: brcm/brcmfmac43456-sdio.AP6256.txt
+Link: brcm/brcmfmac43456-sdio.radxa,rockpi4b-plus.txt -> brcmfmac43456-sdio.AP6256.txt
+Link: brcm/brcmfmac43456-sdio.radxa,rockpi4b.txt -> brcmfmac43456-sdio.AP6256.txt
+Link: brcm/brcmfmac43456-sdio.radxa,zero.txt -> brcmfmac43456-sdio.AP6256.txt
+Link: brcm/brcmfmac43456-sdio.radxa,zero2.txt -> brcmfmac43456-sdio.AP6256.txt
 
 Licence: GPLv2. See GPL-2 for details.
 
