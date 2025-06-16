@@ -5070,11 +5070,332 @@ Version: Guc API/ABI ver 49 - release 0 for Skylake
 File: i915/skl_guc_62.0.0.bin
 Version: GuC API/APB ver 62.0.0 for Skylake
 
+File: i915/skl_guc_64.1.0.bin
+Version: GuC API/APB ver 64.1.0 for Skylake
+
+File: i915/skl_guc_65.0.0.bin
+Version: GuC API/APB ver 65.0.0 for Skylake
+
+File: i915/skl_guc_65.3.0.bin
+Version: GuC API/APB ver 65.3.0 for Skylake
+
+File: i915/skl_guc_66.0.0.bin
+Version: GuC API/APB ver 66.0.0 for Skylake
+
+File: i915/skl_guc_67.0.0.bin
+Version: GuC API/APB ver 67.0.0 for Skylake
+
+File: i915/skl_guc_68.0.0.bin
+Version: GuC API/APB ver 68.0.0 for Skylake
+
+File: i915/skl_guc_68.0.1.bin
+Version: GuC API/APB ver 68.0.1 for Skylake
+
+File: i915/skl_guc_68.0.2.bin
+Version: GuC API/APB ver 68.0.2 for Skylake
+
+File: i915/skl_guc_69.0.0.bin
+Version: GuC API/APB ver 69.0.0 for Skylake
+
 File: i915/skl_guc_69.0.3.bin
 Version: GuC API/APB ver 69.0.3 for Skylake
 
+File: i915/skl_guc_70.0.0.bin
+Version: GuC API/APB ver 70.0.0 for Skylake
+
+File: i915/skl_guc_70.0.2.bin
+Version: GuC API/APB ver 70.0.2 for Skylake
+
+File: i915/skl_guc_70.0.5.bin
+Version: GuC API/APB ver 70.0.5 for Skylake
+
+File: i915/skl_guc_70.0.7.bin
+Version: GuC API/APB ver 70.0.7 for Skylake
+
+File: i915/skl_guc_70.1.0.bin
+Version: GuC API/APB ver 70.1.0 for Skylake
+
 File: i915/skl_guc_70.1.1.bin
 Version: GuC API/APB ver 70.1.1 for Skylake
+
+File: i915/skl_guc_70.1.2.bin
+Version: GuC API/APB ver 70.1.2 for Skylake
+
+File: i915/skl_guc_70.1.4.bin
+Version: GuC API/APB ver 70.1.4 for Skylake
+
+File: i915/skl_guc_70.2.0.bin
+Version: GuC API/APB ver 70.2.0 for Skylake
+
+File: i915/skl_guc_70.2.1.bin
+Version: GuC API/APB ver 70.2.1 for Skylake
+
+File: i915/skl_guc_70.2.2.bin
+Version: GuC API/APB ver 70.2.2 for Skylake
+
+File: i915/skl_guc_70.3.0.bin
+Version: GuC API/APB ver 70.3.0 for Skylake
+
+File: i915/skl_guc_70.4.0.bin
+Version: GuC API/APB ver 70.4.0 for Skylake
+
+File: i915/skl_guc_70.4.1.bin
+Version: GuC API/APB ver 70.4.1 for Skylake
+
+File: i915/skl_guc_70.4.4.bin
+Version: GuC API/APB ver 70.4.4 for Skylake
+
+File: i915/skl_guc_70.5.0.bin
+Version: GuC API/APB ver 70.5.0 for Skylake
+
+File: i915/skl_guc_70.5.1.bin
+Version: GuC API/APB ver 70.5.1 for Skylake
+
+File: i915/skl_guc_70.5.2.bin
+Version: GuC API/APB ver 70.5.2 for Skylake
+
+File: i915/skl_guc_70.5.3.bin
+Version: GuC API/APB ver 70.5.3 for Skylake
+
+File: i915/skl_guc_70.5.4.bin
+Version: GuC API/APB ver 70.5.4 for Skylake
+
+File: i915/skl_guc_70.6.0.bin
+Version: GuC API/APB ver 70.6.0 for Skylake
+
+File: i915/skl_guc_70.6.1.bin
+Version: GuC API/APB ver 70.6.1 for Skylake
+
+File: i915/skl_guc_70.6.2.bin
+Version: GuC API/APB ver 70.6.2 for Skylake
+
+File: i915/skl_guc_70.6.3.bin
+Version: GuC API/APB ver 70.6.3 for Skylake
+
+File: i915/skl_guc_70.6.4.bin
+Version: GuC API/APB ver 70.6.4 for Skylake
+
+File: i915/skl_guc_70.6.5.bin
+Version: GuC API/APB ver 70.6.5 for Skylake
+
+File: i915/skl_guc_70.6.6.bin
+Version: GuC API/APB ver 70.6.6 for Skylake
+
+File: i915/skl_guc_70.6.7.bin
+Version: GuC API/APB ver 70.6.7 for Skylake
+
+File: i915/skl_guc_70.6.8.bin
+Version: GuC API/APB ver 70.6.8 for Skylake
+
+File: i915/skl_guc_70.7.0.bin
+Version: GuC API/APB ver 70.7.0 for Skylake
+
+File: i915/skl_guc_70.8.0.bin
+Version: GuC API/APB ver 70.8.0 for Skylake
+
+File: i915/skl_guc_70.8.1.bin
+Version: GuC API/APB ver 70.8.1 for Skylake
+
+File: i915/skl_guc_70.9.0.bin
+Version: GuC API/APB ver 70.9.0 for Skylake
+
+File: i915/skl_guc_70.9.1.bin
+Version: GuC API/APB ver 70.9.1 for Skylake
+
+File: i915/skl_guc_70.10.0.bin
+Version: GuC API/APB ver 70.10.0 for Skylake
+
+File: i915/skl_guc_70.11.0.bin
+Version: GuC API/APB ver 70.11.0 for Skylake
+
+File: i915/skl_guc_70.12.0.bin
+Version: GuC API/APB ver 70.12.0 for Skylake
+
+File: i915/skl_guc_70.12.1.bin
+Version: GuC API/APB ver 70.12.1 for Skylake
+
+File: i915/skl_guc_70.13.0.bin
+Version: GuC API/APB ver 70.13.0 for Skylake
+
+File: i915/skl_guc_70.13.1.bin
+Version: GuC API/APB ver 70.13.1 for Skylake
+
+File: i915/skl_guc_70.14.0.bin
+Version: GuC API/APB ver 70.14.0 for Skylake
+
+File: i915/skl_guc_70.14.1.bin
+Version: GuC API/APB ver 70.14.1 for Skylake
+
+File: i915/skl_guc_70.15.0.bin
+Version: GuC API/APB ver 70.15.0 for Skylake
+
+File: i915/skl_guc_70.15.1.bin
+Version: GuC API/APB ver 70.15.1 for Skylake
+
+File: i915/skl_guc_70.16.0.bin
+Version: GuC API/APB ver 70.16.0 for Skylake
+
+File: i915/skl_guc_70.16.1.bin
+Version: GuC API/APB ver 70.16.1 for Skylake
+
+File: i915/skl_guc_70.16.2.bin
+Version: GuC API/APB ver 70.16.2 for Skylake
+
+File: i915/skl_guc_70.17.0.bin
+Version: GuC API/APB ver 70.17.0 for Skylake
+
+File: i915/skl_guc_70.18.0.bin
+Version: GuC API/APB ver 70.18.0 for Skylake
+
+File: i915/skl_guc_70.19.0.bin
+Version: GuC API/APB ver 70.19.0 for Skylake
+
+File: i915/skl_guc_70.19.1.bin
+Version: GuC API/APB ver 70.19.1 for Skylake
+
+File: i915/skl_guc_70.19.2.bin
+Version: GuC API/APB ver 70.19.2 for Skylake
+
+File: i915/skl_guc_70.20.0.bin
+Version: GuC API/APB ver 70.20.0 for Skylake
+
+File: i915/skl_guc_70.20.1.bin
+Version: GuC API/APB ver 70.20.1 for Skylake
+
+File: i915/skl_guc_70.20.2.bin
+Version: GuC API/APB ver 70.20.2 for Skylake
+
+File: i915/skl_guc_70.21.0.bin
+Version: GuC API/APB ver 70.21.0 for Skylake
+
+File: i915/skl_guc_70.21.1.bin
+Version: GuC API/APB ver 70.21.1 for Skylake
+
+File: i915/skl_guc_70.21.2.bin
+Version: GuC API/APB ver 70.21.2 for Skylake
+
+File: i915/skl_guc_70.22.0.bin
+Version: GuC API/APB ver 70.22.0 for Skylake
+
+File: i915/skl_guc_70.23.0.bin
+Version: GuC API/APB ver 70.23.0 for Skylake
+
+File: i915/skl_guc_70.23.1.bin
+Version: GuC API/APB ver 70.23.1 for Skylake
+
+File: i915/skl_guc_70.24.0.bin
+Version: GuC API/APB ver 70.24.0 for Skylake
+
+File: i915/skl_guc_70.25.0.bin
+Version: GuC API/APB ver 70.25.0 for Skylake
+
+File: i915/skl_guc_70.25.1.bin
+Version: GuC API/APB ver 70.25.1 for Skylake
+
+File: i915/skl_guc_70.26.0.bin
+Version: GuC API/APB ver 70.26.0 for Skylake
+
+File: i915/skl_guc_70.26.1.bin
+Version: GuC API/APB ver 70.26.1 for Skylake
+
+File: i915/skl_guc_70.26.2.bin
+Version: GuC API/APB ver 70.26.2 for Skylake
+
+File: i915/skl_guc_70.26.3.bin
+Version: GuC API/APB ver 70.26.3 for Skylake
+
+File: i915/skl_guc_70.26.4.bin
+Version: GuC API/APB ver 70.26.4 for Skylake
+
+File: i915/skl_guc_70.26.5.bin
+Version: GuC API/APB ver 70.26.5 for Skylake
+
+File: i915/skl_guc_70.27.0.bin
+Version: GuC API/APB ver 70.27.0 for Skylake
+
+File: i915/skl_guc_70.28.0.bin
+Version: GuC API/APB ver 70.28.0 for Skylake
+
+File: i915/skl_guc_70.29.0.bin
+Version: GuC API/APB ver 70.29.0 for Skylake
+
+File: i915/skl_guc_70.29.1.bin
+Version: GuC API/APB ver 70.29.1 for Skylake
+
+File: i915/skl_guc_70.29.2.bin
+Version: GuC API/APB ver 70.29.2 for Skylake
+
+File: i915/skl_guc_70.30.0.bin
+Version: GuC API/APB ver 70.30.0 for Skylake
+
+File: i915/skl_guc_70.31.0.bin
+Version: GuC API/APB ver 70.31.0 for Skylake
+
+File: i915/skl_guc_70.32.0.bin
+Version: GuC API/APB ver 70.32.0 for Skylake
+
+File: i915/skl_guc_70.33.0.bin
+Version: GuC API/APB ver 70.33.0 for Skylake
+
+File: i915/skl_guc_70.33.1.bin
+Version: GuC API/APB ver 70.33.1 for Skylake
+
+File: i915/skl_guc_70.33.2.bin
+Version: GuC API/APB ver 70.33.2 for Skylake
+
+File: i915/skl_guc_70.34.0.bin
+Version: GuC API/APB ver 70.34.0 for Skylake
+
+File: i915/skl_guc_70.34.1.bin
+Version: GuC API/APB ver 70.34.1 for Skylake
+
+File: i915/skl_guc_70.35.0.bin
+Version: GuC API/APB ver 70.35.0 for Skylake
+
+File: i915/skl_guc_70.35.1.bin
+Version: GuC API/APB ver 70.35.1 for Skylake
+
+File: i915/skl_guc_70.36.0.bin
+Version: GuC API/APB ver 70.36.0 for Skylake
+
+File: i915/skl_guc_70.37.0.bin
+Version: GuC API/APB ver 70.37.0 for Skylake
+
+File: i915/skl_guc_70.37.1.bin
+Version: GuC API/APB ver 70.37.1 for Skylake
+
+File: i915/skl_guc_70.38.0.bin
+Version: GuC API/APB ver 70.38.0 for Skylake
+
+File: i915/skl_guc_70.38.1.bin
+Version: GuC API/APB ver 70.38.1 for Skylake
+
+File: i915/skl_guc_70.39.0.bin
+Version: GuC API/APB ver 70.39.0 for Skylake
+
+File: i915/skl_guc_70.40.0.bin
+Version: GuC API/APB ver 70.40.0 for Skylake
+
+File: i915/skl_guc_70.40.1.bin
+Version: GuC API/APB ver 70.40.1 for Skylake
+
+File: i915/skl_guc_70.40.2.bin
+Version: GuC API/APB ver 70.40.2 for Skylake
+
+File: i915/skl_guc_70.41.0.bin
+Version: GuC API/APB ver 70.41.0 for Skylake
+
+File: i915/skl_guc_70.42.0.bin
+Version: GuC API/APB ver 70.42.0 for Skylake
+
+File: i915/skl_guc_70.43.0.bin
+Version: GuC API/APB ver 70.43.0 for Skylake
+
+File: i915/skl_guc_70.44.0.bin
+Version: GuC API/APB ver 70.44.0 for Skylake
+
+File: i915/skl_guc_70.44.1.bin
+Version: GuC API/APB ver 70.44.1 for Skylake
 
 File: i915/skl_huc_ver01_07_1398.bin
 Version: HuC API/ABI ver 1 - release 7 for Skylake
@@ -5115,11 +5436,332 @@ Version: Guc API/APB ver 49 - release 0 for Broxton
 File: i915/bxt_guc_62.0.0.bin
 Version: GuC API/APB ver 62.0.0 for Broxton
 
+File: i915/bxt_guc_64.1.0.bin
+Version: GuC API/APB ver 64.1.0 for Broxton
+
+File: i915/bxt_guc_65.0.0.bin
+Version: GuC API/APB ver 65.0.0 for Broxton
+
+File: i915/bxt_guc_65.3.0.bin
+Version: GuC API/APB ver 65.3.0 for Broxton
+
+File: i915/bxt_guc_66.0.0.bin
+Version: GuC API/APB ver 66.0.0 for Broxton
+
+File: i915/bxt_guc_67.0.0.bin
+Version: GuC API/APB ver 67.0.0 for Broxton
+
+File: i915/bxt_guc_68.0.0.bin
+Version: GuC API/APB ver 68.0.0 for Broxton
+
+File: i915/bxt_guc_68.0.1.bin
+Version: GuC API/APB ver 68.0.1 for Broxton
+
+File: i915/bxt_guc_68.0.2.bin
+Version: GuC API/APB ver 68.0.2 for Broxton
+
+File: i915/bxt_guc_69.0.0.bin
+Version: GuC API/APB ver 69.0.0 for Broxton
+
 File: i915/bxt_guc_69.0.3.bin
 Version: GuC API/APB ver 69.0.3 for Broxton
 
+File: i915/bxt_guc_70.0.0.bin
+Version: GuC API/APB ver 70.0.0 for Broxton
+
+File: i915/bxt_guc_70.0.2.bin
+Version: GuC API/APB ver 70.0.2 for Broxton
+
+File: i915/bxt_guc_70.0.5.bin
+Version: GuC API/APB ver 70.0.5 for Broxton
+
+File: i915/bxt_guc_70.0.7.bin
+Version: GuC API/APB ver 70.0.7 for Broxton
+
+File: i915/bxt_guc_70.1.0.bin
+Version: GuC API/APB ver 70.1.0 for Broxton
+
 File: i915/bxt_guc_70.1.1.bin
 Version: GuC API/APB ver 70.1.1 for Broxton
+
+File: i915/bxt_guc_70.1.2.bin
+Version: GuC API/APB ver 70.1.2 for Broxton
+
+File: i915/bxt_guc_70.1.4.bin
+Version: GuC API/APB ver 70.1.4 for Broxton
+
+File: i915/bxt_guc_70.2.0.bin
+Version: GuC API/APB ver 70.2.0 for Broxton
+
+File: i915/bxt_guc_70.2.1.bin
+Version: GuC API/APB ver 70.2.1 for Broxton
+
+File: i915/bxt_guc_70.2.2.bin
+Version: GuC API/APB ver 70.2.2 for Broxton
+
+File: i915/bxt_guc_70.3.0.bin
+Version: GuC API/APB ver 70.3.0 for Broxton
+
+File: i915/bxt_guc_70.4.0.bin
+Version: GuC API/APB ver 70.4.0 for Broxton
+
+File: i915/bxt_guc_70.4.1.bin
+Version: GuC API/APB ver 70.4.1 for Broxton
+
+File: i915/bxt_guc_70.4.4.bin
+Version: GuC API/APB ver 70.4.4 for Broxton
+
+File: i915/bxt_guc_70.5.0.bin
+Version: GuC API/APB ver 70.5.0 for Broxton
+
+File: i915/bxt_guc_70.5.1.bin
+Version: GuC API/APB ver 70.5.1 for Broxton
+
+File: i915/bxt_guc_70.5.2.bin
+Version: GuC API/APB ver 70.5.2 for Broxton
+
+File: i915/bxt_guc_70.5.3.bin
+Version: GuC API/APB ver 70.5.3 for Broxton
+
+File: i915/bxt_guc_70.5.4.bin
+Version: GuC API/APB ver 70.5.4 for Broxton
+
+File: i915/bxt_guc_70.6.0.bin
+Version: GuC API/APB ver 70.6.0 for Broxton
+
+File: i915/bxt_guc_70.6.1.bin
+Version: GuC API/APB ver 70.6.1 for Broxton
+
+File: i915/bxt_guc_70.6.2.bin
+Version: GuC API/APB ver 70.6.2 for Broxton
+
+File: i915/bxt_guc_70.6.3.bin
+Version: GuC API/APB ver 70.6.3 for Broxton
+
+File: i915/bxt_guc_70.6.4.bin
+Version: GuC API/APB ver 70.6.4 for Broxton
+
+File: i915/bxt_guc_70.6.5.bin
+Version: GuC API/APB ver 70.6.5 for Broxton
+
+File: i915/bxt_guc_70.6.6.bin
+Version: GuC API/APB ver 70.6.6 for Broxton
+
+File: i915/bxt_guc_70.6.7.bin
+Version: GuC API/APB ver 70.6.7 for Broxton
+
+File: i915/bxt_guc_70.6.8.bin
+Version: GuC API/APB ver 70.6.8 for Broxton
+
+File: i915/bxt_guc_70.7.0.bin
+Version: GuC API/APB ver 70.7.0 for Broxton
+
+File: i915/bxt_guc_70.8.0.bin
+Version: GuC API/APB ver 70.8.0 for Broxton
+
+File: i915/bxt_guc_70.8.1.bin
+Version: GuC API/APB ver 70.8.1 for Broxton
+
+File: i915/bxt_guc_70.9.0.bin
+Version: GuC API/APB ver 70.9.0 for Broxton
+
+File: i915/bxt_guc_70.9.1.bin
+Version: GuC API/APB ver 70.9.1 for Broxton
+
+File: i915/bxt_guc_70.10.0.bin
+Version: GuC API/APB ver 70.10.0 for Broxton
+
+File: i915/bxt_guc_70.11.0.bin
+Version: GuC API/APB ver 70.11.0 for Broxton
+
+File: i915/bxt_guc_70.12.0.bin
+Version: GuC API/APB ver 70.12.0 for Broxton
+
+File: i915/bxt_guc_70.12.1.bin
+Version: GuC API/APB ver 70.12.1 for Broxton
+
+File: i915/bxt_guc_70.13.0.bin
+Version: GuC API/APB ver 70.13.0 for Broxton
+
+File: i915/bxt_guc_70.13.1.bin
+Version: GuC API/APB ver 70.13.1 for Broxton
+
+File: i915/bxt_guc_70.14.0.bin
+Version: GuC API/APB ver 70.14.0 for Broxton
+
+File: i915/bxt_guc_70.14.1.bin
+Version: GuC API/APB ver 70.14.1 for Broxton
+
+File: i915/bxt_guc_70.15.0.bin
+Version: GuC API/APB ver 70.15.0 for Broxton
+
+File: i915/bxt_guc_70.15.1.bin
+Version: GuC API/APB ver 70.15.1 for Broxton
+
+File: i915/bxt_guc_70.16.0.bin
+Version: GuC API/APB ver 70.16.0 for Broxton
+
+File: i915/bxt_guc_70.16.1.bin
+Version: GuC API/APB ver 70.16.1 for Broxton
+
+File: i915/bxt_guc_70.16.2.bin
+Version: GuC API/APB ver 70.16.2 for Broxton
+
+File: i915/bxt_guc_70.17.0.bin
+Version: GuC API/APB ver 70.17.0 for Broxton
+
+File: i915/bxt_guc_70.18.0.bin
+Version: GuC API/APB ver 70.18.0 for Broxton
+
+File: i915/bxt_guc_70.19.0.bin
+Version: GuC API/APB ver 70.19.0 for Broxton
+
+File: i915/bxt_guc_70.19.1.bin
+Version: GuC API/APB ver 70.19.1 for Broxton
+
+File: i915/bxt_guc_70.19.2.bin
+Version: GuC API/APB ver 70.19.2 for Broxton
+
+File: i915/bxt_guc_70.20.0.bin
+Version: GuC API/APB ver 70.20.0 for Broxton
+
+File: i915/bxt_guc_70.20.1.bin
+Version: GuC API/APB ver 70.20.1 for Broxton
+
+File: i915/bxt_guc_70.20.2.bin
+Version: GuC API/APB ver 70.20.2 for Broxton
+
+File: i915/bxt_guc_70.21.0.bin
+Version: GuC API/APB ver 70.21.0 for Broxton
+
+File: i915/bxt_guc_70.21.1.bin
+Version: GuC API/APB ver 70.21.1 for Broxton
+
+File: i915/bxt_guc_70.21.2.bin
+Version: GuC API/APB ver 70.21.2 for Broxton
+
+File: i915/bxt_guc_70.22.0.bin
+Version: GuC API/APB ver 70.22.0 for Broxton
+
+File: i915/bxt_guc_70.23.0.bin
+Version: GuC API/APB ver 70.23.0 for Broxton
+
+File: i915/bxt_guc_70.23.1.bin
+Version: GuC API/APB ver 70.23.1 for Broxton
+
+File: i915/bxt_guc_70.24.0.bin
+Version: GuC API/APB ver 70.24.0 for Broxton
+
+File: i915/bxt_guc_70.25.0.bin
+Version: GuC API/APB ver 70.25.0 for Broxton
+
+File: i915/bxt_guc_70.25.1.bin
+Version: GuC API/APB ver 70.25.1 for Broxton
+
+File: i915/bxt_guc_70.26.0.bin
+Version: GuC API/APB ver 70.26.0 for Broxton
+
+File: i915/bxt_guc_70.26.1.bin
+Version: GuC API/APB ver 70.26.1 for Broxton
+
+File: i915/bxt_guc_70.26.2.bin
+Version: GuC API/APB ver 70.26.2 for Broxton
+
+File: i915/bxt_guc_70.26.3.bin
+Version: GuC API/APB ver 70.26.3 for Broxton
+
+File: i915/bxt_guc_70.26.4.bin
+Version: GuC API/APB ver 70.26.4 for Broxton
+
+File: i915/bxt_guc_70.26.5.bin
+Version: GuC API/APB ver 70.26.5 for Broxton
+
+File: i915/bxt_guc_70.27.0.bin
+Version: GuC API/APB ver 70.27.0 for Broxton
+
+File: i915/bxt_guc_70.28.0.bin
+Version: GuC API/APB ver 70.28.0 for Broxton
+
+File: i915/bxt_guc_70.29.0.bin
+Version: GuC API/APB ver 70.29.0 for Broxton
+
+File: i915/bxt_guc_70.29.1.bin
+Version: GuC API/APB ver 70.29.1 for Broxton
+
+File: i915/bxt_guc_70.29.2.bin
+Version: GuC API/APB ver 70.29.2 for Broxton
+
+File: i915/bxt_guc_70.30.0.bin
+Version: GuC API/APB ver 70.30.0 for Broxton
+
+File: i915/bxt_guc_70.31.0.bin
+Version: GuC API/APB ver 70.31.0 for Broxton
+
+File: i915/bxt_guc_70.32.0.bin
+Version: GuC API/APB ver 70.32.0 for Broxton
+
+File: i915/bxt_guc_70.33.0.bin
+Version: GuC API/APB ver 70.33.0 for Broxton
+
+File: i915/bxt_guc_70.33.1.bin
+Version: GuC API/APB ver 70.33.1 for Broxton
+
+File: i915/bxt_guc_70.33.2.bin
+Version: GuC API/APB ver 70.33.2 for Broxton
+
+File: i915/bxt_guc_70.34.0.bin
+Version: GuC API/APB ver 70.34.0 for Broxton
+
+File: i915/bxt_guc_70.34.1.bin
+Version: GuC API/APB ver 70.34.1 for Broxton
+
+File: i915/bxt_guc_70.35.0.bin
+Version: GuC API/APB ver 70.35.0 for Broxton
+
+File: i915/bxt_guc_70.35.1.bin
+Version: GuC API/APB ver 70.35.1 for Broxton
+
+File: i915/bxt_guc_70.36.0.bin
+Version: GuC API/APB ver 70.36.0 for Broxton
+
+File: i915/bxt_guc_70.37.0.bin
+Version: GuC API/APB ver 70.37.0 for Broxton
+
+File: i915/bxt_guc_70.37.1.bin
+Version: GuC API/APB ver 70.37.1 for Broxton
+
+File: i915/bxt_guc_70.38.0.bin
+Version: GuC API/APB ver 70.38.0 for Broxton
+
+File: i915/bxt_guc_70.38.1.bin
+Version: GuC API/APB ver 70.38.1 for Broxton
+
+File: i915/bxt_guc_70.39.0.bin
+Version: GuC API/APB ver 70.39.0 for Broxton
+
+File: i915/bxt_guc_70.40.0.bin
+Version: GuC API/APB ver 70.40.0 for Broxton
+
+File: i915/bxt_guc_70.40.1.bin
+Version: GuC API/APB ver 70.40.1 for Broxton
+
+File: i915/bxt_guc_70.40.2.bin
+Version: GuC API/APB ver 70.40.2 for Broxton
+
+File: i915/bxt_guc_70.41.0.bin
+Version: GuC API/APB ver 70.41.0 for Broxton
+
+File: i915/bxt_guc_70.42.0.bin
+Version: GuC API/APB ver 70.42.0 for Broxton
+
+File: i915/bxt_guc_70.43.0.bin
+Version: GuC API/APB ver 70.43.0 for Broxton
+
+File: i915/bxt_guc_70.44.0.bin
+Version: GuC API/APB ver 70.44.0 for Broxton
+
+File: i915/bxt_guc_70.44.1.bin
+Version: GuC API/APB ver 70.44.1 for Broxton
 
 File: i915/kbl_guc_ver9_14.bin
 Version: Guc API/APB ver 9 release 14 for Kabylake
@@ -5133,11 +5775,332 @@ Version: Guc API/APB ver 49 release 0 for Comet Lake
 File: i915/cml_guc_62.0.0.bin
 Version: GuC API/APB ver 62.0.0 for Comet Lake
 
+File: i915/cml_guc_64.1.0.bin
+Version: GuC API/APB ver 64.1.0 for Comet Lake
+
+File: i915/cml_guc_65.0.0.bin
+Version: GuC API/APB ver 65.0.0 for Comet Lake
+
+File: i915/cml_guc_65.3.0.bin
+Version: GuC API/APB ver 65.3.0 for Comet Lake
+
+File: i915/cml_guc_66.0.0.bin
+Version: GuC API/APB ver 66.0.0 for Comet Lake
+
+File: i915/cml_guc_67.0.0.bin
+Version: GuC API/APB ver 67.0.0 for Comet Lake
+
+File: i915/cml_guc_68.0.0.bin
+Version: GuC API/APB ver 68.0.0 for Comet Lake
+
+File: i915/cml_guc_68.0.1.bin
+Version: GuC API/APB ver 68.0.1 for Comet Lake
+
+File: i915/cml_guc_68.0.2.bin
+Version: GuC API/APB ver 68.0.2 for Comet Lake
+
+File: i915/cml_guc_69.0.0.bin
+Version: GuC API/APB ver 69.0.0 for Comet Lake
+
 File: i915/cml_guc_69.0.3.bin
 Version: GuC API/APB ver 69.0.3 for Comet Lake
 
+File: i915/cml_guc_70.0.0.bin
+Version: GuC API/APB ver 70.0.0 for Comet Lake
+
+File: i915/cml_guc_70.0.2.bin
+Version: GuC API/APB ver 70.0.2 for Comet Lake
+
+File: i915/cml_guc_70.0.5.bin
+Version: GuC API/APB ver 70.0.5 for Comet Lake
+
+File: i915/cml_guc_70.0.7.bin
+Version: GuC API/APB ver 70.0.7 for Comet Lake
+
+File: i915/cml_guc_70.1.0.bin
+Version: GuC API/APB ver 70.1.0 for Comet Lake
+
 File: i915/cml_guc_70.1.1.bin
 Version: GuC API/APB ver 70.1.1 for Comet Lake
+
+File: i915/cml_guc_70.1.2.bin
+Version: GuC API/APB ver 70.1.2 for Comet Lake
+
+File: i915/cml_guc_70.1.4.bin
+Version: GuC API/APB ver 70.1.4 for Comet Lake
+
+File: i915/cml_guc_70.2.0.bin
+Version: GuC API/APB ver 70.2.0 for Comet Lake
+
+File: i915/cml_guc_70.2.1.bin
+Version: GuC API/APB ver 70.2.1 for Comet Lake
+
+File: i915/cml_guc_70.2.2.bin
+Version: GuC API/APB ver 70.2.2 for Comet Lake
+
+File: i915/cml_guc_70.3.0.bin
+Version: GuC API/APB ver 70.3.0 for Comet Lake
+
+File: i915/cml_guc_70.4.0.bin
+Version: GuC API/APB ver 70.4.0 for Comet Lake
+
+File: i915/cml_guc_70.4.1.bin
+Version: GuC API/APB ver 70.4.1 for Comet Lake
+
+File: i915/cml_guc_70.4.4.bin
+Version: GuC API/APB ver 70.4.4 for Comet Lake
+
+File: i915/cml_guc_70.5.0.bin
+Version: GuC API/APB ver 70.5.0 for Comet Lake
+
+File: i915/cml_guc_70.5.1.bin
+Version: GuC API/APB ver 70.5.1 for Comet Lake
+
+File: i915/cml_guc_70.5.2.bin
+Version: GuC API/APB ver 70.5.2 for Comet Lake
+
+File: i915/cml_guc_70.5.3.bin
+Version: GuC API/APB ver 70.5.3 for Comet Lake
+
+File: i915/cml_guc_70.5.4.bin
+Version: GuC API/APB ver 70.5.4 for Comet Lake
+
+File: i915/cml_guc_70.6.0.bin
+Version: GuC API/APB ver 70.6.0 for Comet Lake
+
+File: i915/cml_guc_70.6.1.bin
+Version: GuC API/APB ver 70.6.1 for Comet Lake
+
+File: i915/cml_guc_70.6.2.bin
+Version: GuC API/APB ver 70.6.2 for Comet Lake
+
+File: i915/cml_guc_70.6.3.bin
+Version: GuC API/APB ver 70.6.3 for Comet Lake
+
+File: i915/cml_guc_70.6.4.bin
+Version: GuC API/APB ver 70.6.4 for Comet Lake
+
+File: i915/cml_guc_70.6.5.bin
+Version: GuC API/APB ver 70.6.5 for Comet Lake
+
+File: i915/cml_guc_70.6.6.bin
+Version: GuC API/APB ver 70.6.6 for Comet Lake
+
+File: i915/cml_guc_70.6.7.bin
+Version: GuC API/APB ver 70.6.7 for Comet Lake
+
+File: i915/cml_guc_70.6.8.bin
+Version: GuC API/APB ver 70.6.8 for Comet Lake
+
+File: i915/cml_guc_70.7.0.bin
+Version: GuC API/APB ver 70.7.0 for Comet Lake
+
+File: i915/cml_guc_70.8.0.bin
+Version: GuC API/APB ver 70.8.0 for Comet Lake
+
+File: i915/cml_guc_70.8.1.bin
+Version: GuC API/APB ver 70.8.1 for Comet Lake
+
+File: i915/cml_guc_70.9.0.bin
+Version: GuC API/APB ver 70.9.0 for Comet Lake
+
+File: i915/cml_guc_70.9.1.bin
+Version: GuC API/APB ver 70.9.1 for Comet Lake
+
+File: i915/cml_guc_70.10.0.bin
+Version: GuC API/APB ver 70.10.0 for Comet Lake
+
+File: i915/cml_guc_70.11.0.bin
+Version: GuC API/APB ver 70.11.0 for Comet Lake
+
+File: i915/cml_guc_70.12.0.bin
+Version: GuC API/APB ver 70.12.0 for Comet Lake
+
+File: i915/cml_guc_70.12.1.bin
+Version: GuC API/APB ver 70.12.1 for Comet Lake
+
+File: i915/cml_guc_70.13.0.bin
+Version: GuC API/APB ver 70.13.0 for Comet Lake
+
+File: i915/cml_guc_70.13.1.bin
+Version: GuC API/APB ver 70.13.1 for Comet Lake
+
+File: i915/cml_guc_70.14.0.bin
+Version: GuC API/APB ver 70.14.0 for Comet Lake
+
+File: i915/cml_guc_70.14.1.bin
+Version: GuC API/APB ver 70.14.1 for Comet Lake
+
+File: i915/cml_guc_70.15.0.bin
+Version: GuC API/APB ver 70.15.0 for Comet Lake
+
+File: i915/cml_guc_70.15.1.bin
+Version: GuC API/APB ver 70.15.1 for Comet Lake
+
+File: i915/cml_guc_70.16.0.bin
+Version: GuC API/APB ver 70.16.0 for Comet Lake
+
+File: i915/cml_guc_70.16.1.bin
+Version: GuC API/APB ver 70.16.1 for Comet Lake
+
+File: i915/cml_guc_70.16.2.bin
+Version: GuC API/APB ver 70.16.2 for Comet Lake
+
+File: i915/cml_guc_70.17.0.bin
+Version: GuC API/APB ver 70.17.0 for Comet Lake
+
+File: i915/cml_guc_70.18.0.bin
+Version: GuC API/APB ver 70.18.0 for Comet Lake
+
+File: i915/cml_guc_70.19.0.bin
+Version: GuC API/APB ver 70.19.0 for Comet Lake
+
+File: i915/cml_guc_70.19.1.bin
+Version: GuC API/APB ver 70.19.1 for Comet Lake
+
+File: i915/cml_guc_70.19.2.bin
+Version: GuC API/APB ver 70.19.2 for Comet Lake
+
+File: i915/cml_guc_70.20.0.bin
+Version: GuC API/APB ver 70.20.0 for Comet Lake
+
+File: i915/cml_guc_70.20.1.bin
+Version: GuC API/APB ver 70.20.1 for Comet Lake
+
+File: i915/cml_guc_70.20.2.bin
+Version: GuC API/APB ver 70.20.2 for Comet Lake
+
+File: i915/cml_guc_70.21.0.bin
+Version: GuC API/APB ver 70.21.0 for Comet Lake
+
+File: i915/cml_guc_70.21.1.bin
+Version: GuC API/APB ver 70.21.1 for Comet Lake
+
+File: i915/cml_guc_70.21.2.bin
+Version: GuC API/APB ver 70.21.2 for Comet Lake
+
+File: i915/cml_guc_70.22.0.bin
+Version: GuC API/APB ver 70.22.0 for Comet Lake
+
+File: i915/cml_guc_70.23.0.bin
+Version: GuC API/APB ver 70.23.0 for Comet Lake
+
+File: i915/cml_guc_70.23.1.bin
+Version: GuC API/APB ver 70.23.1 for Comet Lake
+
+File: i915/cml_guc_70.24.0.bin
+Version: GuC API/APB ver 70.24.0 for Comet Lake
+
+File: i915/cml_guc_70.25.0.bin
+Version: GuC API/APB ver 70.25.0 for Comet Lake
+
+File: i915/cml_guc_70.25.1.bin
+Version: GuC API/APB ver 70.25.1 for Comet Lake
+
+File: i915/cml_guc_70.26.0.bin
+Version: GuC API/APB ver 70.26.0 for Comet Lake
+
+File: i915/cml_guc_70.26.1.bin
+Version: GuC API/APB ver 70.26.1 for Comet Lake
+
+File: i915/cml_guc_70.26.2.bin
+Version: GuC API/APB ver 70.26.2 for Comet Lake
+
+File: i915/cml_guc_70.26.3.bin
+Version: GuC API/APB ver 70.26.3 for Comet Lake
+
+File: i915/cml_guc_70.26.4.bin
+Version: GuC API/APB ver 70.26.4 for Comet Lake
+
+File: i915/cml_guc_70.26.5.bin
+Version: GuC API/APB ver 70.26.5 for Comet Lake
+
+File: i915/cml_guc_70.27.0.bin
+Version: GuC API/APB ver 70.27.0 for Comet Lake
+
+File: i915/cml_guc_70.28.0.bin
+Version: GuC API/APB ver 70.28.0 for Comet Lake
+
+File: i915/cml_guc_70.29.0.bin
+Version: GuC API/APB ver 70.29.0 for Comet Lake
+
+File: i915/cml_guc_70.29.1.bin
+Version: GuC API/APB ver 70.29.1 for Comet Lake
+
+File: i915/cml_guc_70.29.2.bin
+Version: GuC API/APB ver 70.29.2 for Comet Lake
+
+File: i915/cml_guc_70.30.0.bin
+Version: GuC API/APB ver 70.30.0 for Comet Lake
+
+File: i915/cml_guc_70.31.0.bin
+Version: GuC API/APB ver 70.31.0 for Comet Lake
+
+File: i915/cml_guc_70.32.0.bin
+Version: GuC API/APB ver 70.32.0 for Comet Lake
+
+File: i915/cml_guc_70.33.0.bin
+Version: GuC API/APB ver 70.33.0 for Comet Lake
+
+File: i915/cml_guc_70.33.1.bin
+Version: GuC API/APB ver 70.33.1 for Comet Lake
+
+File: i915/cml_guc_70.33.2.bin
+Version: GuC API/APB ver 70.33.2 for Comet Lake
+
+File: i915/cml_guc_70.34.0.bin
+Version: GuC API/APB ver 70.34.0 for Comet Lake
+
+File: i915/cml_guc_70.34.1.bin
+Version: GuC API/APB ver 70.34.1 for Comet Lake
+
+File: i915/cml_guc_70.35.0.bin
+Version: GuC API/APB ver 70.35.0 for Comet Lake
+
+File: i915/cml_guc_70.35.1.bin
+Version: GuC API/APB ver 70.35.1 for Comet Lake
+
+File: i915/cml_guc_70.36.0.bin
+Version: GuC API/APB ver 70.36.0 for Comet Lake
+
+File: i915/cml_guc_70.37.0.bin
+Version: GuC API/APB ver 70.37.0 for Comet Lake
+
+File: i915/cml_guc_70.37.1.bin
+Version: GuC API/APB ver 70.37.1 for Comet Lake
+
+File: i915/cml_guc_70.38.0.bin
+Version: GuC API/APB ver 70.38.0 for Comet Lake
+
+File: i915/cml_guc_70.38.1.bin
+Version: GuC API/APB ver 70.38.1 for Comet Lake
+
+File: i915/cml_guc_70.39.0.bin
+Version: GuC API/APB ver 70.39.0 for Comet Lake
+
+File: i915/cml_guc_70.40.0.bin
+Version: GuC API/APB ver 70.40.0 for Comet Lake
+
+File: i915/cml_guc_70.40.1.bin
+Version: GuC API/APB ver 70.40.1 for Comet Lake
+
+File: i915/cml_guc_70.40.2.bin
+Version: GuC API/APB ver 70.40.2 for Comet Lake
+
+File: i915/cml_guc_70.41.0.bin
+Version: GuC API/APB ver 70.41.0 for Comet Lake
+
+File: i915/cml_guc_70.42.0.bin
+Version: GuC API/APB ver 70.42.0 for Comet Lake
+
+File: i915/cml_guc_70.43.0.bin
+Version: GuC API/APB ver 70.43.0 for Comet Lake
+
+File: i915/cml_guc_70.44.0.bin
+Version: GuC API/APB ver 70.44.0 for Comet Lake
+
+File: i915/cml_guc_70.44.1.bin
+Version: GuC API/APB ver 70.44.1 for Comet Lake
 
 File: i915/kbl_guc_ver9_39.bin
 Version: Guc API/APB ver 9 release 39 for Kabylake
@@ -5154,11 +6117,332 @@ Version: Guc API/APB ver 49 release 0 for Kabylake
 File: i915/kbl_guc_62.0.0.bin
 Version: GuC API/APB ver 62.0.0 for Kabylake
 
+File: i915/kbl_guc_64.1.0.bin
+Version: GuC API/APB ver 64.1.0 for Kabylake
+
+File: i915/kbl_guc_65.0.0.bin
+Version: GuC API/APB ver 65.0.0 for Kabylake
+
+File: i915/kbl_guc_65.3.0.bin
+Version: GuC API/APB ver 65.3.0 for Kabylake
+
+File: i915/kbl_guc_66.0.0.bin
+Version: GuC API/APB ver 66.0.0 for Kabylake
+
+File: i915/kbl_guc_67.0.0.bin
+Version: GuC API/APB ver 67.0.0 for Kabylake
+
+File: i915/kbl_guc_68.0.0.bin
+Version: GuC API/APB ver 68.0.0 for Kabylake
+
+File: i915/kbl_guc_68.0.1.bin
+Version: GuC API/APB ver 68.0.1 for Kabylake
+
+File: i915/kbl_guc_68.0.2.bin
+Version: GuC API/APB ver 68.0.2 for Kabylake
+
+File: i915/kbl_guc_69.0.0.bin
+Version: GuC API/APB ver 69.0.0 for Kabylake
+
 File: i915/kbl_guc_69.0.3.bin
 Version: GuC API/APB ver 69.0.3 for Kabylake
 
+File: i915/kbl_guc_70.0.0.bin
+Version: GuC API/APB ver 70.0.0 for Kabylake
+
+File: i915/kbl_guc_70.0.2.bin
+Version: GuC API/APB ver 70.0.2 for Kabylake
+
+File: i915/kbl_guc_70.0.5.bin
+Version: GuC API/APB ver 70.0.5 for Kabylake
+
+File: i915/kbl_guc_70.0.7.bin
+Version: GuC API/APB ver 70.0.7 for Kabylake
+
+File: i915/kbl_guc_70.1.0.bin
+Version: GuC API/APB ver 70.1.0 for Kabylake
+
 File: i915/kbl_guc_70.1.1.bin
 Version: GuC API/APB ver 70.1.1 for Kabylake
+
+File: i915/kbl_guc_70.1.2.bin
+Version: GuC API/APB ver 70.1.2 for Kabylake
+
+File: i915/kbl_guc_70.1.4.bin
+Version: GuC API/APB ver 70.1.4 for Kabylake
+
+File: i915/kbl_guc_70.2.0.bin
+Version: GuC API/APB ver 70.2.0 for Kabylake
+
+File: i915/kbl_guc_70.2.1.bin
+Version: GuC API/APB ver 70.2.1 for Kabylake
+
+File: i915/kbl_guc_70.2.2.bin
+Version: GuC API/APB ver 70.2.2 for Kabylake
+
+File: i915/kbl_guc_70.3.0.bin
+Version: GuC API/APB ver 70.3.0 for Kabylake
+
+File: i915/kbl_guc_70.4.0.bin
+Version: GuC API/APB ver 70.4.0 for Kabylake
+
+File: i915/kbl_guc_70.4.1.bin
+Version: GuC API/APB ver 70.4.1 for Kabylake
+
+File: i915/kbl_guc_70.4.4.bin
+Version: GuC API/APB ver 70.4.4 for Kabylake
+
+File: i915/kbl_guc_70.5.0.bin
+Version: GuC API/APB ver 70.5.0 for Kabylake
+
+File: i915/kbl_guc_70.5.1.bin
+Version: GuC API/APB ver 70.5.1 for Kabylake
+
+File: i915/kbl_guc_70.5.2.bin
+Version: GuC API/APB ver 70.5.2 for Kabylake
+
+File: i915/kbl_guc_70.5.3.bin
+Version: GuC API/APB ver 70.5.3 for Kabylake
+
+File: i915/kbl_guc_70.5.4.bin
+Version: GuC API/APB ver 70.5.4 for Kabylake
+
+File: i915/kbl_guc_70.6.0.bin
+Version: GuC API/APB ver 70.6.0 for Kabylake
+
+File: i915/kbl_guc_70.6.1.bin
+Version: GuC API/APB ver 70.6.1 for Kabylake
+
+File: i915/kbl_guc_70.6.2.bin
+Version: GuC API/APB ver 70.6.2 for Kabylake
+
+File: i915/kbl_guc_70.6.3.bin
+Version: GuC API/APB ver 70.6.3 for Kabylake
+
+File: i915/kbl_guc_70.6.4.bin
+Version: GuC API/APB ver 70.6.4 for Kabylake
+
+File: i915/kbl_guc_70.6.5.bin
+Version: GuC API/APB ver 70.6.5 for Kabylake
+
+File: i915/kbl_guc_70.6.6.bin
+Version: GuC API/APB ver 70.6.6 for Kabylake
+
+File: i915/kbl_guc_70.6.7.bin
+Version: GuC API/APB ver 70.6.7 for Kabylake
+
+File: i915/kbl_guc_70.6.8.bin
+Version: GuC API/APB ver 70.6.8 for Kabylake
+
+File: i915/kbl_guc_70.7.0.bin
+Version: GuC API/APB ver 70.7.0 for Kabylake
+
+File: i915/kbl_guc_70.8.0.bin
+Version: GuC API/APB ver 70.8.0 for Kabylake
+
+File: i915/kbl_guc_70.8.1.bin
+Version: GuC API/APB ver 70.8.1 for Kabylake
+
+File: i915/kbl_guc_70.9.0.bin
+Version: GuC API/APB ver 70.9.0 for Kabylake
+
+File: i915/kbl_guc_70.9.1.bin
+Version: GuC API/APB ver 70.9.1 for Kabylake
+
+File: i915/kbl_guc_70.10.0.bin
+Version: GuC API/APB ver 70.10.0 for Kabylake
+
+File: i915/kbl_guc_70.11.0.bin
+Version: GuC API/APB ver 70.11.0 for Kabylake
+
+File: i915/kbl_guc_70.12.0.bin
+Version: GuC API/APB ver 70.12.0 for Kabylake
+
+File: i915/kbl_guc_70.12.1.bin
+Version: GuC API/APB ver 70.12.1 for Kabylake
+
+File: i915/kbl_guc_70.13.0.bin
+Version: GuC API/APB ver 70.13.0 for Kabylake
+
+File: i915/kbl_guc_70.13.1.bin
+Version: GuC API/APB ver 70.13.1 for Kabylake
+
+File: i915/kbl_guc_70.14.0.bin
+Version: GuC API/APB ver 70.14.0 for Kabylake
+
+File: i915/kbl_guc_70.14.1.bin
+Version: GuC API/APB ver 70.14.1 for Kabylake
+
+File: i915/kbl_guc_70.15.0.bin
+Version: GuC API/APB ver 70.15.0 for Kabylake
+
+File: i915/kbl_guc_70.15.1.bin
+Version: GuC API/APB ver 70.15.1 for Kabylake
+
+File: i915/kbl_guc_70.16.0.bin
+Version: GuC API/APB ver 70.16.0 for Kabylake
+
+File: i915/kbl_guc_70.16.1.bin
+Version: GuC API/APB ver 70.16.1 for Kabylake
+
+File: i915/kbl_guc_70.16.2.bin
+Version: GuC API/APB ver 70.16.2 for Kabylake
+
+File: i915/kbl_guc_70.17.0.bin
+Version: GuC API/APB ver 70.17.0 for Kabylake
+
+File: i915/kbl_guc_70.18.0.bin
+Version: GuC API/APB ver 70.18.0 for Kabylake
+
+File: i915/kbl_guc_70.19.0.bin
+Version: GuC API/APB ver 70.19.0 for Kabylake
+
+File: i915/kbl_guc_70.19.1.bin
+Version: GuC API/APB ver 70.19.1 for Kabylake
+
+File: i915/kbl_guc_70.19.2.bin
+Version: GuC API/APB ver 70.19.2 for Kabylake
+
+File: i915/kbl_guc_70.20.0.bin
+Version: GuC API/APB ver 70.20.0 for Kabylake
+
+File: i915/kbl_guc_70.20.1.bin
+Version: GuC API/APB ver 70.20.1 for Kabylake
+
+File: i915/kbl_guc_70.20.2.bin
+Version: GuC API/APB ver 70.20.2 for Kabylake
+
+File: i915/kbl_guc_70.21.0.bin
+Version: GuC API/APB ver 70.21.0 for Kabylake
+
+File: i915/kbl_guc_70.21.1.bin
+Version: GuC API/APB ver 70.21.1 for Kabylake
+
+File: i915/kbl_guc_70.21.2.bin
+Version: GuC API/APB ver 70.21.2 for Kabylake
+
+File: i915/kbl_guc_70.22.0.bin
+Version: GuC API/APB ver 70.22.0 for Kabylake
+
+File: i915/kbl_guc_70.23.0.bin
+Version: GuC API/APB ver 70.23.0 for Kabylake
+
+File: i915/kbl_guc_70.23.1.bin
+Version: GuC API/APB ver 70.23.1 for Kabylake
+
+File: i915/kbl_guc_70.24.0.bin
+Version: GuC API/APB ver 70.24.0 for Kabylake
+
+File: i915/kbl_guc_70.25.0.bin
+Version: GuC API/APB ver 70.25.0 for Kabylake
+
+File: i915/kbl_guc_70.25.1.bin
+Version: GuC API/APB ver 70.25.1 for Kabylake
+
+File: i915/kbl_guc_70.26.0.bin
+Version: GuC API/APB ver 70.26.0 for Kabylake
+
+File: i915/kbl_guc_70.26.1.bin
+Version: GuC API/APB ver 70.26.1 for Kabylake
+
+File: i915/kbl_guc_70.26.2.bin
+Version: GuC API/APB ver 70.26.2 for Kabylake
+
+File: i915/kbl_guc_70.26.3.bin
+Version: GuC API/APB ver 70.26.3 for Kabylake
+
+File: i915/kbl_guc_70.26.4.bin
+Version: GuC API/APB ver 70.26.4 for Kabylake
+
+File: i915/kbl_guc_70.26.5.bin
+Version: GuC API/APB ver 70.26.5 for Kabylake
+
+File: i915/kbl_guc_70.27.0.bin
+Version: GuC API/APB ver 70.27.0 for Kabylake
+
+File: i915/kbl_guc_70.28.0.bin
+Version: GuC API/APB ver 70.28.0 for Kabylake
+
+File: i915/kbl_guc_70.29.0.bin
+Version: GuC API/APB ver 70.29.0 for Kabylake
+
+File: i915/kbl_guc_70.29.1.bin
+Version: GuC API/APB ver 70.29.1 for Kabylake
+
+File: i915/kbl_guc_70.29.2.bin
+Version: GuC API/APB ver 70.29.2 for Kabylake
+
+File: i915/kbl_guc_70.30.0.bin
+Version: GuC API/APB ver 70.30.0 for Kabylake
+
+File: i915/kbl_guc_70.31.0.bin
+Version: GuC API/APB ver 70.31.0 for Kabylake
+
+File: i915/kbl_guc_70.32.0.bin
+Version: GuC API/APB ver 70.32.0 for Kabylake
+
+File: i915/kbl_guc_70.33.0.bin
+Version: GuC API/APB ver 70.33.0 for Kabylake
+
+File: i915/kbl_guc_70.33.1.bin
+Version: GuC API/APB ver 70.33.1 for Kabylake
+
+File: i915/kbl_guc_70.33.2.bin
+Version: GuC API/APB ver 70.33.2 for Kabylake
+
+File: i915/kbl_guc_70.34.0.bin
+Version: GuC API/APB ver 70.34.0 for Kabylake
+
+File: i915/kbl_guc_70.34.1.bin
+Version: GuC API/APB ver 70.34.1 for Kabylake
+
+File: i915/kbl_guc_70.35.0.bin
+Version: GuC API/APB ver 70.35.0 for Kabylake
+
+File: i915/kbl_guc_70.35.1.bin
+Version: GuC API/APB ver 70.35.1 for Kabylake
+
+File: i915/kbl_guc_70.36.0.bin
+Version: GuC API/APB ver 70.36.0 for Kabylake
+
+File: i915/kbl_guc_70.37.0.bin
+Version: GuC API/APB ver 70.37.0 for Kabylake
+
+File: i915/kbl_guc_70.37.1.bin
+Version: GuC API/APB ver 70.37.1 for Kabylake
+
+File: i915/kbl_guc_70.38.0.bin
+Version: GuC API/APB ver 70.38.0 for Kabylake
+
+File: i915/kbl_guc_70.38.1.bin
+Version: GuC API/APB ver 70.38.1 for Kabylake
+
+File: i915/kbl_guc_70.39.0.bin
+Version: GuC API/APB ver 70.39.0 for Kabylake
+
+File: i915/kbl_guc_70.40.0.bin
+Version: GuC API/APB ver 70.40.0 for Kabylake
+
+File: i915/kbl_guc_70.40.1.bin
+Version: GuC API/APB ver 70.40.1 for Kabylake
+
+File: i915/kbl_guc_70.40.2.bin
+Version: GuC API/APB ver 70.40.2 for Kabylake
+
+File: i915/kbl_guc_70.41.0.bin
+Version: GuC API/APB ver 70.41.0 for Kabylake
+
+File: i915/kbl_guc_70.42.0.bin
+Version: GuC API/APB ver 70.42.0 for Kabylake
+
+File: i915/kbl_guc_70.43.0.bin
+Version: GuC API/APB ver 70.43.0 for Kabylake
+
+File: i915/kbl_guc_70.44.0.bin
+Version: GuC API/APB ver 70.44.0 for Kabylake
+
+File: i915/kbl_guc_70.44.1.bin
+Version: GuC API/APB ver 70.44.1 for Kabylake
 
 File: i915/glk_guc_32.0.3.bin
 Version: Guc API/APB ver 32 release 0 for Geminilake
@@ -5172,11 +6456,332 @@ Version: Guc API/APB ver 49 release 0 for Geminilake
 File: i915/glk_guc_62.0.0.bin
 Version: GuC API/APB ver 62.0.0 for Geminilake
 
+File: i915/glk_guc_64.1.0.bin
+Version: GuC API/APB ver 64.1.0 for Geminilake
+
+File: i915/glk_guc_65.0.0.bin
+Version: GuC API/APB ver 65.0.0 for Geminilake
+
+File: i915/glk_guc_65.3.0.bin
+Version: GuC API/APB ver 65.3.0 for Geminilake
+
+File: i915/glk_guc_66.0.0.bin
+Version: GuC API/APB ver 66.0.0 for Geminilake
+
+File: i915/glk_guc_67.0.0.bin
+Version: GuC API/APB ver 67.0.0 for Geminilake
+
+File: i915/glk_guc_68.0.0.bin
+Version: GuC API/APB ver 68.0.0 for Geminilake
+
+File: i915/glk_guc_68.0.1.bin
+Version: GuC API/APB ver 68.0.1 for Geminilake
+
+File: i915/glk_guc_68.0.2.bin
+Version: GuC API/APB ver 68.0.2 for Geminilake
+
+File: i915/glk_guc_69.0.0.bin
+Version: GuC API/APB ver 69.0.0 for Geminilake
+
 File: i915/glk_guc_69.0.3.bin
 Version: GuC API/APB ver 69.0.3 for Geminilake
 
+File: i915/glk_guc_70.0.0.bin
+Version: GuC API/APB ver 70.0.0 for Geminilake
+
+File: i915/glk_guc_70.0.2.bin
+Version: GuC API/APB ver 70.0.2 for Geminilake
+
+File: i915/glk_guc_70.0.5.bin
+Version: GuC API/APB ver 70.0.5 for Geminilake
+
+File: i915/glk_guc_70.0.7.bin
+Version: GuC API/APB ver 70.0.7 for Geminilake
+
+File: i915/glk_guc_70.1.0.bin
+Version: GuC API/APB ver 70.1.0 for Geminilake
+
 File: i915/glk_guc_70.1.1.bin
 Version: GuC API/APB ver 70.1.1 for Geminilake
+
+File: i915/glk_guc_70.1.2.bin
+Version: GuC API/APB ver 70.1.2 for Geminilake
+
+File: i915/glk_guc_70.1.4.bin
+Version: GuC API/APB ver 70.1.4 for Geminilake
+
+File: i915/glk_guc_70.2.0.bin
+Version: GuC API/APB ver 70.2.0 for Geminilake
+
+File: i915/glk_guc_70.2.1.bin
+Version: GuC API/APB ver 70.2.1 for Geminilake
+
+File: i915/glk_guc_70.2.2.bin
+Version: GuC API/APB ver 70.2.2 for Geminilake
+
+File: i915/glk_guc_70.3.0.bin
+Version: GuC API/APB ver 70.3.0 for Geminilake
+
+File: i915/glk_guc_70.4.0.bin
+Version: GuC API/APB ver 70.4.0 for Geminilake
+
+File: i915/glk_guc_70.4.1.bin
+Version: GuC API/APB ver 70.4.1 for Geminilake
+
+File: i915/glk_guc_70.4.4.bin
+Version: GuC API/APB ver 70.4.4 for Geminilake
+
+File: i915/glk_guc_70.5.0.bin
+Version: GuC API/APB ver 70.5.0 for Geminilake
+
+File: i915/glk_guc_70.5.1.bin
+Version: GuC API/APB ver 70.5.1 for Geminilake
+
+File: i915/glk_guc_70.5.2.bin
+Version: GuC API/APB ver 70.5.2 for Geminilake
+
+File: i915/glk_guc_70.5.3.bin
+Version: GuC API/APB ver 70.5.3 for Geminilake
+
+File: i915/glk_guc_70.5.4.bin
+Version: GuC API/APB ver 70.5.4 for Geminilake
+
+File: i915/glk_guc_70.6.0.bin
+Version: GuC API/APB ver 70.6.0 for Geminilake
+
+File: i915/glk_guc_70.6.1.bin
+Version: GuC API/APB ver 70.6.1 for Geminilake
+
+File: i915/glk_guc_70.6.2.bin
+Version: GuC API/APB ver 70.6.2 for Geminilake
+
+File: i915/glk_guc_70.6.3.bin
+Version: GuC API/APB ver 70.6.3 for Geminilake
+
+File: i915/glk_guc_70.6.4.bin
+Version: GuC API/APB ver 70.6.4 for Geminilake
+
+File: i915/glk_guc_70.6.5.bin
+Version: GuC API/APB ver 70.6.5 for Geminilake
+
+File: i915/glk_guc_70.6.6.bin
+Version: GuC API/APB ver 70.6.6 for Geminilake
+
+File: i915/glk_guc_70.6.7.bin
+Version: GuC API/APB ver 70.6.7 for Geminilake
+
+File: i915/glk_guc_70.6.8.bin
+Version: GuC API/APB ver 70.6.8 for Geminilake
+
+File: i915/glk_guc_70.7.0.bin
+Version: GuC API/APB ver 70.7.0 for Geminilake
+
+File: i915/glk_guc_70.8.0.bin
+Version: GuC API/APB ver 70.8.0 for Geminilake
+
+File: i915/glk_guc_70.8.1.bin
+Version: GuC API/APB ver 70.8.1 for Geminilake
+
+File: i915/glk_guc_70.9.0.bin
+Version: GuC API/APB ver 70.9.0 for Geminilake
+
+File: i915/glk_guc_70.9.1.bin
+Version: GuC API/APB ver 70.9.1 for Geminilake
+
+File: i915/glk_guc_70.10.0.bin
+Version: GuC API/APB ver 70.10.0 for Geminilake
+
+File: i915/glk_guc_70.11.0.bin
+Version: GuC API/APB ver 70.11.0 for Geminilake
+
+File: i915/glk_guc_70.12.0.bin
+Version: GuC API/APB ver 70.12.0 for Geminilake
+
+File: i915/glk_guc_70.12.1.bin
+Version: GuC API/APB ver 70.12.1 for Geminilake
+
+File: i915/glk_guc_70.13.0.bin
+Version: GuC API/APB ver 70.13.0 for Geminilake
+
+File: i915/glk_guc_70.13.1.bin
+Version: GuC API/APB ver 70.13.1 for Geminilake
+
+File: i915/glk_guc_70.14.0.bin
+Version: GuC API/APB ver 70.14.0 for Geminilake
+
+File: i915/glk_guc_70.14.1.bin
+Version: GuC API/APB ver 70.14.1 for Geminilake
+
+File: i915/glk_guc_70.15.0.bin
+Version: GuC API/APB ver 70.15.0 for Geminilake
+
+File: i915/glk_guc_70.15.1.bin
+Version: GuC API/APB ver 70.15.1 for Geminilake
+
+File: i915/glk_guc_70.16.0.bin
+Version: GuC API/APB ver 70.16.0 for Geminilake
+
+File: i915/glk_guc_70.16.1.bin
+Version: GuC API/APB ver 70.16.1 for Geminilake
+
+File: i915/glk_guc_70.16.2.bin
+Version: GuC API/APB ver 70.16.2 for Geminilake
+
+File: i915/glk_guc_70.17.0.bin
+Version: GuC API/APB ver 70.17.0 for Geminilake
+
+File: i915/glk_guc_70.18.0.bin
+Version: GuC API/APB ver 70.18.0 for Geminilake
+
+File: i915/glk_guc_70.19.0.bin
+Version: GuC API/APB ver 70.19.0 for Geminilake
+
+File: i915/glk_guc_70.19.1.bin
+Version: GuC API/APB ver 70.19.1 for Geminilake
+
+File: i915/glk_guc_70.19.2.bin
+Version: GuC API/APB ver 70.19.2 for Geminilake
+
+File: i915/glk_guc_70.20.0.bin
+Version: GuC API/APB ver 70.20.0 for Geminilake
+
+File: i915/glk_guc_70.20.1.bin
+Version: GuC API/APB ver 70.20.1 for Geminilake
+
+File: i915/glk_guc_70.20.2.bin
+Version: GuC API/APB ver 70.20.2 for Geminilake
+
+File: i915/glk_guc_70.21.0.bin
+Version: GuC API/APB ver 70.21.0 for Geminilake
+
+File: i915/glk_guc_70.21.1.bin
+Version: GuC API/APB ver 70.21.1 for Geminilake
+
+File: i915/glk_guc_70.21.2.bin
+Version: GuC API/APB ver 70.21.2 for Geminilake
+
+File: i915/glk_guc_70.22.0.bin
+Version: GuC API/APB ver 70.22.0 for Geminilake
+
+File: i915/glk_guc_70.23.0.bin
+Version: GuC API/APB ver 70.23.0 for Geminilake
+
+File: i915/glk_guc_70.23.1.bin
+Version: GuC API/APB ver 70.23.1 for Geminilake
+
+File: i915/glk_guc_70.24.0.bin
+Version: GuC API/APB ver 70.24.0 for Geminilake
+
+File: i915/glk_guc_70.25.0.bin
+Version: GuC API/APB ver 70.25.0 for Geminilake
+
+File: i915/glk_guc_70.25.1.bin
+Version: GuC API/APB ver 70.25.1 for Geminilake
+
+File: i915/glk_guc_70.26.0.bin
+Version: GuC API/APB ver 70.26.0 for Geminilake
+
+File: i915/glk_guc_70.26.1.bin
+Version: GuC API/APB ver 70.26.1 for Geminilake
+
+File: i915/glk_guc_70.26.2.bin
+Version: GuC API/APB ver 70.26.2 for Geminilake
+
+File: i915/glk_guc_70.26.3.bin
+Version: GuC API/APB ver 70.26.3 for Geminilake
+
+File: i915/glk_guc_70.26.4.bin
+Version: GuC API/APB ver 70.26.4 for Geminilake
+
+File: i915/glk_guc_70.26.5.bin
+Version: GuC API/APB ver 70.26.5 for Geminilake
+
+File: i915/glk_guc_70.27.0.bin
+Version: GuC API/APB ver 70.27.0 for Geminilake
+
+File: i915/glk_guc_70.28.0.bin
+Version: GuC API/APB ver 70.28.0 for Geminilake
+
+File: i915/glk_guc_70.29.0.bin
+Version: GuC API/APB ver 70.29.0 for Geminilake
+
+File: i915/glk_guc_70.29.1.bin
+Version: GuC API/APB ver 70.29.1 for Geminilake
+
+File: i915/glk_guc_70.29.2.bin
+Version: GuC API/APB ver 70.29.2 for Geminilake
+
+File: i915/glk_guc_70.30.0.bin
+Version: GuC API/APB ver 70.30.0 for Geminilake
+
+File: i915/glk_guc_70.31.0.bin
+Version: GuC API/APB ver 70.31.0 for Geminilake
+
+File: i915/glk_guc_70.32.0.bin
+Version: GuC API/APB ver 70.32.0 for Geminilake
+
+File: i915/glk_guc_70.33.0.bin
+Version: GuC API/APB ver 70.33.0 for Geminilake
+
+File: i915/glk_guc_70.33.1.bin
+Version: GuC API/APB ver 70.33.1 for Geminilake
+
+File: i915/glk_guc_70.33.2.bin
+Version: GuC API/APB ver 70.33.2 for Geminilake
+
+File: i915/glk_guc_70.34.0.bin
+Version: GuC API/APB ver 70.34.0 for Geminilake
+
+File: i915/glk_guc_70.34.1.bin
+Version: GuC API/APB ver 70.34.1 for Geminilake
+
+File: i915/glk_guc_70.35.0.bin
+Version: GuC API/APB ver 70.35.0 for Geminilake
+
+File: i915/glk_guc_70.35.1.bin
+Version: GuC API/APB ver 70.35.1 for Geminilake
+
+File: i915/glk_guc_70.36.0.bin
+Version: GuC API/APB ver 70.36.0 for Geminilake
+
+File: i915/glk_guc_70.37.0.bin
+Version: GuC API/APB ver 70.37.0 for Geminilake
+
+File: i915/glk_guc_70.37.1.bin
+Version: GuC API/APB ver 70.37.1 for Geminilake
+
+File: i915/glk_guc_70.38.0.bin
+Version: GuC API/APB ver 70.38.0 for Geminilake
+
+File: i915/glk_guc_70.38.1.bin
+Version: GuC API/APB ver 70.38.1 for Geminilake
+
+File: i915/glk_guc_70.39.0.bin
+Version: GuC API/APB ver 70.39.0 for Geminilake
+
+File: i915/glk_guc_70.40.0.bin
+Version: GuC API/APB ver 70.40.0 for Geminilake
+
+File: i915/glk_guc_70.40.1.bin
+Version: GuC API/APB ver 70.40.1 for Geminilake
+
+File: i915/glk_guc_70.40.2.bin
+Version: GuC API/APB ver 70.40.2 for Geminilake
+
+File: i915/glk_guc_70.41.0.bin
+Version: GuC API/APB ver 70.41.0 for Geminilake
+
+File: i915/glk_guc_70.42.0.bin
+Version: GuC API/APB ver 70.42.0 for Geminilake
+
+File: i915/glk_guc_70.43.0.bin
+Version: GuC API/APB ver 70.43.0 for Geminilake
+
+File: i915/glk_guc_70.44.0.bin
+Version: GuC API/APB ver 70.44.0 for Geminilake
+
+File: i915/glk_guc_70.44.1.bin
+Version: GuC API/APB ver 70.44.1 for Geminilake
 
 File: i915/glk_huc_ver03_01_2893.bin
 Version: Huc API/APB ver 3 release 1 for Geminilake
@@ -5214,11 +6819,332 @@ Version: Guc API/APB ver 49 release 0 for Icelake
 File: i915/icl_guc_62.0.0.bin
 Version: GuC API/APB ver 62.0.0 for Icelake
 
+File: i915/icl_guc_64.1.0.bin
+Version: GuC API/APB ver 64.1.0 for Icelake
+
+File: i915/icl_guc_65.0.0.bin
+Version: GuC API/APB ver 65.0.0 for Icelake
+
+File: i915/icl_guc_65.3.0.bin
+Version: GuC API/APB ver 65.3.0 for Icelake
+
+File: i915/icl_guc_66.0.0.bin
+Version: GuC API/APB ver 66.0.0 for Icelake
+
+File: i915/icl_guc_67.0.0.bin
+Version: GuC API/APB ver 67.0.0 for Icelake
+
+File: i915/icl_guc_68.0.0.bin
+Version: GuC API/APB ver 68.0.0 for Icelake
+
+File: i915/icl_guc_68.0.1.bin
+Version: GuC API/APB ver 68.0.1 for Icelake
+
+File: i915/icl_guc_68.0.2.bin
+Version: GuC API/APB ver 68.0.2 for Icelake
+
+File: i915/icl_guc_69.0.0.bin
+Version: GuC API/APB ver 69.0.0 for Icelake
+
 File: i915/icl_guc_69.0.3.bin
 Version: GuC API/APB ver 69.0.3 for Icelake
 
+File: i915/icl_guc_70.0.0.bin
+Version: GuC API/APB ver 70.0.0 for Icelake
+
+File: i915/icl_guc_70.0.2.bin
+Version: GuC API/APB ver 70.0.2 for Icelake
+
+File: i915/icl_guc_70.0.5.bin
+Version: GuC API/APB ver 70.0.5 for Icelake
+
+File: i915/icl_guc_70.0.7.bin
+Version: GuC API/APB ver 70.0.7 for Icelake
+
+File: i915/icl_guc_70.1.0.bin
+Version: GuC API/APB ver 70.1.0 for Icelake
+
 File: i915/icl_guc_70.1.1.bin
 Version: GuC API/APB ver 70.1.1 for Icelake
+
+File: i915/icl_guc_70.1.2.bin
+Version: GuC API/APB ver 70.1.2 for Icelake
+
+File: i915/icl_guc_70.1.4.bin
+Version: GuC API/APB ver 70.1.4 for Icelake
+
+File: i915/icl_guc_70.2.0.bin
+Version: GuC API/APB ver 70.2.0 for Icelake
+
+File: i915/icl_guc_70.2.1.bin
+Version: GuC API/APB ver 70.2.1 for Icelake
+
+File: i915/icl_guc_70.2.2.bin
+Version: GuC API/APB ver 70.2.2 for Icelake
+
+File: i915/icl_guc_70.3.0.bin
+Version: GuC API/APB ver 70.3.0 for Icelake
+
+File: i915/icl_guc_70.4.0.bin
+Version: GuC API/APB ver 70.4.0 for Icelake
+
+File: i915/icl_guc_70.4.1.bin
+Version: GuC API/APB ver 70.4.1 for Icelake
+
+File: i915/icl_guc_70.4.4.bin
+Version: GuC API/APB ver 70.4.4 for Icelake
+
+File: i915/icl_guc_70.5.0.bin
+Version: GuC API/APB ver 70.5.0 for Icelake
+
+File: i915/icl_guc_70.5.1.bin
+Version: GuC API/APB ver 70.5.1 for Icelake
+
+File: i915/icl_guc_70.5.2.bin
+Version: GuC API/APB ver 70.5.2 for Icelake
+
+File: i915/icl_guc_70.5.3.bin
+Version: GuC API/APB ver 70.5.3 for Icelake
+
+File: i915/icl_guc_70.5.4.bin
+Version: GuC API/APB ver 70.5.4 for Icelake
+
+File: i915/icl_guc_70.6.0.bin
+Version: GuC API/APB ver 70.6.0 for Icelake
+
+File: i915/icl_guc_70.6.1.bin
+Version: GuC API/APB ver 70.6.1 for Icelake
+
+File: i915/icl_guc_70.6.2.bin
+Version: GuC API/APB ver 70.6.2 for Icelake
+
+File: i915/icl_guc_70.6.3.bin
+Version: GuC API/APB ver 70.6.3 for Icelake
+
+File: i915/icl_guc_70.6.4.bin
+Version: GuC API/APB ver 70.6.4 for Icelake
+
+File: i915/icl_guc_70.6.5.bin
+Version: GuC API/APB ver 70.6.5 for Icelake
+
+File: i915/icl_guc_70.6.6.bin
+Version: GuC API/APB ver 70.6.6 for Icelake
+
+File: i915/icl_guc_70.6.7.bin
+Version: GuC API/APB ver 70.6.7 for Icelake
+
+File: i915/icl_guc_70.6.8.bin
+Version: GuC API/APB ver 70.6.8 for Icelake
+
+File: i915/icl_guc_70.7.0.bin
+Version: GuC API/APB ver 70.7.0 for Icelake
+
+File: i915/icl_guc_70.8.0.bin
+Version: GuC API/APB ver 70.8.0 for Icelake
+
+File: i915/icl_guc_70.8.1.bin
+Version: GuC API/APB ver 70.8.1 for Icelake
+
+File: i915/icl_guc_70.9.0.bin
+Version: GuC API/APB ver 70.9.0 for Icelake
+
+File: i915/icl_guc_70.9.1.bin
+Version: GuC API/APB ver 70.9.1 for Icelake
+
+File: i915/icl_guc_70.10.0.bin
+Version: GuC API/APB ver 70.10.0 for Icelake
+
+File: i915/icl_guc_70.11.0.bin
+Version: GuC API/APB ver 70.11.0 for Icelake
+
+File: i915/icl_guc_70.12.0.bin
+Version: GuC API/APB ver 70.12.0 for Icelake
+
+File: i915/icl_guc_70.12.1.bin
+Version: GuC API/APB ver 70.12.1 for Icelake
+
+File: i915/icl_guc_70.13.0.bin
+Version: GuC API/APB ver 70.13.0 for Icelake
+
+File: i915/icl_guc_70.13.1.bin
+Version: GuC API/APB ver 70.13.1 for Icelake
+
+File: i915/icl_guc_70.14.0.bin
+Version: GuC API/APB ver 70.14.0 for Icelake
+
+File: i915/icl_guc_70.14.1.bin
+Version: GuC API/APB ver 70.14.1 for Icelake
+
+File: i915/icl_guc_70.15.0.bin
+Version: GuC API/APB ver 70.15.0 for Icelake
+
+File: i915/icl_guc_70.15.1.bin
+Version: GuC API/APB ver 70.15.1 for Icelake
+
+File: i915/icl_guc_70.16.0.bin
+Version: GuC API/APB ver 70.16.0 for Icelake
+
+File: i915/icl_guc_70.16.1.bin
+Version: GuC API/APB ver 70.16.1 for Icelake
+
+File: i915/icl_guc_70.16.2.bin
+Version: GuC API/APB ver 70.16.2 for Icelake
+
+File: i915/icl_guc_70.17.0.bin
+Version: GuC API/APB ver 70.17.0 for Icelake
+
+File: i915/icl_guc_70.18.0.bin
+Version: GuC API/APB ver 70.18.0 for Icelake
+
+File: i915/icl_guc_70.19.0.bin
+Version: GuC API/APB ver 70.19.0 for Icelake
+
+File: i915/icl_guc_70.19.1.bin
+Version: GuC API/APB ver 70.19.1 for Icelake
+
+File: i915/icl_guc_70.19.2.bin
+Version: GuC API/APB ver 70.19.2 for Icelake
+
+File: i915/icl_guc_70.20.0.bin
+Version: GuC API/APB ver 70.20.0 for Icelake
+
+File: i915/icl_guc_70.20.1.bin
+Version: GuC API/APB ver 70.20.1 for Icelake
+
+File: i915/icl_guc_70.20.2.bin
+Version: GuC API/APB ver 70.20.2 for Icelake
+
+File: i915/icl_guc_70.21.0.bin
+Version: GuC API/APB ver 70.21.0 for Icelake
+
+File: i915/icl_guc_70.21.1.bin
+Version: GuC API/APB ver 70.21.1 for Icelake
+
+File: i915/icl_guc_70.21.2.bin
+Version: GuC API/APB ver 70.21.2 for Icelake
+
+File: i915/icl_guc_70.22.0.bin
+Version: GuC API/APB ver 70.22.0 for Icelake
+
+File: i915/icl_guc_70.23.0.bin
+Version: GuC API/APB ver 70.23.0 for Icelake
+
+File: i915/icl_guc_70.23.1.bin
+Version: GuC API/APB ver 70.23.1 for Icelake
+
+File: i915/icl_guc_70.24.0.bin
+Version: GuC API/APB ver 70.24.0 for Icelake
+
+File: i915/icl_guc_70.25.0.bin
+Version: GuC API/APB ver 70.25.0 for Icelake
+
+File: i915/icl_guc_70.25.1.bin
+Version: GuC API/APB ver 70.25.1 for Icelake
+
+File: i915/icl_guc_70.26.0.bin
+Version: GuC API/APB ver 70.26.0 for Icelake
+
+File: i915/icl_guc_70.26.1.bin
+Version: GuC API/APB ver 70.26.1 for Icelake
+
+File: i915/icl_guc_70.26.2.bin
+Version: GuC API/APB ver 70.26.2 for Icelake
+
+File: i915/icl_guc_70.26.3.bin
+Version: GuC API/APB ver 70.26.3 for Icelake
+
+File: i915/icl_guc_70.26.4.bin
+Version: GuC API/APB ver 70.26.4 for Icelake
+
+File: i915/icl_guc_70.26.5.bin
+Version: GuC API/APB ver 70.26.5 for Icelake
+
+File: i915/icl_guc_70.27.0.bin
+Version: GuC API/APB ver 70.27.0 for Icelake
+
+File: i915/icl_guc_70.28.0.bin
+Version: GuC API/APB ver 70.28.0 for Icelake
+
+File: i915/icl_guc_70.29.0.bin
+Version: GuC API/APB ver 70.29.0 for Icelake
+
+File: i915/icl_guc_70.29.1.bin
+Version: GuC API/APB ver 70.29.1 for Icelake
+
+File: i915/icl_guc_70.29.2.bin
+Version: GuC API/APB ver 70.29.2 for Icelake
+
+File: i915/icl_guc_70.30.0.bin
+Version: GuC API/APB ver 70.30.0 for Icelake
+
+File: i915/icl_guc_70.31.0.bin
+Version: GuC API/APB ver 70.31.0 for Icelake
+
+File: i915/icl_guc_70.32.0.bin
+Version: GuC API/APB ver 70.32.0 for Icelake
+
+File: i915/icl_guc_70.33.0.bin
+Version: GuC API/APB ver 70.33.0 for Icelake
+
+File: i915/icl_guc_70.33.1.bin
+Version: GuC API/APB ver 70.33.1 for Icelake
+
+File: i915/icl_guc_70.33.2.bin
+Version: GuC API/APB ver 70.33.2 for Icelake
+
+File: i915/icl_guc_70.34.0.bin
+Version: GuC API/APB ver 70.34.0 for Icelake
+
+File: i915/icl_guc_70.34.1.bin
+Version: GuC API/APB ver 70.34.1 for Icelake
+
+File: i915/icl_guc_70.35.0.bin
+Version: GuC API/APB ver 70.35.0 for Icelake
+
+File: i915/icl_guc_70.35.1.bin
+Version: GuC API/APB ver 70.35.1 for Icelake
+
+File: i915/icl_guc_70.36.0.bin
+Version: GuC API/APB ver 70.36.0 for Icelake
+
+File: i915/icl_guc_70.37.0.bin
+Version: GuC API/APB ver 70.37.0 for Icelake
+
+File: i915/icl_guc_70.37.1.bin
+Version: GuC API/APB ver 70.37.1 for Icelake
+
+File: i915/icl_guc_70.38.0.bin
+Version: GuC API/APB ver 70.38.0 for Icelake
+
+File: i915/icl_guc_70.38.1.bin
+Version: GuC API/APB ver 70.38.1 for Icelake
+
+File: i915/icl_guc_70.39.0.bin
+Version: GuC API/APB ver 70.39.0 for Icelake
+
+File: i915/icl_guc_70.40.0.bin
+Version: GuC API/APB ver 70.40.0 for Icelake
+
+File: i915/icl_guc_70.40.1.bin
+Version: GuC API/APB ver 70.40.1 for Icelake
+
+File: i915/icl_guc_70.40.2.bin
+Version: GuC API/APB ver 70.40.2 for Icelake
+
+File: i915/icl_guc_70.41.0.bin
+Version: GuC API/APB ver 70.41.0 for Icelake
+
+File: i915/icl_guc_70.42.0.bin
+Version: GuC API/APB ver 70.42.0 for Icelake
+
+File: i915/icl_guc_70.43.0.bin
+Version: GuC API/APB ver 70.43.0 for Icelake
+
+File: i915/icl_guc_70.44.0.bin
+Version: GuC API/APB ver 70.44.0 for Icelake
+
+File: i915/icl_guc_70.44.1.bin
+Version: GuC API/APB ver 70.44.1 for Icelake
 
 File: i915/icl_huc_ver8_4_3238.bin
 Version: Huc API/APB ver 8 release 4 for Icelake
@@ -5247,11 +7173,332 @@ Version: Guc API/APB ver 49 release 0 for Elkhartlake
 File: i915/ehl_guc_62.0.0.bin
 Version: GuC API/APB ver 62.0.0 for Elkhartlake
 
+File: i915/ehl_guc_64.1.0.bin
+Version: GuC API/APB ver 64.1.0 for Elkhartlake
+
+File: i915/ehl_guc_65.0.0.bin
+Version: GuC API/APB ver 65.0.0 for Elkhartlake
+
+File: i915/ehl_guc_65.3.0.bin
+Version: GuC API/APB ver 65.3.0 for Elkhartlake
+
+File: i915/ehl_guc_66.0.0.bin
+Version: GuC API/APB ver 66.0.0 for Elkhartlake
+
+File: i915/ehl_guc_67.0.0.bin
+Version: GuC API/APB ver 67.0.0 for Elkhartlake
+
+File: i915/ehl_guc_68.0.0.bin
+Version: GuC API/APB ver 68.0.0 for Elkhartlake
+
+File: i915/ehl_guc_68.0.1.bin
+Version: GuC API/APB ver 68.0.1 for Elkhartlake
+
+File: i915/ehl_guc_68.0.2.bin
+Version: GuC API/APB ver 68.0.2 for Elkhartlake
+
+File: i915/ehl_guc_69.0.0.bin
+Version: GuC API/APB ver 69.0.0 for Elkhartlake
+
 File: i915/ehl_guc_69.0.3.bin
 Version: GuC API/APB ver 69.0.3 for Elkhartlake
 
+File: i915/ehl_guc_70.0.0.bin
+Version: GuC API/APB ver 70.0.0 for Elkhartlake
+
+File: i915/ehl_guc_70.0.2.bin
+Version: GuC API/APB ver 70.0.2 for Elkhartlake
+
+File: i915/ehl_guc_70.0.5.bin
+Version: GuC API/APB ver 70.0.5 for Elkhartlake
+
+File: i915/ehl_guc_70.0.7.bin
+Version: GuC API/APB ver 70.0.7 for Elkhartlake
+
+File: i915/ehl_guc_70.1.0.bin
+Version: GuC API/APB ver 70.1.0 for Elkhartlake
+
 File: i915/ehl_guc_70.1.1.bin
 Version: GuC API/APB ver 70.1.1 for Elkhartlake
+
+File: i915/ehl_guc_70.1.2.bin
+Version: GuC API/APB ver 70.1.2 for Elkhartlake
+
+File: i915/ehl_guc_70.1.4.bin
+Version: GuC API/APB ver 70.1.4 for Elkhartlake
+
+File: i915/ehl_guc_70.2.0.bin
+Version: GuC API/APB ver 70.2.0 for Elkhartlake
+
+File: i915/ehl_guc_70.2.1.bin
+Version: GuC API/APB ver 70.2.1 for Elkhartlake
+
+File: i915/ehl_guc_70.2.2.bin
+Version: GuC API/APB ver 70.2.2 for Elkhartlake
+
+File: i915/ehl_guc_70.3.0.bin
+Version: GuC API/APB ver 70.3.0 for Elkhartlake
+
+File: i915/ehl_guc_70.4.0.bin
+Version: GuC API/APB ver 70.4.0 for Elkhartlake
+
+File: i915/ehl_guc_70.4.1.bin
+Version: GuC API/APB ver 70.4.1 for Elkhartlake
+
+File: i915/ehl_guc_70.4.4.bin
+Version: GuC API/APB ver 70.4.4 for Elkhartlake
+
+File: i915/ehl_guc_70.5.0.bin
+Version: GuC API/APB ver 70.5.0 for Elkhartlake
+
+File: i915/ehl_guc_70.5.1.bin
+Version: GuC API/APB ver 70.5.1 for Elkhartlake
+
+File: i915/ehl_guc_70.5.2.bin
+Version: GuC API/APB ver 70.5.2 for Elkhartlake
+
+File: i915/ehl_guc_70.5.3.bin
+Version: GuC API/APB ver 70.5.3 for Elkhartlake
+
+File: i915/ehl_guc_70.5.4.bin
+Version: GuC API/APB ver 70.5.4 for Elkhartlake
+
+File: i915/ehl_guc_70.6.0.bin
+Version: GuC API/APB ver 70.6.0 for Elkhartlake
+
+File: i915/ehl_guc_70.6.1.bin
+Version: GuC API/APB ver 70.6.1 for Elkhartlake
+
+File: i915/ehl_guc_70.6.2.bin
+Version: GuC API/APB ver 70.6.2 for Elkhartlake
+
+File: i915/ehl_guc_70.6.3.bin
+Version: GuC API/APB ver 70.6.3 for Elkhartlake
+
+File: i915/ehl_guc_70.6.4.bin
+Version: GuC API/APB ver 70.6.4 for Elkhartlake
+
+File: i915/ehl_guc_70.6.5.bin
+Version: GuC API/APB ver 70.6.5 for Elkhartlake
+
+File: i915/ehl_guc_70.6.6.bin
+Version: GuC API/APB ver 70.6.6 for Elkhartlake
+
+File: i915/ehl_guc_70.6.7.bin
+Version: GuC API/APB ver 70.6.7 for Elkhartlake
+
+File: i915/ehl_guc_70.6.8.bin
+Version: GuC API/APB ver 70.6.8 for Elkhartlake
+
+File: i915/ehl_guc_70.7.0.bin
+Version: GuC API/APB ver 70.7.0 for Elkhartlake
+
+File: i915/ehl_guc_70.8.0.bin
+Version: GuC API/APB ver 70.8.0 for Elkhartlake
+
+File: i915/ehl_guc_70.8.1.bin
+Version: GuC API/APB ver 70.8.1 for Elkhartlake
+
+File: i915/ehl_guc_70.9.0.bin
+Version: GuC API/APB ver 70.9.0 for Elkhartlake
+
+File: i915/ehl_guc_70.9.1.bin
+Version: GuC API/APB ver 70.9.1 for Elkhartlake
+
+File: i915/ehl_guc_70.10.0.bin
+Version: GuC API/APB ver 70.10.0 for Elkhartlake
+
+File: i915/ehl_guc_70.11.0.bin
+Version: GuC API/APB ver 70.11.0 for Elkhartlake
+
+File: i915/ehl_guc_70.12.0.bin
+Version: GuC API/APB ver 70.12.0 for Elkhartlake
+
+File: i915/ehl_guc_70.12.1.bin
+Version: GuC API/APB ver 70.12.1 for Elkhartlake
+
+File: i915/ehl_guc_70.13.0.bin
+Version: GuC API/APB ver 70.13.0 for Elkhartlake
+
+File: i915/ehl_guc_70.13.1.bin
+Version: GuC API/APB ver 70.13.1 for Elkhartlake
+
+File: i915/ehl_guc_70.14.0.bin
+Version: GuC API/APB ver 70.14.0 for Elkhartlake
+
+File: i915/ehl_guc_70.14.1.bin
+Version: GuC API/APB ver 70.14.1 for Elkhartlake
+
+File: i915/ehl_guc_70.15.0.bin
+Version: GuC API/APB ver 70.15.0 for Elkhartlake
+
+File: i915/ehl_guc_70.15.1.bin
+Version: GuC API/APB ver 70.15.1 for Elkhartlake
+
+File: i915/ehl_guc_70.16.0.bin
+Version: GuC API/APB ver 70.16.0 for Elkhartlake
+
+File: i915/ehl_guc_70.16.1.bin
+Version: GuC API/APB ver 70.16.1 for Elkhartlake
+
+File: i915/ehl_guc_70.16.2.bin
+Version: GuC API/APB ver 70.16.2 for Elkhartlake
+
+File: i915/ehl_guc_70.17.0.bin
+Version: GuC API/APB ver 70.17.0 for Elkhartlake
+
+File: i915/ehl_guc_70.18.0.bin
+Version: GuC API/APB ver 70.18.0 for Elkhartlake
+
+File: i915/ehl_guc_70.19.0.bin
+Version: GuC API/APB ver 70.19.0 for Elkhartlake
+
+File: i915/ehl_guc_70.19.1.bin
+Version: GuC API/APB ver 70.19.1 for Elkhartlake
+
+File: i915/ehl_guc_70.19.2.bin
+Version: GuC API/APB ver 70.19.2 for Elkhartlake
+
+File: i915/ehl_guc_70.20.0.bin
+Version: GuC API/APB ver 70.20.0 for Elkhartlake
+
+File: i915/ehl_guc_70.20.1.bin
+Version: GuC API/APB ver 70.20.1 for Elkhartlake
+
+File: i915/ehl_guc_70.20.2.bin
+Version: GuC API/APB ver 70.20.2 for Elkhartlake
+
+File: i915/ehl_guc_70.21.0.bin
+Version: GuC API/APB ver 70.21.0 for Elkhartlake
+
+File: i915/ehl_guc_70.21.1.bin
+Version: GuC API/APB ver 70.21.1 for Elkhartlake
+
+File: i915/ehl_guc_70.21.2.bin
+Version: GuC API/APB ver 70.21.2 for Elkhartlake
+
+File: i915/ehl_guc_70.22.0.bin
+Version: GuC API/APB ver 70.22.0 for Elkhartlake
+
+File: i915/ehl_guc_70.23.0.bin
+Version: GuC API/APB ver 70.23.0 for Elkhartlake
+
+File: i915/ehl_guc_70.23.1.bin
+Version: GuC API/APB ver 70.23.1 for Elkhartlake
+
+File: i915/ehl_guc_70.24.0.bin
+Version: GuC API/APB ver 70.24.0 for Elkhartlake
+
+File: i915/ehl_guc_70.25.0.bin
+Version: GuC API/APB ver 70.25.0 for Elkhartlake
+
+File: i915/ehl_guc_70.25.1.bin
+Version: GuC API/APB ver 70.25.1 for Elkhartlake
+
+File: i915/ehl_guc_70.26.0.bin
+Version: GuC API/APB ver 70.26.0 for Elkhartlake
+
+File: i915/ehl_guc_70.26.1.bin
+Version: GuC API/APB ver 70.26.1 for Elkhartlake
+
+File: i915/ehl_guc_70.26.2.bin
+Version: GuC API/APB ver 70.26.2 for Elkhartlake
+
+File: i915/ehl_guc_70.26.3.bin
+Version: GuC API/APB ver 70.26.3 for Elkhartlake
+
+File: i915/ehl_guc_70.26.4.bin
+Version: GuC API/APB ver 70.26.4 for Elkhartlake
+
+File: i915/ehl_guc_70.26.5.bin
+Version: GuC API/APB ver 70.26.5 for Elkhartlake
+
+File: i915/ehl_guc_70.27.0.bin
+Version: GuC API/APB ver 70.27.0 for Elkhartlake
+
+File: i915/ehl_guc_70.28.0.bin
+Version: GuC API/APB ver 70.28.0 for Elkhartlake
+
+File: i915/ehl_guc_70.29.0.bin
+Version: GuC API/APB ver 70.29.0 for Elkhartlake
+
+File: i915/ehl_guc_70.29.1.bin
+Version: GuC API/APB ver 70.29.1 for Elkhartlake
+
+File: i915/ehl_guc_70.29.2.bin
+Version: GuC API/APB ver 70.29.2 for Elkhartlake
+
+File: i915/ehl_guc_70.30.0.bin
+Version: GuC API/APB ver 70.30.0 for Elkhartlake
+
+File: i915/ehl_guc_70.31.0.bin
+Version: GuC API/APB ver 70.31.0 for Elkhartlake
+
+File: i915/ehl_guc_70.32.0.bin
+Version: GuC API/APB ver 70.32.0 for Elkhartlake
+
+File: i915/ehl_guc_70.33.0.bin
+Version: GuC API/APB ver 70.33.0 for Elkhartlake
+
+File: i915/ehl_guc_70.33.1.bin
+Version: GuC API/APB ver 70.33.1 for Elkhartlake
+
+File: i915/ehl_guc_70.33.2.bin
+Version: GuC API/APB ver 70.33.2 for Elkhartlake
+
+File: i915/ehl_guc_70.34.0.bin
+Version: GuC API/APB ver 70.34.0 for Elkhartlake
+
+File: i915/ehl_guc_70.34.1.bin
+Version: GuC API/APB ver 70.34.1 for Elkhartlake
+
+File: i915/ehl_guc_70.35.0.bin
+Version: GuC API/APB ver 70.35.0 for Elkhartlake
+
+File: i915/ehl_guc_70.35.1.bin
+Version: GuC API/APB ver 70.35.1 for Elkhartlake
+
+File: i915/ehl_guc_70.36.0.bin
+Version: GuC API/APB ver 70.36.0 for Elkhartlake
+
+File: i915/ehl_guc_70.37.0.bin
+Version: GuC API/APB ver 70.37.0 for Elkhartlake
+
+File: i915/ehl_guc_70.37.1.bin
+Version: GuC API/APB ver 70.37.1 for Elkhartlake
+
+File: i915/ehl_guc_70.38.0.bin
+Version: GuC API/APB ver 70.38.0 for Elkhartlake
+
+File: i915/ehl_guc_70.38.1.bin
+Version: GuC API/APB ver 70.38.1 for Elkhartlake
+
+File: i915/ehl_guc_70.39.0.bin
+Version: GuC API/APB ver 70.39.0 for Elkhartlake
+
+File: i915/ehl_guc_70.40.0.bin
+Version: GuC API/APB ver 70.40.0 for Elkhartlake
+
+File: i915/ehl_guc_70.40.1.bin
+Version: GuC API/APB ver 70.40.1 for Elkhartlake
+
+File: i915/ehl_guc_70.40.2.bin
+Version: GuC API/APB ver 70.40.2 for Elkhartlake
+
+File: i915/ehl_guc_70.41.0.bin
+Version: GuC API/APB ver 70.41.0 for Elkhartlake
+
+File: i915/ehl_guc_70.42.0.bin
+Version: GuC API/APB ver 70.42.0 for Elkhartlake
+
+File: i915/ehl_guc_70.43.0.bin
+Version: GuC API/APB ver 70.43.0 for Elkhartlake
+
+File: i915/ehl_guc_70.44.0.bin
+Version: GuC API/APB ver 70.44.0 for Elkhartlake
+
+File: i915/ehl_guc_70.44.1.bin
+Version: GuC API/APB ver 70.44.1 for Elkhartlake
 
 File: i915/ehl_huc_9.0.0.bin
 Version: Huc API/APB ver 9 release 0 for Elkhartlake
@@ -5265,11 +7512,332 @@ Version: Guc API/APB ver 49 release 0 for Tigerlake
 File: i915/tgl_guc_62.0.0.bin
 Version: GuC API/APB ver 62.0.0 for Tigerlake
 
+File: i915/tgl_guc_64.1.0.bin
+Version: GuC API/APB ver 64.1.0 for Tigerlake
+
+File: i915/tgl_guc_65.0.0.bin
+Version: GuC API/APB ver 65.0.0 for Tigerlake
+
+File: i915/tgl_guc_65.3.0.bin
+Version: GuC API/APB ver 65.3.0 for Tigerlake
+
+File: i915/tgl_guc_66.0.0.bin
+Version: GuC API/APB ver 66.0.0 for Tigerlake
+
+File: i915/tgl_guc_67.0.0.bin
+Version: GuC API/APB ver 67.0.0 for Tigerlake
+
+File: i915/tgl_guc_68.0.0.bin
+Version: GuC API/APB ver 68.0.0 for Tigerlake
+
+File: i915/tgl_guc_68.0.1.bin
+Version: GuC API/APB ver 68.0.1 for Tigerlake
+
+File: i915/tgl_guc_68.0.2.bin
+Version: GuC API/APB ver 68.0.2 for Tigerlake
+
+File: i915/tgl_guc_69.0.0.bin
+Version: GuC API/APB ver 69.0.0 for Tigerlake
+
 File: i915/tgl_guc_69.0.3.bin
 Version: GuC API/APB ver 69.0.3 for Tigerlake
 
+File: i915/tgl_guc_70.0.0.bin
+Version: GuC API/APB ver 70.0.0 for Tigerlake
+
+File: i915/tgl_guc_70.0.2.bin
+Version: GuC API/APB ver 70.0.2 for Tigerlake
+
+File: i915/tgl_guc_70.0.5.bin
+Version: GuC API/APB ver 70.0.5 for Tigerlake
+
+File: i915/tgl_guc_70.0.7.bin
+Version: GuC API/APB ver 70.0.7 for Tigerlake
+
+File: i915/tgl_guc_70.1.0.bin
+Version: GuC API/APB ver 70.1.0 for Tigerlake
+
 File: i915/tgl_guc_70.1.1.bin
 Version: GuC API/APB ver 70.1.1 for Tigerlake
+
+File: i915/tgl_guc_70.1.2.bin
+Version: GuC API/APB ver 70.1.2 for Tigerlake
+
+File: i915/tgl_guc_70.1.4.bin
+Version: GuC API/APB ver 70.1.4 for Tigerlake
+
+File: i915/tgl_guc_70.2.0.bin
+Version: GuC API/APB ver 70.2.0 for Tigerlake
+
+File: i915/tgl_guc_70.2.1.bin
+Version: GuC API/APB ver 70.2.1 for Tigerlake
+
+File: i915/tgl_guc_70.2.2.bin
+Version: GuC API/APB ver 70.2.2 for Tigerlake
+
+File: i915/tgl_guc_70.3.0.bin
+Version: GuC API/APB ver 70.3.0 for Tigerlake
+
+File: i915/tgl_guc_70.4.0.bin
+Version: GuC API/APB ver 70.4.0 for Tigerlake
+
+File: i915/tgl_guc_70.4.1.bin
+Version: GuC API/APB ver 70.4.1 for Tigerlake
+
+File: i915/tgl_guc_70.4.4.bin
+Version: GuC API/APB ver 70.4.4 for Tigerlake
+
+File: i915/tgl_guc_70.5.0.bin
+Version: GuC API/APB ver 70.5.0 for Tigerlake
+
+File: i915/tgl_guc_70.5.1.bin
+Version: GuC API/APB ver 70.5.1 for Tigerlake
+
+File: i915/tgl_guc_70.5.2.bin
+Version: GuC API/APB ver 70.5.2 for Tigerlake
+
+File: i915/tgl_guc_70.5.3.bin
+Version: GuC API/APB ver 70.5.3 for Tigerlake
+
+File: i915/tgl_guc_70.5.4.bin
+Version: GuC API/APB ver 70.5.4 for Tigerlake
+
+File: i915/tgl_guc_70.6.0.bin
+Version: GuC API/APB ver 70.6.0 for Tigerlake
+
+File: i915/tgl_guc_70.6.1.bin
+Version: GuC API/APB ver 70.6.1 for Tigerlake
+
+File: i915/tgl_guc_70.6.2.bin
+Version: GuC API/APB ver 70.6.2 for Tigerlake
+
+File: i915/tgl_guc_70.6.3.bin
+Version: GuC API/APB ver 70.6.3 for Tigerlake
+
+File: i915/tgl_guc_70.6.4.bin
+Version: GuC API/APB ver 70.6.4 for Tigerlake
+
+File: i915/tgl_guc_70.6.5.bin
+Version: GuC API/APB ver 70.6.5 for Tigerlake
+
+File: i915/tgl_guc_70.6.6.bin
+Version: GuC API/APB ver 70.6.6 for Tigerlake
+
+File: i915/tgl_guc_70.6.7.bin
+Version: GuC API/APB ver 70.6.7 for Tigerlake
+
+File: i915/tgl_guc_70.6.8.bin
+Version: GuC API/APB ver 70.6.8 for Tigerlake
+
+File: i915/tgl_guc_70.7.0.bin
+Version: GuC API/APB ver 70.7.0 for Tigerlake
+
+File: i915/tgl_guc_70.8.0.bin
+Version: GuC API/APB ver 70.8.0 for Tigerlake
+
+File: i915/tgl_guc_70.8.1.bin
+Version: GuC API/APB ver 70.8.1 for Tigerlake
+
+File: i915/tgl_guc_70.9.0.bin
+Version: GuC API/APB ver 70.9.0 for Tigerlake
+
+File: i915/tgl_guc_70.9.1.bin
+Version: GuC API/APB ver 70.9.1 for Tigerlake
+
+File: i915/tgl_guc_70.10.0.bin
+Version: GuC API/APB ver 70.10.0 for Tigerlake
+
+File: i915/tgl_guc_70.11.0.bin
+Version: GuC API/APB ver 70.11.0 for Tigerlake
+
+File: i915/tgl_guc_70.12.0.bin
+Version: GuC API/APB ver 70.12.0 for Tigerlake
+
+File: i915/tgl_guc_70.12.1.bin
+Version: GuC API/APB ver 70.12.1 for Tigerlake
+
+File: i915/tgl_guc_70.13.0.bin
+Version: GuC API/APB ver 70.13.0 for Tigerlake
+
+File: i915/tgl_guc_70.13.1.bin
+Version: GuC API/APB ver 70.13.1 for Tigerlake
+
+File: i915/tgl_guc_70.14.0.bin
+Version: GuC API/APB ver 70.14.0 for Tigerlake
+
+File: i915/tgl_guc_70.14.1.bin
+Version: GuC API/APB ver 70.14.1 for Tigerlake
+
+File: i915/tgl_guc_70.15.0.bin
+Version: GuC API/APB ver 70.15.0 for Tigerlake
+
+File: i915/tgl_guc_70.15.1.bin
+Version: GuC API/APB ver 70.15.1 for Tigerlake
+
+File: i915/tgl_guc_70.16.0.bin
+Version: GuC API/APB ver 70.16.0 for Tigerlake
+
+File: i915/tgl_guc_70.16.1.bin
+Version: GuC API/APB ver 70.16.1 for Tigerlake
+
+File: i915/tgl_guc_70.16.2.bin
+Version: GuC API/APB ver 70.16.2 for Tigerlake
+
+File: i915/tgl_guc_70.17.0.bin
+Version: GuC API/APB ver 70.17.0 for Tigerlake
+
+File: i915/tgl_guc_70.18.0.bin
+Version: GuC API/APB ver 70.18.0 for Tigerlake
+
+File: i915/tgl_guc_70.19.0.bin
+Version: GuC API/APB ver 70.19.0 for Tigerlake
+
+File: i915/tgl_guc_70.19.1.bin
+Version: GuC API/APB ver 70.19.1 for Tigerlake
+
+File: i915/tgl_guc_70.19.2.bin
+Version: GuC API/APB ver 70.19.2 for Tigerlake
+
+File: i915/tgl_guc_70.20.0.bin
+Version: GuC API/APB ver 70.20.0 for Tigerlake
+
+File: i915/tgl_guc_70.20.1.bin
+Version: GuC API/APB ver 70.20.1 for Tigerlake
+
+File: i915/tgl_guc_70.20.2.bin
+Version: GuC API/APB ver 70.20.2 for Tigerlake
+
+File: i915/tgl_guc_70.21.0.bin
+Version: GuC API/APB ver 70.21.0 for Tigerlake
+
+File: i915/tgl_guc_70.21.1.bin
+Version: GuC API/APB ver 70.21.1 for Tigerlake
+
+File: i915/tgl_guc_70.21.2.bin
+Version: GuC API/APB ver 70.21.2 for Tigerlake
+
+File: i915/tgl_guc_70.22.0.bin
+Version: GuC API/APB ver 70.22.0 for Tigerlake
+
+File: i915/tgl_guc_70.23.0.bin
+Version: GuC API/APB ver 70.23.0 for Tigerlake
+
+File: i915/tgl_guc_70.23.1.bin
+Version: GuC API/APB ver 70.23.1 for Tigerlake
+
+File: i915/tgl_guc_70.24.0.bin
+Version: GuC API/APB ver 70.24.0 for Tigerlake
+
+File: i915/tgl_guc_70.25.0.bin
+Version: GuC API/APB ver 70.25.0 for Tigerlake
+
+File: i915/tgl_guc_70.25.1.bin
+Version: GuC API/APB ver 70.25.1 for Tigerlake
+
+File: i915/tgl_guc_70.26.0.bin
+Version: GuC API/APB ver 70.26.0 for Tigerlake
+
+File: i915/tgl_guc_70.26.1.bin
+Version: GuC API/APB ver 70.26.1 for Tigerlake
+
+File: i915/tgl_guc_70.26.2.bin
+Version: GuC API/APB ver 70.26.2 for Tigerlake
+
+File: i915/tgl_guc_70.26.3.bin
+Version: GuC API/APB ver 70.26.3 for Tigerlake
+
+File: i915/tgl_guc_70.26.4.bin
+Version: GuC API/APB ver 70.26.4 for Tigerlake
+
+File: i915/tgl_guc_70.26.5.bin
+Version: GuC API/APB ver 70.26.5 for Tigerlake
+
+File: i915/tgl_guc_70.27.0.bin
+Version: GuC API/APB ver 70.27.0 for Tigerlake
+
+File: i915/tgl_guc_70.28.0.bin
+Version: GuC API/APB ver 70.28.0 for Tigerlake
+
+File: i915/tgl_guc_70.29.0.bin
+Version: GuC API/APB ver 70.29.0 for Tigerlake
+
+File: i915/tgl_guc_70.29.1.bin
+Version: GuC API/APB ver 70.29.1 for Tigerlake
+
+File: i915/tgl_guc_70.29.2.bin
+Version: GuC API/APB ver 70.29.2 for Tigerlake
+
+File: i915/tgl_guc_70.30.0.bin
+Version: GuC API/APB ver 70.30.0 for Tigerlake
+
+File: i915/tgl_guc_70.31.0.bin
+Version: GuC API/APB ver 70.31.0 for Tigerlake
+
+File: i915/tgl_guc_70.32.0.bin
+Version: GuC API/APB ver 70.32.0 for Tigerlake
+
+File: i915/tgl_guc_70.33.0.bin
+Version: GuC API/APB ver 70.33.0 for Tigerlake
+
+File: i915/tgl_guc_70.33.1.bin
+Version: GuC API/APB ver 70.33.1 for Tigerlake
+
+File: i915/tgl_guc_70.33.2.bin
+Version: GuC API/APB ver 70.33.2 for Tigerlake
+
+File: i915/tgl_guc_70.34.0.bin
+Version: GuC API/APB ver 70.34.0 for Tigerlake
+
+File: i915/tgl_guc_70.34.1.bin
+Version: GuC API/APB ver 70.34.1 for Tigerlake
+
+File: i915/tgl_guc_70.35.0.bin
+Version: GuC API/APB ver 70.35.0 for Tigerlake
+
+File: i915/tgl_guc_70.35.1.bin
+Version: GuC API/APB ver 70.35.1 for Tigerlake
+
+File: i915/tgl_guc_70.36.0.bin
+Version: GuC API/APB ver 70.36.0 for Tigerlake
+
+File: i915/tgl_guc_70.37.0.bin
+Version: GuC API/APB ver 70.37.0 for Tigerlake
+
+File: i915/tgl_guc_70.37.1.bin
+Version: GuC API/APB ver 70.37.1 for Tigerlake
+
+File: i915/tgl_guc_70.38.0.bin
+Version: GuC API/APB ver 70.38.0 for Tigerlake
+
+File: i915/tgl_guc_70.38.1.bin
+Version: GuC API/APB ver 70.38.1 for Tigerlake
+
+File: i915/tgl_guc_70.39.0.bin
+Version: GuC API/APB ver 70.39.0 for Tigerlake
+
+File: i915/tgl_guc_70.40.0.bin
+Version: GuC API/APB ver 70.40.0 for Tigerlake
+
+File: i915/tgl_guc_70.40.1.bin
+Version: GuC API/APB ver 70.40.1 for Tigerlake
+
+File: i915/tgl_guc_70.40.2.bin
+Version: GuC API/APB ver 70.40.2 for Tigerlake
+
+File: i915/tgl_guc_70.41.0.bin
+Version: GuC API/APB ver 70.41.0 for Tigerlake
+
+File: i915/tgl_guc_70.42.0.bin
+Version: GuC API/APB ver 70.42.0 for Tigerlake
+
+File: i915/tgl_guc_70.43.0.bin
+Version: GuC API/APB ver 70.43.0 for Tigerlake
+
+File: i915/tgl_guc_70.44.0.bin
+Version: GuC API/APB ver 70.44.0 for Tigerlake
+
+File: i915/tgl_guc_70.44.1.bin
+Version: GuC API/APB ver 70.44.1 for Tigerlake
 
 File: i915/tgl_guc_70.bin
 Version: GuC API/APB ver 70.44.1 for Tigerlake
@@ -5304,6 +7872,327 @@ Version: Guc API/APB ver 49 release 0 for DG1
 File: i915/dg1_guc_62.0.0.bin
 Version: GuC API/APB ver 62.0.0 for DG1
 
+File: i915/dg1_guc_64.1.0.bin
+Version: GuC API/APB ver 64.1.0 for DG1
+
+File: i915/dg1_guc_65.0.0.bin
+Version: GuC API/APB ver 65.0.0 for DG1
+
+File: i915/dg1_guc_65.3.0.bin
+Version: GuC API/APB ver 65.3.0 for DG1
+
+File: i915/dg1_guc_66.0.0.bin
+Version: GuC API/APB ver 66.0.0 for DG1
+
+File: i915/dg1_guc_67.0.0.bin
+Version: GuC API/APB ver 67.0.0 for DG1
+
+File: i915/dg1_guc_68.0.0.bin
+Version: GuC API/APB ver 68.0.0 for DG1
+
+File: i915/dg1_guc_68.0.1.bin
+Version: GuC API/APB ver 68.0.1 for DG1
+
+File: i915/dg1_guc_68.0.2.bin
+Version: GuC API/APB ver 68.0.2 for DG1
+
+File: i915/dg1_guc_69.0.0.bin
+Version: GuC API/APB ver 69.0.0 for DG1
+
+File: i915/dg1_guc_70.0.0.bin
+Version: GuC API/APB ver 70.0.0 for DG1
+
+File: i915/dg1_guc_70.0.2.bin
+Version: GuC API/APB ver 70.0.2 for DG1
+
+File: i915/dg1_guc_70.0.5.bin
+Version: GuC API/APB ver 70.0.5 for DG1
+
+File: i915/dg1_guc_70.0.7.bin
+Version: GuC API/APB ver 70.0.7 for DG1
+
+File: i915/dg1_guc_70.1.0.bin
+Version: GuC API/APB ver 70.1.0 for DG1
+
+File: i915/dg1_guc_70.1.2.bin
+Version: GuC API/APB ver 70.1.2 for DG1
+
+File: i915/dg1_guc_70.1.4.bin
+Version: GuC API/APB ver 70.1.4 for DG1
+
+File: i915/dg1_guc_70.2.0.bin
+Version: GuC API/APB ver 70.2.0 for DG1
+
+File: i915/dg1_guc_70.2.1.bin
+Version: GuC API/APB ver 70.2.1 for DG1
+
+File: i915/dg1_guc_70.2.2.bin
+Version: GuC API/APB ver 70.2.2 for DG1
+
+File: i915/dg1_guc_70.3.0.bin
+Version: GuC API/APB ver 70.3.0 for DG1
+
+File: i915/dg1_guc_70.4.0.bin
+Version: GuC API/APB ver 70.4.0 for DG1
+
+File: i915/dg1_guc_70.4.1.bin
+Version: GuC API/APB ver 70.4.1 for DG1
+
+File: i915/dg1_guc_70.4.4.bin
+Version: GuC API/APB ver 70.4.4 for DG1
+
+File: i915/dg1_guc_70.5.0.bin
+Version: GuC API/APB ver 70.5.0 for DG1
+
+File: i915/dg1_guc_70.5.1.bin
+Version: GuC API/APB ver 70.5.1 for DG1
+
+File: i915/dg1_guc_70.5.2.bin
+Version: GuC API/APB ver 70.5.2 for DG1
+
+File: i915/dg1_guc_70.5.3.bin
+Version: GuC API/APB ver 70.5.3 for DG1
+
+File: i915/dg1_guc_70.5.4.bin
+Version: GuC API/APB ver 70.5.4 for DG1
+
+File: i915/dg1_guc_70.6.0.bin
+Version: GuC API/APB ver 70.6.0 for DG1
+
+File: i915/dg1_guc_70.6.1.bin
+Version: GuC API/APB ver 70.6.1 for DG1
+
+File: i915/dg1_guc_70.6.2.bin
+Version: GuC API/APB ver 70.6.2 for DG1
+
+File: i915/dg1_guc_70.6.3.bin
+Version: GuC API/APB ver 70.6.3 for DG1
+
+File: i915/dg1_guc_70.6.4.bin
+Version: GuC API/APB ver 70.6.4 for DG1
+
+File: i915/dg1_guc_70.6.5.bin
+Version: GuC API/APB ver 70.6.5 for DG1
+
+File: i915/dg1_guc_70.6.6.bin
+Version: GuC API/APB ver 70.6.6 for DG1
+
+File: i915/dg1_guc_70.6.7.bin
+Version: GuC API/APB ver 70.6.7 for DG1
+
+File: i915/dg1_guc_70.6.8.bin
+Version: GuC API/APB ver 70.6.8 for DG1
+
+File: i915/dg1_guc_70.7.0.bin
+Version: GuC API/APB ver 70.7.0 for DG1
+
+File: i915/dg1_guc_70.8.0.bin
+Version: GuC API/APB ver 70.8.0 for DG1
+
+File: i915/dg1_guc_70.8.1.bin
+Version: GuC API/APB ver 70.8.1 for DG1
+
+File: i915/dg1_guc_70.9.0.bin
+Version: GuC API/APB ver 70.9.0 for DG1
+
+File: i915/dg1_guc_70.9.1.bin
+Version: GuC API/APB ver 70.9.1 for DG1
+
+File: i915/dg1_guc_70.10.0.bin
+Version: GuC API/APB ver 70.10.0 for DG1
+
+File: i915/dg1_guc_70.11.0.bin
+Version: GuC API/APB ver 70.11.0 for DG1
+
+File: i915/dg1_guc_70.12.0.bin
+Version: GuC API/APB ver 70.12.0 for DG1
+
+File: i915/dg1_guc_70.12.1.bin
+Version: GuC API/APB ver 70.12.1 for DG1
+
+File: i915/dg1_guc_70.13.0.bin
+Version: GuC API/APB ver 70.13.0 for DG1
+
+File: i915/dg1_guc_70.13.1.bin
+Version: GuC API/APB ver 70.13.1 for DG1
+
+File: i915/dg1_guc_70.14.0.bin
+Version: GuC API/APB ver 70.14.0 for DG1
+
+File: i915/dg1_guc_70.14.1.bin
+Version: GuC API/APB ver 70.14.1 for DG1
+
+File: i915/dg1_guc_70.15.0.bin
+Version: GuC API/APB ver 70.15.0 for DG1
+
+File: i915/dg1_guc_70.15.1.bin
+Version: GuC API/APB ver 70.15.1 for DG1
+
+File: i915/dg1_guc_70.16.0.bin
+Version: GuC API/APB ver 70.16.0 for DG1
+
+File: i915/dg1_guc_70.16.1.bin
+Version: GuC API/APB ver 70.16.1 for DG1
+
+File: i915/dg1_guc_70.16.2.bin
+Version: GuC API/APB ver 70.16.2 for DG1
+
+File: i915/dg1_guc_70.17.0.bin
+Version: GuC API/APB ver 70.17.0 for DG1
+
+File: i915/dg1_guc_70.18.0.bin
+Version: GuC API/APB ver 70.18.0 for DG1
+
+File: i915/dg1_guc_70.19.0.bin
+Version: GuC API/APB ver 70.19.0 for DG1
+
+File: i915/dg1_guc_70.19.1.bin
+Version: GuC API/APB ver 70.19.1 for DG1
+
+File: i915/dg1_guc_70.19.2.bin
+Version: GuC API/APB ver 70.19.2 for DG1
+
+File: i915/dg1_guc_70.20.0.bin
+Version: GuC API/APB ver 70.20.0 for DG1
+
+File: i915/dg1_guc_70.20.1.bin
+Version: GuC API/APB ver 70.20.1 for DG1
+
+File: i915/dg1_guc_70.20.2.bin
+Version: GuC API/APB ver 70.20.2 for DG1
+
+File: i915/dg1_guc_70.21.0.bin
+Version: GuC API/APB ver 70.21.0 for DG1
+
+File: i915/dg1_guc_70.21.1.bin
+Version: GuC API/APB ver 70.21.1 for DG1
+
+File: i915/dg1_guc_70.21.2.bin
+Version: GuC API/APB ver 70.21.2 for DG1
+
+File: i915/dg1_guc_70.22.0.bin
+Version: GuC API/APB ver 70.22.0 for DG1
+
+File: i915/dg1_guc_70.23.0.bin
+Version: GuC API/APB ver 70.23.0 for DG1
+
+File: i915/dg1_guc_70.23.1.bin
+Version: GuC API/APB ver 70.23.1 for DG1
+
+File: i915/dg1_guc_70.24.0.bin
+Version: GuC API/APB ver 70.24.0 for DG1
+
+File: i915/dg1_guc_70.25.0.bin
+Version: GuC API/APB ver 70.25.0 for DG1
+
+File: i915/dg1_guc_70.25.1.bin
+Version: GuC API/APB ver 70.25.1 for DG1
+
+File: i915/dg1_guc_70.26.0.bin
+Version: GuC API/APB ver 70.26.0 for DG1
+
+File: i915/dg1_guc_70.26.1.bin
+Version: GuC API/APB ver 70.26.1 for DG1
+
+File: i915/dg1_guc_70.26.2.bin
+Version: GuC API/APB ver 70.26.2 for DG1
+
+File: i915/dg1_guc_70.26.3.bin
+Version: GuC API/APB ver 70.26.3 for DG1
+
+File: i915/dg1_guc_70.26.4.bin
+Version: GuC API/APB ver 70.26.4 for DG1
+
+File: i915/dg1_guc_70.26.5.bin
+Version: GuC API/APB ver 70.26.5 for DG1
+
+File: i915/dg1_guc_70.27.0.bin
+Version: GuC API/APB ver 70.27.0 for DG1
+
+File: i915/dg1_guc_70.28.0.bin
+Version: GuC API/APB ver 70.28.0 for DG1
+
+File: i915/dg1_guc_70.29.0.bin
+Version: GuC API/APB ver 70.29.0 for DG1
+
+File: i915/dg1_guc_70.29.1.bin
+Version: GuC API/APB ver 70.29.1 for DG1
+
+File: i915/dg1_guc_70.29.2.bin
+Version: GuC API/APB ver 70.29.2 for DG1
+
+File: i915/dg1_guc_70.30.0.bin
+Version: GuC API/APB ver 70.30.0 for DG1
+
+File: i915/dg1_guc_70.31.0.bin
+Version: GuC API/APB ver 70.31.0 for DG1
+
+File: i915/dg1_guc_70.32.0.bin
+Version: GuC API/APB ver 70.32.0 for DG1
+
+File: i915/dg1_guc_70.33.0.bin
+Version: GuC API/APB ver 70.33.0 for DG1
+
+File: i915/dg1_guc_70.33.1.bin
+Version: GuC API/APB ver 70.33.1 for DG1
+
+File: i915/dg1_guc_70.33.2.bin
+Version: GuC API/APB ver 70.33.2 for DG1
+
+File: i915/dg1_guc_70.34.0.bin
+Version: GuC API/APB ver 70.34.0 for DG1
+
+File: i915/dg1_guc_70.34.1.bin
+Version: GuC API/APB ver 70.34.1 for DG1
+
+File: i915/dg1_guc_70.35.0.bin
+Version: GuC API/APB ver 70.35.0 for DG1
+
+File: i915/dg1_guc_70.35.1.bin
+Version: GuC API/APB ver 70.35.1 for DG1
+
+File: i915/dg1_guc_70.36.0.bin
+Version: GuC API/APB ver 70.36.0 for DG1
+
+File: i915/dg1_guc_70.37.0.bin
+Version: GuC API/APB ver 70.37.0 for DG1
+
+File: i915/dg1_guc_70.37.1.bin
+Version: GuC API/APB ver 70.37.1 for DG1
+
+File: i915/dg1_guc_70.38.0.bin
+Version: GuC API/APB ver 70.38.0 for DG1
+
+File: i915/dg1_guc_70.38.1.bin
+Version: GuC API/APB ver 70.38.1 for DG1
+
+File: i915/dg1_guc_70.39.0.bin
+Version: GuC API/APB ver 70.39.0 for DG1
+
+File: i915/dg1_guc_70.40.0.bin
+Version: GuC API/APB ver 70.40.0 for DG1
+
+File: i915/dg1_guc_70.40.1.bin
+Version: GuC API/APB ver 70.40.1 for DG1
+
+File: i915/dg1_guc_70.40.2.bin
+Version: GuC API/APB ver 70.40.2 for DG1
+
+File: i915/dg1_guc_70.41.0.bin
+Version: GuC API/APB ver 70.41.0 for DG1
+
+File: i915/dg1_guc_70.42.0.bin
+Version: GuC API/APB ver 70.42.0 for DG1
+
+File: i915/dg1_guc_70.43.0.bin
+Version: GuC API/APB ver 70.43.0 for DG1
+
+File: i915/dg1_guc_70.44.0.bin
+Version: GuC API/APB ver 70.44.0 for DG1
+
+File: i915/dg1_guc_70.44.1.bin
+Version: GuC API/APB ver 70.44.1 for DG1
+
 File: i915/dg1_guc_69.0.3.bin
 Version: GuC API/APB ver 69.0.3 for DG1
 
@@ -5315,6 +8204,9 @@ Version: GuC API/APB ver 70.44.1 for DG1
 
 File: i915/dg1_huc_7.7.1.bin
 Version: Huc API/APB ver 7 release 1 for DG1
+
+File: i915/dg1_huc_7.8.0.bin
+Version: HuC API/APB ver 7.8.0 for DG1
 
 File: i915/dg1_huc_7.9.3.bin
 Version: HuC API/APB ver 7.9.3 for DG1
@@ -5346,26 +8238,737 @@ Version: DMC API/APB ver 2 release 20 for Alderlake P
 File: i915/adlp_guc_62.0.3.bin
 Version: GuC API/APB ver 62.0.3 for Alderlake P
 
+File: i915/adlp_guc_64.1.0.bin
+Version: GuC API/APB ver 64.1.0 for Alderlake P
+
+File: i915/adlp_guc_65.0.0.bin
+Version: GuC API/APB ver 65.0.0 for Alderlake P
+
+File: i915/adlp_guc_65.3.0.bin
+Version: GuC API/APB ver 65.3.0 for Alderlake P
+
+File: i915/adlp_guc_66.0.0.bin
+Version: GuC API/APB ver 66.0.0 for Alderlake P
+
+File: i915/adlp_guc_67.0.0.bin
+Version: GuC API/APB ver 67.0.0 for Alderlake P
+
+File: i915/adlp_guc_68.0.0.bin
+Version: GuC API/APB ver 68.0.0 for Alderlake P
+
+File: i915/adlp_guc_68.0.1.bin
+Version: GuC API/APB ver 68.0.1 for Alderlake P
+
+File: i915/adlp_guc_68.0.2.bin
+Version: GuC API/APB ver 68.0.2 for Alderlake P
+
+File: i915/adlp_guc_69.0.0.bin
+Version: GuC API/APB ver 69.0.0 for Alderlake P
+
 File: i915/adlp_guc_69.0.3.bin
 Version: GuC API/APB ver 69.0.3 for Alderlake P
+
+File: i915/adlp_guc_70.0.0.bin
+Version: GuC API/APB ver 70.0.0 for Alderlake P
+
+File: i915/adlp_guc_70.0.2.bin
+Version: GuC API/APB ver 70.0.2 for Alderlake P
+
+File: i915/adlp_guc_70.0.5.bin
+Version: GuC API/APB ver 70.0.5 for Alderlake P
+
+File: i915/adlp_guc_70.0.7.bin
+Version: GuC API/APB ver 70.0.7 for Alderlake P
+
+File: i915/adlp_guc_70.1.0.bin
+Version: GuC API/APB ver 70.1.0 for Alderlake P
 
 File: i915/adlp_guc_70.1.1.bin
 Version: GuC API/APB ver 70.1.1 for Alderlake P
 
+File: i915/adlp_guc_70.1.2.bin
+Version: GuC API/APB ver 70.1.2 for Alderlake P
+
+File: i915/adlp_guc_70.1.4.bin
+Version: GuC API/APB ver 70.1.4 for Alderlake P
+
+File: i915/adlp_guc_70.2.0.bin
+Version: GuC API/APB ver 70.2.0 for Alderlake P
+
+File: i915/adlp_guc_70.2.1.bin
+Version: GuC API/APB ver 70.2.1 for Alderlake P
+
+File: i915/adlp_guc_70.2.2.bin
+Version: GuC API/APB ver 70.2.2 for Alderlake P
+
+File: i915/adlp_guc_70.3.0.bin
+Version: GuC API/APB ver 70.3.0 for Alderlake P
+
+File: i915/adlp_guc_70.4.0.bin
+Version: GuC API/APB ver 70.4.0 for Alderlake P
+
+File: i915/adlp_guc_70.4.1.bin
+Version: GuC API/APB ver 70.4.1 for Alderlake P
+
+File: i915/adlp_guc_70.4.4.bin
+Version: GuC API/APB ver 70.4.4 for Alderlake P
+
+File: i915/adlp_guc_70.5.0.bin
+Version: GuC API/APB ver 70.5.0 for Alderlake P
+
+File: i915/adlp_guc_70.5.1.bin
+Version: GuC API/APB ver 70.5.1 for Alderlake P
+
+File: i915/adlp_guc_70.5.2.bin
+Version: GuC API/APB ver 70.5.2 for Alderlake P
+
+File: i915/adlp_guc_70.5.3.bin
+Version: GuC API/APB ver 70.5.3 for Alderlake P
+
+File: i915/adlp_guc_70.5.4.bin
+Version: GuC API/APB ver 70.5.4 for Alderlake P
+
+File: i915/adlp_guc_70.6.0.bin
+Version: GuC API/APB ver 70.6.0 for Alderlake P
+
+File: i915/adlp_guc_70.6.1.bin
+Version: GuC API/APB ver 70.6.1 for Alderlake P
+
+File: i915/adlp_guc_70.6.2.bin
+Version: GuC API/APB ver 70.6.2 for Alderlake P
+
+File: i915/adlp_guc_70.6.3.bin
+Version: GuC API/APB ver 70.6.3 for Alderlake P
+
+File: i915/adlp_guc_70.6.4.bin
+Version: GuC API/APB ver 70.6.4 for Alderlake P
+
+File: i915/adlp_guc_70.6.5.bin
+Version: GuC API/APB ver 70.6.5 for Alderlake P
+
+File: i915/adlp_guc_70.6.6.bin
+Version: GuC API/APB ver 70.6.6 for Alderlake P
+
+File: i915/adlp_guc_70.6.7.bin
+Version: GuC API/APB ver 70.6.7 for Alderlake P
+
+File: i915/adlp_guc_70.6.8.bin
+Version: GuC API/APB ver 70.6.8 for Alderlake P
+
+File: i915/adlp_guc_70.7.0.bin
+Version: GuC API/APB ver 70.7.0 for Alderlake P
+
+File: i915/adlp_guc_70.8.0.bin
+Version: GuC API/APB ver 70.8.0 for Alderlake P
+
+File: i915/adlp_guc_70.8.1.bin
+Version: GuC API/APB ver 70.8.1 for Alderlake P
+
+File: i915/adlp_guc_70.9.0.bin
+Version: GuC API/APB ver 70.9.0 for Alderlake P
+
+File: i915/adlp_guc_70.9.1.bin
+Version: GuC API/APB ver 70.9.1 for Alderlake P
+
+File: i915/adlp_guc_70.10.0.bin
+Version: GuC API/APB ver 70.10.0 for Alderlake P
+
+File: i915/adlp_guc_70.11.0.bin
+Version: GuC API/APB ver 70.11.0 for Alderlake P
+
+File: i915/adlp_guc_70.12.0.bin
+Version: GuC API/APB ver 70.12.0 for Alderlake P
+
+File: i915/adlp_guc_70.12.1.bin
+Version: GuC API/APB ver 70.12.1 for Alderlake P
+
+File: i915/adlp_guc_70.13.0.bin
+Version: GuC API/APB ver 70.13.0 for Alderlake P
+
+File: i915/adlp_guc_70.13.1.bin
+Version: GuC API/APB ver 70.13.1 for Alderlake P
+
+File: i915/adlp_guc_70.14.0.bin
+Version: GuC API/APB ver 70.14.0 for Alderlake P
+
+File: i915/adlp_guc_70.14.1.bin
+Version: GuC API/APB ver 70.14.1 for Alderlake P
+
+File: i915/adlp_guc_70.15.0.bin
+Version: GuC API/APB ver 70.15.0 for Alderlake P
+
+File: i915/adlp_guc_70.15.1.bin
+Version: GuC API/APB ver 70.15.1 for Alderlake P
+
+File: i915/adlp_guc_70.16.0.bin
+Version: GuC API/APB ver 70.16.0 for Alderlake P
+
+File: i915/adlp_guc_70.16.1.bin
+Version: GuC API/APB ver 70.16.1 for Alderlake P
+
+File: i915/adlp_guc_70.16.2.bin
+Version: GuC API/APB ver 70.16.2 for Alderlake P
+
+File: i915/adlp_guc_70.17.0.bin
+Version: GuC API/APB ver 70.17.0 for Alderlake P
+
+File: i915/adlp_guc_70.18.0.bin
+Version: GuC API/APB ver 70.18.0 for Alderlake P
+
+File: i915/adlp_guc_70.19.0.bin
+Version: GuC API/APB ver 70.19.0 for Alderlake P
+
+File: i915/adlp_guc_70.19.1.bin
+Version: GuC API/APB ver 70.19.1 for Alderlake P
+
+File: i915/adlp_guc_70.19.2.bin
+Version: GuC API/APB ver 70.19.2 for Alderlake P
+
+File: i915/adlp_guc_70.20.0.bin
+Version: GuC API/APB ver 70.20.0 for Alderlake P
+
+File: i915/adlp_guc_70.20.1.bin
+Version: GuC API/APB ver 70.20.1 for Alderlake P
+
+File: i915/adlp_guc_70.20.2.bin
+Version: GuC API/APB ver 70.20.2 for Alderlake P
+
+File: i915/adlp_guc_70.21.0.bin
+Version: GuC API/APB ver 70.21.0 for Alderlake P
+
+File: i915/adlp_guc_70.21.1.bin
+Version: GuC API/APB ver 70.21.1 for Alderlake P
+
+File: i915/adlp_guc_70.21.2.bin
+Version: GuC API/APB ver 70.21.2 for Alderlake P
+
+File: i915/adlp_guc_70.22.0.bin
+Version: GuC API/APB ver 70.22.0 for Alderlake P
+
+File: i915/adlp_guc_70.23.0.bin
+Version: GuC API/APB ver 70.23.0 for Alderlake P
+
+File: i915/adlp_guc_70.23.1.bin
+Version: GuC API/APB ver 70.23.1 for Alderlake P
+
+File: i915/adlp_guc_70.24.0.bin
+Version: GuC API/APB ver 70.24.0 for Alderlake P
+
+File: i915/adlp_guc_70.25.0.bin
+Version: GuC API/APB ver 70.25.0 for Alderlake P
+
+File: i915/adlp_guc_70.25.1.bin
+Version: GuC API/APB ver 70.25.1 for Alderlake P
+
+File: i915/adlp_guc_70.26.0.bin
+Version: GuC API/APB ver 70.26.0 for Alderlake P
+
+File: i915/adlp_guc_70.26.1.bin
+Version: GuC API/APB ver 70.26.1 for Alderlake P
+
+File: i915/adlp_guc_70.26.2.bin
+Version: GuC API/APB ver 70.26.2 for Alderlake P
+
+File: i915/adlp_guc_70.26.3.bin
+Version: GuC API/APB ver 70.26.3 for Alderlake P
+
+File: i915/adlp_guc_70.26.4.bin
+Version: GuC API/APB ver 70.26.4 for Alderlake P
+
+File: i915/adlp_guc_70.26.5.bin
+Version: GuC API/APB ver 70.26.5 for Alderlake P
+
+File: i915/adlp_guc_70.27.0.bin
+Version: GuC API/APB ver 70.27.0 for Alderlake P
+
+File: i915/adlp_guc_70.28.0.bin
+Version: GuC API/APB ver 70.28.0 for Alderlake P
+
+File: i915/adlp_guc_70.29.0.bin
+Version: GuC API/APB ver 70.29.0 for Alderlake P
+
+File: i915/adlp_guc_70.29.1.bin
+Version: GuC API/APB ver 70.29.1 for Alderlake P
+
+File: i915/adlp_guc_70.29.2.bin
+Version: GuC API/APB ver 70.29.2 for Alderlake P
+
+File: i915/adlp_guc_70.30.0.bin
+Version: GuC API/APB ver 70.30.0 for Alderlake P
+
+File: i915/adlp_guc_70.31.0.bin
+Version: GuC API/APB ver 70.31.0 for Alderlake P
+
+File: i915/adlp_guc_70.32.0.bin
+Version: GuC API/APB ver 70.32.0 for Alderlake P
+
+File: i915/adlp_guc_70.33.0.bin
+Version: GuC API/APB ver 70.33.0 for Alderlake P
+
+File: i915/adlp_guc_70.33.1.bin
+Version: GuC API/APB ver 70.33.1 for Alderlake P
+
+File: i915/adlp_guc_70.33.2.bin
+Version: GuC API/APB ver 70.33.2 for Alderlake P
+
+File: i915/adlp_guc_70.34.0.bin
+Version: GuC API/APB ver 70.34.0 for Alderlake P
+
+File: i915/adlp_guc_70.34.1.bin
+Version: GuC API/APB ver 70.34.1 for Alderlake P
+
+File: i915/adlp_guc_70.35.0.bin
+Version: GuC API/APB ver 70.35.0 for Alderlake P
+
+File: i915/adlp_guc_70.35.1.bin
+Version: GuC API/APB ver 70.35.1 for Alderlake P
+
+File: i915/adlp_guc_70.36.0.bin
+Version: GuC API/APB ver 70.36.0 for Alderlake P
+
+File: i915/adlp_guc_70.37.0.bin
+Version: GuC API/APB ver 70.37.0 for Alderlake P
+
+File: i915/adlp_guc_70.37.1.bin
+Version: GuC API/APB ver 70.37.1 for Alderlake P
+
+File: i915/adlp_guc_70.38.0.bin
+Version: GuC API/APB ver 70.38.0 for Alderlake P
+
+File: i915/adlp_guc_70.38.1.bin
+Version: GuC API/APB ver 70.38.1 for Alderlake P
+
+File: i915/adlp_guc_70.39.0.bin
+Version: GuC API/APB ver 70.39.0 for Alderlake P
+
+File: i915/adlp_guc_70.40.0.bin
+Version: GuC API/APB ver 70.40.0 for Alderlake P
+
+File: i915/adlp_guc_70.40.1.bin
+Version: GuC API/APB ver 70.40.1 for Alderlake P
+
+File: i915/adlp_guc_70.40.2.bin
+Version: GuC API/APB ver 70.40.2 for Alderlake P
+
+File: i915/adlp_guc_70.41.0.bin
+Version: GuC API/APB ver 70.41.0 for Alderlake P
+
+File: i915/adlp_guc_70.42.0.bin
+Version: GuC API/APB ver 70.42.0 for Alderlake P
+
+File: i915/adlp_guc_70.43.0.bin
+Version: GuC API/APB ver 70.43.0 for Alderlake P
+
+File: i915/adlp_guc_70.44.0.bin
+Version: GuC API/APB ver 70.44.0 for Alderlake P
+
+File: i915/adlp_guc_70.44.1.bin
+Version: GuC API/APB ver 70.44.1 for Alderlake P
+
 File: i915/adlp_guc_70.bin
 Version: GuC API/APB ver 70.44.1 for Alderlake P
+
+File: i915/dg2_guc_64.1.0.bin
+Version: GuC API/APB ver 64.1.0 for DG2
+
+File: i915/dg2_guc_65.0.0.bin
+Version: GuC API/APB ver 65.0.0 for DG2
+
+File: i915/dg2_guc_65.3.0.bin
+Version: GuC API/APB ver 65.3.0 for DG2
+
+File: i915/dg2_guc_66.0.0.bin
+Version: GuC API/APB ver 66.0.0 for DG2
+
+File: i915/dg2_guc_67.0.0.bin
+Version: GuC API/APB ver 67.0.0 for DG2
+
+File: i915/dg2_guc_68.0.0.bin
+Version: GuC API/APB ver 68.0.0 for DG2
+
+File: i915/dg2_guc_68.0.1.bin
+Version: GuC API/APB ver 68.0.1 for DG2
+
+File: i915/dg2_guc_68.0.2.bin
+Version: GuC API/APB ver 68.0.2 for DG2
+
+File: i915/dg2_guc_69.0.0.bin
+Version: GuC API/APB ver 69.0.0 for DG2
+
+File: i915/dg2_guc_69.0.3.bin
+Version: GuC API/APB ver 69.0.3 for DG2
+
+File: i915/dg2_guc_70.0.0.bin
+Version: GuC API/APB ver 70.0.0 for DG2
+
+File: i915/dg2_guc_70.0.2.bin
+Version: GuC API/APB ver 70.0.2 for DG2
+
+File: i915/dg2_guc_70.0.5.bin
+Version: GuC API/APB ver 70.0.5 for DG2
+
+File: i915/dg2_guc_70.0.7.bin
+Version: GuC API/APB ver 70.0.7 for DG2
+
+File: i915/dg2_guc_70.1.0.bin
+Version: GuC API/APB ver 70.1.0 for DG2
+
+File: i915/dg2_guc_70.1.1.bin
+Version: GuC API/APB ver 70.1.1 for DG2
 
 File: i915/dg2_guc_70.1.2.bin
 Version: GuC API/APB ver 70.1.2 for DG2
 
+File: i915/dg2_guc_70.1.4.bin
+Version: GuC API/APB ver 70.1.4 for DG2
+
+File: i915/dg2_guc_70.2.0.bin
+Version: GuC API/APB ver 70.2.0 for DG2
+
+File: i915/dg2_guc_70.2.1.bin
+Version: GuC API/APB ver 70.2.1 for DG2
+
+File: i915/dg2_guc_70.2.2.bin
+Version: GuC API/APB ver 70.2.2 for DG2
+
+File: i915/dg2_guc_70.3.0.bin
+Version: GuC API/APB ver 70.3.0 for DG2
+
+File: i915/dg2_guc_70.4.0.bin
+Version: GuC API/APB ver 70.4.0 for DG2
+
 File: i915/dg2_guc_70.4.1.bin
 Version: GuC API/APB ver 70.4.1 for DG2
+
+File: i915/dg2_guc_70.4.4.bin
+Version: GuC API/APB ver 70.4.4 for DG2
+
+File: i915/dg2_guc_70.5.0.bin
+Version: GuC API/APB ver 70.5.0 for DG2
+
+File: i915/dg2_guc_70.5.1.bin
+Version: GuC API/APB ver 70.5.1 for DG2
+
+File: i915/dg2_guc_70.5.2.bin
+Version: GuC API/APB ver 70.5.2 for DG2
+
+File: i915/dg2_guc_70.5.3.bin
+Version: GuC API/APB ver 70.5.3 for DG2
+
+File: i915/dg2_guc_70.5.4.bin
+Version: GuC API/APB ver 70.5.4 for DG2
+
+File: i915/dg2_guc_70.6.0.bin
+Version: GuC API/APB ver 70.6.0 for DG2
+
+File: i915/dg2_guc_70.6.1.bin
+Version: GuC API/APB ver 70.6.1 for DG2
+
+File: i915/dg2_guc_70.6.2.bin
+Version: GuC API/APB ver 70.6.2 for DG2
+
+File: i915/dg2_guc_70.6.3.bin
+Version: GuC API/APB ver 70.6.3 for DG2
+
+File: i915/dg2_guc_70.6.4.bin
+Version: GuC API/APB ver 70.6.4 for DG2
+
+File: i915/dg2_guc_70.6.5.bin
+Version: GuC API/APB ver 70.6.5 for DG2
+
+File: i915/dg2_guc_70.6.6.bin
+Version: GuC API/APB ver 70.6.6 for DG2
+
+File: i915/dg2_guc_70.6.7.bin
+Version: GuC API/APB ver 70.6.7 for DG2
+
+File: i915/dg2_guc_70.6.8.bin
+Version: GuC API/APB ver 70.6.8 for DG2
+
+File: i915/dg2_guc_70.7.0.bin
+Version: GuC API/APB ver 70.7.0 for DG2
+
+File: i915/dg2_guc_70.8.0.bin
+Version: GuC API/APB ver 70.8.0 for DG2
+
+File: i915/dg2_guc_70.8.1.bin
+Version: GuC API/APB ver 70.8.1 for DG2
+
+File: i915/dg2_guc_70.9.0.bin
+Version: GuC API/APB ver 70.9.0 for DG2
+
+File: i915/dg2_guc_70.9.1.bin
+Version: GuC API/APB ver 70.9.1 for DG2
+
+File: i915/dg2_guc_70.10.0.bin
+Version: GuC API/APB ver 70.10.0 for DG2
+
+File: i915/dg2_guc_70.11.0.bin
+Version: GuC API/APB ver 70.11.0 for DG2
+
+File: i915/dg2_guc_70.12.0.bin
+Version: GuC API/APB ver 70.12.0 for DG2
+
+File: i915/dg2_guc_70.12.1.bin
+Version: GuC API/APB ver 70.12.1 for DG2
+
+File: i915/dg2_guc_70.13.0.bin
+Version: GuC API/APB ver 70.13.0 for DG2
+
+File: i915/dg2_guc_70.13.1.bin
+Version: GuC API/APB ver 70.13.1 for DG2
+
+File: i915/dg2_guc_70.14.0.bin
+Version: GuC API/APB ver 70.14.0 for DG2
+
+File: i915/dg2_guc_70.14.1.bin
+Version: GuC API/APB ver 70.14.1 for DG2
+
+File: i915/dg2_guc_70.15.0.bin
+Version: GuC API/APB ver 70.15.0 for DG2
+
+File: i915/dg2_guc_70.15.1.bin
+Version: GuC API/APB ver 70.15.1 for DG2
+
+File: i915/dg2_guc_70.16.0.bin
+Version: GuC API/APB ver 70.16.0 for DG2
+
+File: i915/dg2_guc_70.16.1.bin
+Version: GuC API/APB ver 70.16.1 for DG2
+
+File: i915/dg2_guc_70.16.2.bin
+Version: GuC API/APB ver 70.16.2 for DG2
+
+File: i915/dg2_guc_70.17.0.bin
+Version: GuC API/APB ver 70.17.0 for DG2
+
+File: i915/dg2_guc_70.18.0.bin
+Version: GuC API/APB ver 70.18.0 for DG2
+
+File: i915/dg2_guc_70.19.0.bin
+Version: GuC API/APB ver 70.19.0 for DG2
+
+File: i915/dg2_guc_70.19.1.bin
+Version: GuC API/APB ver 70.19.1 for DG2
+
+File: i915/dg2_guc_70.19.2.bin
+Version: GuC API/APB ver 70.19.2 for DG2
+
+File: i915/dg2_guc_70.20.0.bin
+Version: GuC API/APB ver 70.20.0 for DG2
+
+File: i915/dg2_guc_70.20.1.bin
+Version: GuC API/APB ver 70.20.1 for DG2
+
+File: i915/dg2_guc_70.20.2.bin
+Version: GuC API/APB ver 70.20.2 for DG2
+
+File: i915/dg2_guc_70.21.0.bin
+Version: GuC API/APB ver 70.21.0 for DG2
+
+File: i915/dg2_guc_70.21.1.bin
+Version: GuC API/APB ver 70.21.1 for DG2
+
+File: i915/dg2_guc_70.21.2.bin
+Version: GuC API/APB ver 70.21.2 for DG2
+
+File: i915/dg2_guc_70.22.0.bin
+Version: GuC API/APB ver 70.22.0 for DG2
+
+File: i915/dg2_guc_70.23.0.bin
+Version: GuC API/APB ver 70.23.0 for DG2
+
+File: i915/dg2_guc_70.23.1.bin
+Version: GuC API/APB ver 70.23.1 for DG2
+
+File: i915/dg2_guc_70.24.0.bin
+Version: GuC API/APB ver 70.24.0 for DG2
+
+File: i915/dg2_guc_70.25.0.bin
+Version: GuC API/APB ver 70.25.0 for DG2
+
+File: i915/dg2_guc_70.25.1.bin
+Version: GuC API/APB ver 70.25.1 for DG2
+
+File: i915/dg2_guc_70.26.0.bin
+Version: GuC API/APB ver 70.26.0 for DG2
+
+File: i915/dg2_guc_70.26.1.bin
+Version: GuC API/APB ver 70.26.1 for DG2
+
+File: i915/dg2_guc_70.26.2.bin
+Version: GuC API/APB ver 70.26.2 for DG2
+
+File: i915/dg2_guc_70.26.3.bin
+Version: GuC API/APB ver 70.26.3 for DG2
+
+File: i915/dg2_guc_70.26.4.bin
+Version: GuC API/APB ver 70.26.4 for DG2
+
+File: i915/dg2_guc_70.26.5.bin
+Version: GuC API/APB ver 70.26.5 for DG2
+
+File: i915/dg2_guc_70.27.0.bin
+Version: GuC API/APB ver 70.27.0 for DG2
+
+File: i915/dg2_guc_70.28.0.bin
+Version: GuC API/APB ver 70.28.0 for DG2
+
+File: i915/dg2_guc_70.29.0.bin
+Version: GuC API/APB ver 70.29.0 for DG2
+
+File: i915/dg2_guc_70.29.1.bin
+Version: GuC API/APB ver 70.29.1 for DG2
+
+File: i915/dg2_guc_70.29.2.bin
+Version: GuC API/APB ver 70.29.2 for DG2
+
+File: i915/dg2_guc_70.30.0.bin
+Version: GuC API/APB ver 70.30.0 for DG2
+
+File: i915/dg2_guc_70.31.0.bin
+Version: GuC API/APB ver 70.31.0 for DG2
+
+File: i915/dg2_guc_70.32.0.bin
+Version: GuC API/APB ver 70.32.0 for DG2
+
+File: i915/dg2_guc_70.33.0.bin
+Version: GuC API/APB ver 70.33.0 for DG2
+
+File: i915/dg2_guc_70.33.1.bin
+Version: GuC API/APB ver 70.33.1 for DG2
+
+File: i915/dg2_guc_70.33.2.bin
+Version: GuC API/APB ver 70.33.2 for DG2
+
+File: i915/dg2_guc_70.34.0.bin
+Version: GuC API/APB ver 70.34.0 for DG2
+
+File: i915/dg2_guc_70.34.1.bin
+Version: GuC API/APB ver 70.34.1 for DG2
+
+File: i915/dg2_guc_70.35.0.bin
+Version: GuC API/APB ver 70.35.0 for DG2
+
+File: i915/dg2_guc_70.35.1.bin
+Version: GuC API/APB ver 70.35.1 for DG2
+
+File: i915/dg2_guc_70.36.0.bin
+Version: GuC API/APB ver 70.36.0 for DG2
+
+File: i915/dg2_guc_70.37.0.bin
+Version: GuC API/APB ver 70.37.0 for DG2
+
+File: i915/dg2_guc_70.37.1.bin
+Version: GuC API/APB ver 70.37.1 for DG2
+
+File: i915/dg2_guc_70.38.0.bin
+Version: GuC API/APB ver 70.38.0 for DG2
+
+File: i915/dg2_guc_70.38.1.bin
+Version: GuC API/APB ver 70.38.1 for DG2
+
+File: i915/dg2_guc_70.39.0.bin
+Version: GuC API/APB ver 70.39.0 for DG2
+
+File: i915/dg2_guc_70.40.0.bin
+Version: GuC API/APB ver 70.40.0 for DG2
+
+File: i915/dg2_guc_70.40.1.bin
+Version: GuC API/APB ver 70.40.1 for DG2
+
+File: i915/dg2_guc_70.40.2.bin
+Version: GuC API/APB ver 70.40.2 for DG2
+
+File: i915/dg2_guc_70.41.0.bin
+Version: GuC API/APB ver 70.41.0 for DG2
+
+File: i915/dg2_guc_70.42.0.bin
+Version: GuC API/APB ver 70.42.0 for DG2
+
+File: i915/dg2_guc_70.43.0.bin
+Version: GuC API/APB ver 70.43.0 for DG2
+
+File: i915/dg2_guc_70.44.0.bin
+Version: GuC API/APB ver 70.44.0 for DG2
+
+File: i915/dg2_guc_70.44.1.bin
+Version: GuC API/APB ver 70.44.1 for DG2
 
 File: i915/dg2_guc_70.bin
 Version: GuC API/APB ver 70.45.2 for DG2
 
+File: i915/dg2_huc_7.7.0.bin
+Version: HuC API/APB ver 7.7.0 for DG2
+
+File: i915/dg2_huc_7.8.6.bin
+Version: HuC API/APB ver 7.8.6 for DG2
+
+File: i915/dg2_huc_7.8.6_gsc.bin
+Version: HuC API/APB ver 7.8.6 for DG2
+
+File: i915/dg2_huc_7.9.0.bin
+Version: HuC API/APB ver 7.9.0 for DG2
+
+File: i915/dg2_huc_7.9.0_gsc.bin
+Version: HuC API/APB ver 7.9.0 for DG2
+
+File: i915/dg2_huc_7.9.4.bin
+Version: HuC API/APB ver 7.9.4 for DG2
+
+File: i915/dg2_huc_7.9.4_gsc.bin
+Version: HuC API/APB ver 7.9.4 for DG2
+
+File: i915/dg2_huc_7.9.6_gsc.bin
+Version: HuC API/APB ver 7.9.6 for DG2
+
+File: i915/dg2_huc_7.9.8_gsc.bin
+Version: HuC API/APB ver 7.9.8 for DG2
+
+File: i915/dg2_huc_7.10.0.bin
+Version: HuC API/APB ver 7.10.0 for DG2
+
+File: i915/dg2_huc_7.10.0_gsc.bin
+Version: HuC API/APB ver 7.10.0 for DG2
+
+File: i915/dg2_huc_7.10.10_gsc.bin
+Version: HuC API/APB ver 7.10.10 for DG2
+
+File: i915/dg2_huc_7.10.14_gsc.bin
+Version: HuC API/APB ver 7.10.14 for DG2
+
+File: i915/dg2_huc_7.10.15_gsc.bin
+Version: HuC API/APB ver 7.10.15 for DG2
+
+File: i915/dg2_huc_7.10.16_gsc.bin
+Version: HuC API/APB ver 7.10.16 for DG2
+
+File: i915/dg2_huc_7.10.3_gsc.bin
+Version: HuC API/APB ver 7.10.3 for DG2
+
+File: i915/dg2_huc_7.10.6.bin
+Version: HuC API/APB ver 7.10.6 for DG2
+
+File: i915/dg2_huc_7.10.6_gsc.bin
+Version: HuC API/APB ver 7.10.6 for DG2
+
+File: i915/dg2_huc_7.10.7_gsc.bin
+Version: HuC API/APB ver 7.10.7 for DG2
+
 File: i915/dg2_huc_gsc.bin
 Version: HuC API/APB ver 7.10.16 for DG2
+
+File: i915/dg2_dmc_ver2_02.bin
+Version: DMC API/APB ver 2 release 2 for DG2
+
+File: i915/dg2_dmc_ver2_03.bin
+Version: DMC API/APB ver 2 release 3 for DG2
+
+File: i915/dg2_dmc_ver2_04.bin
+Version: DMC API/APB ver 2 release 4 for DG2
+
+File: i915/dg2_dmc_ver2_05.bin
+Version: DMC API/APB ver 2 release 5 for DG2
 
 File: i915/dg2_dmc_ver2_06.bin
 Version: DMC API/APB ver 2 release 6 for DG2
@@ -5376,20 +8979,428 @@ Version: DMC API/APB ver 2 release 7 for DG2
 File: i915/dg2_dmc_ver2_08.bin
 Version: DMC API/APB ver 2 release 8 for DG2
 
+File: i915/dg2_dmc_ver2_064.bin
+Version: DMC API/APB ver 2 release 64 for DG2
+
+File: i915/dg2_dmc_ver2_071.bin
+Version: DMC API/APB ver 2 release 71 for DG2
+
+File: i915/lnl_dmc_ver2_08.bin
+Version: DMC API/APB ver 2 release 8 for Lunarlake
+
+File: i915/mtl_dmc_ver2_06.bin
+Version: DMC API/APB ver 2 release 6 for Meteorlake
+
+File: i915/mtl_dmc_ver2_08.bin
+Version: DMC API/APB ver 2 release 8 for Meteorlake
+
 File: i915/mtl_dmc_ver2_10.bin
 Version: DMC API/APB ver 2 release 10 for Meteorlake
+
+File: i915/mtl_dmc_ver2_11.bin
+Version: DMC API/APB ver 2 release 11 for Meteorlake
+
+File: i915/mtl_dmc_ver2_12.bin
+Version: DMC API/APB ver 2 release 12 for Meteorlake
+
+File: i915/mtl_dmc_ver2_13.bin
+Version: DMC API/APB ver 2 release 13 for Meteorlake
+
+File: i915/mtl_dmc_ver2_14.bin
+Version: DMC API/APB ver 2 release 14 for Meteorlake
+
+File: i915/mtl_dmc_ver2_15.bin
+Version: DMC API/APB ver 2 release 15 for Meteorlake
+
+File: i915/mtl_dmc_ver2_16.bin
+Version: DMC API/APB ver 2 release 16 for Meteorlake
 
 File: i915/mtl_dmc.bin
 Version: DMC API/APB ver 2 release 23 for Meteorlake
 
+File: i915/mtl_guc_68.0.0.bin
+Version: GuC API/APB ver 68.0.0 for Meteorlake
+
+File: i915/mtl_guc_68.0.1.bin
+Version: GuC API/APB ver 68.0.1 for Meteorlake
+
+File: i915/mtl_guc_68.0.2.bin
+Version: GuC API/APB ver 68.0.2 for Meteorlake
+
+File: i915/mtl_guc_69.0.0.bin
+Version: GuC API/APB ver 69.0.0 for Meteorlake
+
+File: i915/mtl_guc_69.0.3.bin
+Version: GuC API/APB ver 69.0.3 for Meteorlake
+
+File: i915/mtl_guc_70.0.0.bin
+Version: GuC API/APB ver 70.0.0 for Meteorlake
+
+File: i915/mtl_guc_70.0.2.bin
+Version: GuC API/APB ver 70.0.2 for Meteorlake
+
+File: i915/mtl_guc_70.0.5.bin
+Version: GuC API/APB ver 70.0.5 for Meteorlake
+
+File: i915/mtl_guc_70.0.7.bin
+Version: GuC API/APB ver 70.0.7 for Meteorlake
+
+File: i915/mtl_guc_70.1.0.bin
+Version: GuC API/APB ver 70.1.0 for Meteorlake
+
+File: i915/mtl_guc_70.1.1.bin
+Version: GuC API/APB ver 70.1.1 for Meteorlake
+
+File: i915/mtl_guc_70.1.2.bin
+Version: GuC API/APB ver 70.1.2 for Meteorlake
+
+File: i915/mtl_guc_70.1.4.bin
+Version: GuC API/APB ver 70.1.4 for Meteorlake
+
+File: i915/mtl_guc_70.2.0.bin
+Version: GuC API/APB ver 70.2.0 for Meteorlake
+
+File: i915/mtl_guc_70.2.1.bin
+Version: GuC API/APB ver 70.2.1 for Meteorlake
+
+File: i915/mtl_guc_70.2.2.bin
+Version: GuC API/APB ver 70.2.2 for Meteorlake
+
+File: i915/mtl_guc_70.3.0.bin
+Version: GuC API/APB ver 70.3.0 for Meteorlake
+
+File: i915/mtl_guc_70.4.0.bin
+Version: GuC API/APB ver 70.4.0 for Meteorlake
+
+File: i915/mtl_guc_70.4.1.bin
+Version: GuC API/APB ver 70.4.1 for Meteorlake
+
+File: i915/mtl_guc_70.4.4.bin
+Version: GuC API/APB ver 70.4.4 for Meteorlake
+
+File: i915/mtl_guc_70.5.0.bin
+Version: GuC API/APB ver 70.5.0 for Meteorlake
+
+File: i915/mtl_guc_70.5.1.bin
+Version: GuC API/APB ver 70.5.1 for Meteorlake
+
+File: i915/mtl_guc_70.5.2.bin
+Version: GuC API/APB ver 70.5.2 for Meteorlake
+
+File: i915/mtl_guc_70.5.3.bin
+Version: GuC API/APB ver 70.5.3 for Meteorlake
+
+File: i915/mtl_guc_70.5.4.bin
+Version: GuC API/APB ver 70.5.4 for Meteorlake
+
+File: i915/mtl_guc_70.6.0.bin
+Version: GuC API/APB ver 70.6.0 for Meteorlake
+
+File: i915/mtl_guc_70.6.1.bin
+Version: GuC API/APB ver 70.6.1 for Meteorlake
+
+File: i915/mtl_guc_70.6.2.bin
+Version: GuC API/APB ver 70.6.2 for Meteorlake
+
+File: i915/mtl_guc_70.6.3.bin
+Version: GuC API/APB ver 70.6.3 for Meteorlake
+
+File: i915/mtl_guc_70.6.4.bin
+Version: GuC API/APB ver 70.6.4 for Meteorlake
+
+File: i915/mtl_guc_70.6.5.bin
+Version: GuC API/APB ver 70.6.5 for Meteorlake
+
+File: i915/mtl_guc_70.6.6.bin
+Version: GuC API/APB ver 70.6.6 for Meteorlake
+
+File: i915/mtl_guc_70.6.7.bin
+Version: GuC API/APB ver 70.6.7 for Meteorlake
+
+File: i915/mtl_guc_70.6.8.bin
+Version: GuC API/APB ver 70.6.8 for Meteorlake
+
+File: i915/mtl_guc_70.7.0.bin
+Version: GuC API/APB ver 70.7.0 for Meteorlake
+
+File: i915/mtl_guc_70.8.0.bin
+Version: GuC API/APB ver 70.8.0 for Meteorlake
+
+File: i915/mtl_guc_70.8.1.bin
+Version: GuC API/APB ver 70.8.1 for Meteorlake
+
+File: i915/mtl_guc_70.9.0.bin
+Version: GuC API/APB ver 70.9.0 for Meteorlake
+
+File: i915/mtl_guc_70.9.1.bin
+Version: GuC API/APB ver 70.9.1 for Meteorlake
+
+File: i915/mtl_guc_70.10.0.bin
+Version: GuC API/APB ver 70.10.0 for Meteorlake
+
+File: i915/mtl_guc_70.11.0.bin
+Version: GuC API/APB ver 70.11.0 for Meteorlake
+
+File: i915/mtl_guc_70.12.0.bin
+Version: GuC API/APB ver 70.12.0 for Meteorlake
+
+File: i915/mtl_guc_70.12.1.bin
+Version: GuC API/APB ver 70.12.1 for Meteorlake
+
+File: i915/mtl_guc_70.13.0.bin
+Version: GuC API/APB ver 70.13.0 for Meteorlake
+
+File: i915/mtl_guc_70.13.1.bin
+Version: GuC API/APB ver 70.13.1 for Meteorlake
+
+File: i915/mtl_guc_70.14.0.bin
+Version: GuC API/APB ver 70.14.0 for Meteorlake
+
+File: i915/mtl_guc_70.14.1.bin
+Version: GuC API/APB ver 70.14.1 for Meteorlake
+
+File: i915/mtl_guc_70.15.0.bin
+Version: GuC API/APB ver 70.15.0 for Meteorlake
+
+File: i915/mtl_guc_70.15.1.bin
+Version: GuC API/APB ver 70.15.1 for Meteorlake
+
+File: i915/mtl_guc_70.16.0.bin
+Version: GuC API/APB ver 70.16.0 for Meteorlake
+
+File: i915/mtl_guc_70.16.1.bin
+Version: GuC API/APB ver 70.16.1 for Meteorlake
+
+File: i915/mtl_guc_70.16.2.bin
+Version: GuC API/APB ver 70.16.2 for Meteorlake
+
+File: i915/mtl_guc_70.17.0.bin
+Version: GuC API/APB ver 70.17.0 for Meteorlake
+
+File: i915/mtl_guc_70.18.0.bin
+Version: GuC API/APB ver 70.18.0 for Meteorlake
+
+File: i915/mtl_guc_70.19.0.bin
+Version: GuC API/APB ver 70.19.0 for Meteorlake
+
+File: i915/mtl_guc_70.19.1.bin
+Version: GuC API/APB ver 70.19.1 for Meteorlake
+
+File: i915/mtl_guc_70.19.2.bin
+Version: GuC API/APB ver 70.19.2 for Meteorlake
+
+File: i915/mtl_guc_70.20.0.bin
+Version: GuC API/APB ver 70.20.0 for Meteorlake
+
+File: i915/mtl_guc_70.20.1.bin
+Version: GuC API/APB ver 70.20.1 for Meteorlake
+
+File: i915/mtl_guc_70.20.2.bin
+Version: GuC API/APB ver 70.20.2 for Meteorlake
+
+File: i915/mtl_guc_70.21.0.bin
+Version: GuC API/APB ver 70.21.0 for Meteorlake
+
+File: i915/mtl_guc_70.21.1.bin
+Version: GuC API/APB ver 70.21.1 for Meteorlake
+
+File: i915/mtl_guc_70.21.2.bin
+Version: GuC API/APB ver 70.21.2 for Meteorlake
+
+File: i915/mtl_guc_70.22.0.bin
+Version: GuC API/APB ver 70.22.0 for Meteorlake
+
+File: i915/mtl_guc_70.23.0.bin
+Version: GuC API/APB ver 70.23.0 for Meteorlake
+
+File: i915/mtl_guc_70.23.1.bin
+Version: GuC API/APB ver 70.23.1 for Meteorlake
+
+File: i915/mtl_guc_70.24.0.bin
+Version: GuC API/APB ver 70.24.0 for Meteorlake
+
+File: i915/mtl_guc_70.25.0.bin
+Version: GuC API/APB ver 70.25.0 for Meteorlake
+
+File: i915/mtl_guc_70.25.1.bin
+Version: GuC API/APB ver 70.25.1 for Meteorlake
+
+File: i915/mtl_guc_70.26.0.bin
+Version: GuC API/APB ver 70.26.0 for Meteorlake
+
+File: i915/mtl_guc_70.26.1.bin
+Version: GuC API/APB ver 70.26.1 for Meteorlake
+
+File: i915/mtl_guc_70.26.2.bin
+Version: GuC API/APB ver 70.26.2 for Meteorlake
+
+File: i915/mtl_guc_70.26.3.bin
+Version: GuC API/APB ver 70.26.3 for Meteorlake
+
+File: i915/mtl_guc_70.26.4.bin
+Version: GuC API/APB ver 70.26.4 for Meteorlake
+
+File: i915/mtl_guc_70.26.5.bin
+Version: GuC API/APB ver 70.26.5 for Meteorlake
+
+File: i915/mtl_guc_70.27.0.bin
+Version: GuC API/APB ver 70.27.0 for Meteorlake
+
+File: i915/mtl_guc_70.28.0.bin
+Version: GuC API/APB ver 70.28.0 for Meteorlake
+
+File: i915/mtl_guc_70.29.0.bin
+Version: GuC API/APB ver 70.29.0 for Meteorlake
+
+File: i915/mtl_guc_70.29.1.bin
+Version: GuC API/APB ver 70.29.1 for Meteorlake
+
+File: i915/mtl_guc_70.29.2.bin
+Version: GuC API/APB ver 70.29.2 for Meteorlake
+
+File: i915/mtl_guc_70.30.0.bin
+Version: GuC API/APB ver 70.30.0 for Meteorlake
+
+File: i915/mtl_guc_70.31.0.bin
+Version: GuC API/APB ver 70.31.0 for Meteorlake
+
+File: i915/mtl_guc_70.32.0.bin
+Version: GuC API/APB ver 70.32.0 for Meteorlake
+
+File: i915/mtl_guc_70.33.0.bin
+Version: GuC API/APB ver 70.33.0 for Meteorlake
+
+File: i915/mtl_guc_70.33.1.bin
+Version: GuC API/APB ver 70.33.1 for Meteorlake
+
+File: i915/mtl_guc_70.33.2.bin
+Version: GuC API/APB ver 70.33.2 for Meteorlake
+
+File: i915/mtl_guc_70.34.0.bin
+Version: GuC API/APB ver 70.34.0 for Meteorlake
+
+File: i915/mtl_guc_70.34.1.bin
+Version: GuC API/APB ver 70.34.1 for Meteorlake
+
+File: i915/mtl_guc_70.35.0.bin
+Version: GuC API/APB ver 70.35.0 for Meteorlake
+
+File: i915/mtl_guc_70.35.1.bin
+Version: GuC API/APB ver 70.35.1 for Meteorlake
+
+File: i915/mtl_guc_70.36.0.bin
+Version: GuC API/APB ver 70.36.0 for Meteorlake
+
+File: i915/mtl_guc_70.37.0.bin
+Version: GuC API/APB ver 70.37.0 for Meteorlake
+
+File: i915/mtl_guc_70.37.1.bin
+Version: GuC API/APB ver 70.37.1 for Meteorlake
+
+File: i915/mtl_guc_70.38.0.bin
+Version: GuC API/APB ver 70.38.0 for Meteorlake
+
+File: i915/mtl_guc_70.38.1.bin
+Version: GuC API/APB ver 70.38.1 for Meteorlake
+
+File: i915/mtl_guc_70.39.0.bin
+Version: GuC API/APB ver 70.39.0 for Meteorlake
+
+File: i915/mtl_guc_70.40.0.bin
+Version: GuC API/APB ver 70.40.0 for Meteorlake
+
+File: i915/mtl_guc_70.40.1.bin
+Version: GuC API/APB ver 70.40.1 for Meteorlake
+
+File: i915/mtl_guc_70.40.2.bin
+Version: GuC API/APB ver 70.40.2 for Meteorlake
+
+File: i915/mtl_guc_70.41.0.bin
+Version: GuC API/APB ver 70.41.0 for Meteorlake
+
+File: i915/mtl_guc_70.42.0.bin
+Version: GuC API/APB ver 70.42.0 for Meteorlake
+
+File: i915/mtl_guc_70.43.0.bin
+Version: GuC API/APB ver 70.43.0 for Meteorlake
+
+File: i915/mtl_guc_70.44.0.bin
+Version: GuC API/APB ver 70.44.0 for Meteorlake
+
+File: i915/mtl_guc_70.44.1.bin
+Version: GuC API/APB ver 70.44.1 for Meteorlake
+
 File: i915/mtl_guc_70.bin
 Version: GuC API/APB ver 70.44.1 for Meteorlake
+
+File: i915/mtl_huc_8.2.10.bin
+Version: HuC API/APB ver 8.2.10 for Meteorlake
+
+File: i915/mtl_huc_8.2.10_gsc.bin
+Version: HuC API/APB ver 8.2.10 for Meteorlake
+
+File: i915/mtl_huc_8.2.17.bin
+Version: HuC API/APB ver 8.2.17 for Meteorlake
+
+File: i915/mtl_huc_8.2.17_gsc.bin
+Version: HuC API/APB ver 8.2.17 for Meteorlake
+
+File: i915/mtl_huc_8.3.0_gsc.bin
+Version: HuC API/APB ver 8.3.0 for Meteorlake
+
+File: i915/mtl_huc_8.3.7.bin
+Version: HuC API/APB ver 8.3.7 for Meteorlake
+
+File: i915/mtl_huc_8.3.7_gsc.bin
+Version: HuC API/APB ver 8.3.7 for Meteorlake
+
+File: i915/mtl_huc_8.4.3_gsc.bin
+Version: HuC API/APB ver 8.4.3 for Meteorlake
+
+File: i915/mtl_huc_8.4.5_gsc.bin
+Version: HuC API/APB ver 8.4.5 for Meteorlake
+
+File: i915/mtl_huc_8.5.0_gsc.bin
+Version: HuC API/APB ver 8.5.0 for Meteorlake
+
+File: i915/mtl_huc_8.5.4_gsc.bin
+Version: HuC API/APB ver 8.5.4 for Meteorlake
 
 File: i915/mtl_huc_gsc.bin
 Version: HuC API/APB ver 8.5.4 for Meteorlake
 
+File: i915/mtl_gsc_102.0.0.1511.bin
+Version: GSC API/APB release 102.0.0.1511 for Meteorlake
+
+File: i915/mtl_gsc_102.0.0.1556.bin
+Version: GSC API/APB release 102.0.0.1556 for Meteorlake
+
+File: i915/mtl_gsc_102.0.0.7190.bin
+Version: GSC API/APB release 102.0.0.7190 for Meteorlake
+
+File: i915/mtl_gsc_102.0.0.7340.bin
+Version: GSC API/APB release 102.0.0.7340 for Meteorlake
+
+File: i915/mtl_gsc_102.0.0.7356.bin
+Version: GSC API/APB release 102.0.0.7356 for Meteorlake
+
+File: i915/mtl_gsc_102.0.0.7359.bin
+Version: GSC API/APB release 102.0.0.7359 for Meteorlake
+
+File: i915/mtl_gsc_102.0.0.7363.bin
+Version: GSC API/APB release 102.0.0.7363 for Meteorlake
+
+File: i915/mtl_gsc_102.0.0.7366.bin
+Version: GSC API/APB release 102.0.0.7366 for Meteorlake
+
+File: i915/mtl_gsc_102.1.15.1926.bin
+Version: GSC API/APB release 102.1.15.1926 for Meteorlake
+
 File: i915/mtl_gsc_1.bin
 Version: GSC API/APB v1.0, release 102.1.15.1926, SVN 1 for Meteorlake
+
+File: i915/bmg_dmc_ver2_04.bin
+Version: DMC API/APB ver2 release 4 for Battlemage
 
 File: i915/bmg_dmc.bin
 Version: DMC API/APB ver 2 release 6 for Battlemage
