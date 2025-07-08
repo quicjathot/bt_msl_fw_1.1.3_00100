@@ -89,10 +89,12 @@ def main():
             "build_packages.py",
             "check_whence.py",
             "contrib/process_linux_firmware.py",
+            "contrib/pylib/whence.py",
             "contrib/templates/debian.changelog",
             "contrib/templates/debian.control",
             "contrib/templates/debian.copyright",
             "contrib/templates/rpm.spec",
+            "contrib/whence2yaml.py",
             "copy-firmware.sh",
             "dedup-firmware.sh",
         ]
@@ -106,6 +108,7 @@ def main():
             "carl9170fw/autogen.sh",
             "check_whence.py",
             "contrib/process_linux_firmware.py",
+            "contrib/whence2yaml.py",
             "copy-firmware.sh",
             "dedup-firmware.sh",
         ]
