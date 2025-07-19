@@ -8121,6 +8121,17 @@ Licence: Redistributable. See LICENCE.linaro for details
 Originates from https://github.com/linux-msm/audioreach-topology.git
 
 --------------------------------------------------------------------------
+
+Driver: qcom-qcs6490 - Qualcomm ASoC tplg Firmware
+File: qcom/qcs6490/qcs6490-rb3gen2/qcs6490-rb3gen2-snd-card-tplg.bin
+Link: qcom/qcs6490/qcs6490-rb3gen2-snd-card-tplg.bin -> qcs6490-rb3gen2/qcs6490-rb3gen2-snd-card-tplg.bin
+Version: v0.1.0
+Info: DATE=19.07.2025
+
+Licence: Redistributable. See LICENCE.linaro for details
+Originates from https://github.com/linux-msm/audioreach-topology.git
+
+--------------------------------------------------------------------------
 Driver: ti-tas2781 - tas2781 firmware
 File: ti/tas2781/TAS2XXX0C94.bin
 File: ti/tas2781/TAS2XXX0C95.bin
