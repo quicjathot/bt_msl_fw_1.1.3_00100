@@ -1,0 +1,37 @@
+Dell End User License Agreement (EULA) and Addendum for Linux Binaries
+
+THIS ADDENDUM to the Dell End User License Agreement (EULA) (the “Addendum”)
+amends the Dell EULA terms posted at
+(https://i.dell.com/sites/csdocuments/Legal_Docs/en/DellEULA_English.pdf)
+as set forth below.
+
+This Addendum provides additional terms and conditions that are incorporated by
+reference into the EULA, and the Linux binary files listed below in Section 5
+(the “Binaries”) are provide to You under the combined terms of the EULA and
+this Addendum. Defined terms used herein but not otherwise defined have the
+meanings given in the EULA.
+
+The additional terms and conditions incorporated into the EULA are:
+
+1. This Addendum together with the EULA expressly allow and govern your
+downloading or distribution of the Binaries for the purpose of Linux platforms.
+
+2. Although the Binaries may include Third Party Software as defined in the
+EULA, the terms and conditions of this Addendum together with the EULA shall
+also apply to the Binaries as part of the licensed Software to the fullest
+extent permitted by applicable law.
+
+3. Section 2.1D of the EULA is modified to allow the hosting and redistribution
+of the Binaries for use on Linux platforms.
+
+4. The restrictions in Sections 2.2(G), (J), (K) and (P) of the EULA are all
+modified such the hosting and redistribution of the Binaries for use on Linux
+platforms is permitted pursuant to #2 above.
+
+5. Section 3 of the EULA is modified to allow the transfer of the Binaries in
+the context of hosting or redistributing the Binaries for use on Linux platforms
+pursuant to #2 above.
+
+6. Binary files subject to this Addendum:
+
+File: intel/ish/ish_lnlm_39ceeaf8_58.7727.0.bin

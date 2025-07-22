@@ -8480,3 +8480,11 @@ Driver: sdx61 - Qualcomm SDX61 firmware image file for Foxconn vendor
 File: qcom/sdx61/foxconn/prog_firehose_lite.elf
 
 License: Redistributable. See LICENSE.qcom and qcom/NOTICE.txt for details
+
+---------------------------------------------------------------------------
+
+Driver: ish - Intel Integrated Sensor Hub
+File: intel/ish/ish_lnlm_39ceeaf8_58.7727.0.bin
+Link: intel/ish/ish_lnlm_39ceeaf8.bin -> ish_lnlm_39ceeaf8_58.7727.0.bin
+
+License: Redistributable. See LICENSE.dell for details
