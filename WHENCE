@@ -6415,9 +6415,9 @@ https://developer.qualcomm.com/hardware/dragonboard-410c/tools
 
 Driver: iris - Qualcomm Iris video codec accelerator
 
-File: qcom/vpu/vpu20_p1_gen2.mbn
+File: qcom/vpu/vpu20_p1_s6_gen2.mbn
 
-Version: VIDEO.VPU.2.4.2-00025
+Version: VIDEO.VPU.2.4.2-00026
 
 File: qcom/vpu/vpu30_p4.mbn
 
