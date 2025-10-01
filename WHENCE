@@ -14,6 +14,7 @@ File: brcm/BCM-0bb4-0306.hcd
 Link: brcm/BCM-0a5c-6410.hcd -> BCM-0bb4-0306.hcd
 
 Licence: Redistributable. See LICENCE.cypress for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.cypress
 
 --------------------------------------------------------------------------
 
@@ -74,6 +75,7 @@ File: qlogic/1280.bin
 File: qlogic/12160.bin
 
 Licence: Redistributable. See LICENCE.qla1280 for details
+SPDX-License-Identifier: BSD-3-Clause
 
 --------------------------------------------------------------------------
 
@@ -85,6 +87,7 @@ File: kaweth/trigger_code.bin
 File: kaweth/trigger_code_fix.bin
 
 Licence: Redistributable. See LICENCE.kaweth for details
+SPDX-License-Identifier: BSD-4-Clause
 
 Found in hex form in the kernel source.
 
@@ -118,6 +121,7 @@ File: keyspan/usa49wlc.fw
 Converted from Intel HEX files, used in our binary representation of ihex.
 
 Licence: Redistributable. See LICENCE.keyspan for details
+SPDX-License-Identifier: LicenseRef-LICENCE.keyspan
 
 --------------------------------------------------------------------------
 
@@ -132,6 +136,7 @@ Source: keyspan_pda/xircom_pgs.S
 Source: keyspan_pda/Makefile
 
 Licence: GPLv2 or later. See GPL-2 and GPL-3 for details.
+SPDX-License-Identifier: GPL-2.0-or-later
 
 Compiled from original 8051 source into Intel HEX, used in our binary ihex form.
 
@@ -152,6 +157,7 @@ File: emi26/loader.fw
 Converted from Intel HEX files, used in our binary representation of ihex.
 
 Licence: Redistributable. See LICENCE.emi26 for details
+SPDX-License-Identifier: LicenseRef-LICENCE.emi26
 
 --------------------------------------------------------------------------
 
@@ -245,6 +251,7 @@ Licence: Allegedly GPLv2+, but no source visible. Marked:
 	Copyright (C) 2001 STMicroelectronics, Inc.
 	Contact:  steve.miller@st.com
 	Description: This file contains patch data for the CPiA2 (stv0672) VP4.
+SPDX-License-Identifier: GPL-2.0-or-later
 
 Found in hex form in kernel source.
 
@@ -256,6 +263,7 @@ File: dabusb/firmware.fw
 File: dabusb/bitstream.bin
 
 Licence: Redistributable. See LICENCE.dabusb for details
+SPDX-License-Identifier: LicenseRef-LICENCE.dabusb
 
 --------------------------------------------------------------------------
 
@@ -311,6 +319,7 @@ Source: dsp56k/Makefile
 Source: dsp56k/concat-bootstrap.pl
 
 Licence: GPLv2 or later. See GPL-2 and GPL-3 for details.
+SPDX-License-Identifier: GPL-2.0-or-later
 
 DSP56001 assembler, buildable with a56 from
 http://www.zdomain.com/a56.html
@@ -351,6 +360,7 @@ File: ql2500_fw.bin
 Version: 8.08.207 MIDQ
 
 Licence: Redistributable. See LICENCE.qla2xxx for details
+SPDX-License-Identifier: LicenseRef-LICENCE.qla2xxx
 
 Available from http://ldriver.qlogic.com/firmware/
 
@@ -364,6 +374,7 @@ File: agere_ap_fw.bin
 Version: 9.48 Hermes I
 
 Licence: Redistributable. See LICENCE.agere for details
+SPDX-License-Identifier: LicenseRef-LICENCE.agere
 
 --------------------------------------------------------------------------
 
@@ -373,6 +384,7 @@ File: ar9170-1.fw
 File: ar9170-2.fw
 
 Licence: Redistributable. See LICENCE.atheros_firmware for details
+SPDX-License-Identifier: LicenseRef-LICENCE.atheros_firmware
 
 --------------------------------------------------------------------------
 
@@ -387,6 +399,7 @@ File: htc_7010.fw
 Version: 1.3.1
 
 Licence: Redistributable. See LICENCE.atheros_firmware for details
+SPDX-License-Identifier: LicenseRef-LICENCE.atheros_firmware
 
 File: ath9k_htc/htc_7010-1.4.0.fw
 Version: 1.4.0
@@ -394,6 +407,7 @@ File: ath9k_htc/htc_9271-1.4.0.fw
 Version: 1.4.0
 
 Licence: Free software. See LICENCE.open-ath9k-htc-firmware for details
+SPDX-License-Identifier: LicenseRef-LICENCE.open-ath9k-htc-firmware
 
 --------------------------------------------------------------------------
 
@@ -427,6 +441,7 @@ File: sxg/saharadownloadB.sys
 File: sxg/saharadbgdownloadB.sys
 
 Licence: Redistributable. See LICENCE.alacritech for details
+SPDX-License-Identifier: LicenseRef-LICENCE.alacritech
 
 Found in hex form in kernel source.
 
@@ -443,6 +458,7 @@ File: cxgb3/t3fw-7.10.0.bin
 File: cxgb3/t3fw-7.12.0.bin
 
 Licence: GPLv2 or OpenIB.org BSD license, no source visible
+SPDX-License-Identifier: GPL-2.0-only OR BSD-2-Clause
 
 --------------------------------------------------------------------------
 
@@ -453,6 +469,7 @@ File: cxgb3/ael2005_twx_edc.bin
 File: cxgb3/ael2020_twx_edc.bin
 
 Licence: Redistributable. See LICENCE.cxgb3 for details
+SPDX-License-Identifier: LicenseRef-LICENCE.cxgb3
 
 Found in hex form in kernel source.
 
@@ -482,6 +499,7 @@ Link: cxgb4/t5-config.txt -> configs/t5-config-default.txt
 Link: cxgb4/t6-config.txt -> configs/t6-config-default.txt
 
 Licence: Redistributable. See LICENCE.chelsio_firmware for details
+SPDX-License-Identifier: LicenseRef-LICENCE.chelsio_firmware
 
 --------------------------------------------------------------------------
 
@@ -492,6 +510,7 @@ File: e100/d101s_ucode.bin
 File: e100/d102e_ucode.bin
 
 Licence: Redistributable. See LICENCE.e100 for details
+SPDX-License-Identifier: LicenseRef-LICENCE.e100
 
 --------------------------------------------------------------------------
 
@@ -515,6 +534,7 @@ File: tigon/tg3_tso5.bin
 File: tigon/tg357766.bin
 
 Licence: Redistributable. See LICENCE.tigon for details
+SPDX-License-Identifier: LicenseRef-LICENCE.tigon
 
 Found in hex form in kernel source.
 
@@ -568,6 +588,7 @@ File: mrvl/sd8688_helper.bin
 Link: libertas/sd8688_helper.bin -> ../mrvl/sd8688_helper.bin
 
 Licence: Redistributable. See LICENCE.Marvell for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.Marvell
 
 Info:
 Extracted from Linux driver tarballs downloaded from Marvell's
@@ -587,6 +608,7 @@ File: libertas/usb8388_olpc.bin
 Version: 5.110.22.p23
 
 Licence: Redistributable. See LICENCE.OLPC for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.OLPC
 
 Available from http://dev.laptop.org/pub/firmware/libertas/
 
@@ -607,6 +629,7 @@ File: mwl8k/fmimage_8764_ap-1.fw
 Version: 7.4.0.9
 
 Licence: Redistributable. See LICENCE.Marvell for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.Marvell
 
 Info:
 8687 images downloaded from Marvell's "Extranet" with permission.
@@ -665,6 +688,8 @@ File: mrvl/sdsd8977_combo_v2.bin
 Version: W16.68.1.p195
 
 Licence: Redistributable. See LICENCE.NXP for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.NXP
+
 Originates from https://github.com/NXP/mwifiex-firmware.git
 
 --------------------------------------------------------------------------
@@ -1493,6 +1518,7 @@ File: cis/PE520.cis
 Source: cis/
 
 Licence: Dual GPLv2/MPL
+SPDX-License-Idenfifier: GPL-2.0-only OR MPL-1.1
 
 Originally developed by the pcmcia-cs project
 Copyright (C) 1998, 1999, 2000 David A. Hinds
@@ -1505,6 +1531,7 @@ File: cis/3CXEM556.cis
 Source: cis/src/3CXEM556.cis
 
 Licence: Dual GPLv2/MPL
+SPDX-License-Idenfifier: GPL-2.0-only OR MPL-1.1
 
 Originally developed by the pcmcia-cs project
 Copyright (C) 1998, 1999, 2000 David A. Hinds
@@ -1517,6 +1544,7 @@ File: cis/3CCFEM556.cis
 Source: cis/src/3CCFEM556.cis
 
 Licence: Dual GPLv2/MPL
+SPDX-License-Idenfifier: GPL-2.0-only OR MPL-1.1
 
 Originally developed by the pcmcia-cs project
 Copyright (C) 1998, 1999, 2000 David A. Hinds
@@ -1535,6 +1563,7 @@ Source: cis/src/COMpad2.cis
 Source: cis/src/COMpad4.cis
 
 Licence: Dual GPLv2/MPL
+SPDX-License-Idenfifier: GPL-2.0-only OR MPL-1.1
 
 Originally developed by the pcmcia-cs project
 Copyright (C) 1998, 1999, 2000 David A. Hinds
@@ -1660,6 +1689,7 @@ Source: av7110/Boot.S
 Source: av7110/Makefile
 
 Licence: GPLv2 or later. See GPL-2 and GPL-3 for details.
+SPDX-License-Identifier: GPL-2.0-or-later
 
 ARM assembly source code from https://linuxtv.org/downloads/firmware/Boot.S
 
@@ -1670,6 +1700,7 @@ Driver: snd-wavefront - ISA WaveFront sound card
 File: yamaha/yss225_registers.bin
 
 Licence: Allegedly GPLv2+, but no source visible.
+SPDX-License-Identifier: GPL-2.0-or-later
 
 Found in hex form in kernel source, with the following comment:
    Copyright (c) 1998-2002 by Paul Davis <pbd@op.net>
@@ -1764,6 +1795,8 @@ File: usbduxsigma_firmware.bin
 Source: usbdux/
 
 Licence: GPLv2 or later. See GPL-2 for details.
+SPDX-License-Identifier: GPL-2.0-or-later
+
 Provided from the author, Bernd Porr <BerndPorr@f2s.com>
 
 --------------------------------------------------------------------------
@@ -1823,7 +1856,8 @@ Driver: r128 - ATI Rage 128
 
 File: r128/r128_cce.bin
 
-Licence: MIT
+License: MIT
+SPDX-License-Identifier: MIT
 
 Copyright 2000 Advanced Micro Devices, Inc.
 
@@ -1861,7 +1895,8 @@ File: radeon/RV730_me.bin
 File: radeon/RV710_pfp.bin
 File: radeon/RV710_me.bin
 
-Licence: MIT
+License: MIT
+SPDX-License-Identifier: MIT
 
 Copyright 2007-2009 Advanced Micro Devices, Inc.
 
@@ -2799,6 +2834,7 @@ File: amdgpu/vpe_6_1_1.bin
 File: amdgpu/vpe_6_1_3.bin
 
 Licence: Redistributable. See LICENSE.amdgpu for details.
+SPDX-License-Identifier: LicenseRef-LICENSE.amdgpu
 
 --------------------------------------------------------------------------
 
@@ -2812,6 +2848,7 @@ File: amdnpu/17f0_11/npu.sbin.1.0.0.166
 Link: amdnpu/17f0_11/npu.sbin -> npu.sbin.1.0.0.166
 
 Licence: Redistributable. See LICENSE.amdnpu for details.
+SPDX-License-Identifier: LicenseRef-LICENSE.amdnpu
 
 --------------------------------------------------------------------------
 
@@ -2823,6 +2860,7 @@ File: amdtee/f29bb3d9-bd66-5441-afb88acc2b2b60d6.bin
 Link: amdtee/amd_pmf_v3_1.bin -> f29bb3d9-bd66-5441-afb88acc2b2b60d6.bin
 
 Licence: Redistributable. See LICENSE.amd_pmf for details.
+SPDX-License-Identifier: LicenseRef-LICENSE.amd_pmf
 
 --------------------------------------------------------------------------
 
@@ -2856,6 +2894,8 @@ Driver: ib_qib - QLogic Infiniband
 File: qlogic/sd7220.fw
 
 Licence: Redistributable. See LICENSE.ib_qib for details.
+
+SPDX-License-Identifier: GPL-2.0-only OR BSD-2-Clause
 
 Found in hex form in kernel source.
 
@@ -2896,6 +2936,7 @@ File: ueagle-atm/eagleIV.fw
 Version: 1.0
 
 Licence: Redistributable. See LICENCE.ueagle-atm4-firmware for details
+SPDX-License-Identifier: LicenseRef-LICENCE.ueagle-atm4-firmware
 
 --------------------------------------------------------------------------
 
@@ -3094,6 +3135,7 @@ Link: brcm/brcmfmac43455-sdio.pine64,soquartz-cm4io.txt -> brcmfmac43455-sdio.AW
 Link: brcm/brcmfmac43455-sdio.pine64,soquartz-blade.txt -> brcmfmac43455-sdio.AW-CM256SM.txt
 
 Licence: GPLv2. See GPL-2 for details.
+SPDX-License-Identifier: GPL-2.0-only
 
 --------------------------------------------------------------------------
 
@@ -4032,6 +4074,7 @@ File: isci/isci_firmware.bin
 Source: isci/
 
 Licence: GPLv2. See GPL-2 for details.
+SPDX-License-Identifier: GPL-2.0-only
 
 --------------------------------------------------------------------------
 
@@ -4065,6 +4108,7 @@ Source: carl9170fw/
 Downloaded from http://linuxwireless.org/en/users/Drivers/carl9170
 
 Licence: GPLv2 or later. Some build scripts use the New BSD (3-clause) licence. See GPL-2 for details.
+SPDX-License-Identifier: GPL-2.0-or-later
 
 --------------------------------------------------------------------------
 
@@ -4707,6 +4751,7 @@ Version: 0.3
 Info: atusb/ChangeLog
 
 Licence: GPLv2 or later. See GPL-2 and GPL-3 for details.
+SPDX-License-Identifier: GPL-2.0-or-later
 
 --------------------------------------------------------------------------
 
@@ -6827,6 +6872,8 @@ File: mellanox/mlxsw_spectrum4-34.2014.4012.mfa2
 Licence: Redistributable. See LICENSE.mellanox for details.
 
 Copyright (c) 2017-2020 Mellanox Technologies, Ltd. All rights reserved.
+
+SPDX-License-Identifier: GPL-2.0-or-later OR BSD-3-Clause
 
 --------------------------------------------------------------------------
 
