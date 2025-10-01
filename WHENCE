@@ -14,6 +14,7 @@ File: brcm/BCM-0bb4-0306.hcd
 Link: brcm/BCM-0a5c-6410.hcd -> BCM-0bb4-0306.hcd
 
 Licence: Redistributable. See LICENCE.cypress for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.cypress
 
 --------------------------------------------------------------------------
 
@@ -62,6 +63,7 @@ File: advansys/38C0800.bin
 File: advansys/38C1600.bin
 
 Licence: Redistributable. See LICENCE.advansys for details
+SPDX-License-Identifier: LicenseRef-LICENCE.advansys
 
 Found in hex form in kernel source.
 
@@ -120,6 +122,7 @@ File: keyspan/usa49wlc.fw
 Converted from Intel HEX files, used in our binary representation of ihex.
 
 Licence: Redistributable. See LICENCE.keyspan for details
+SPDX-License-Identifier: LicenseRef-LICENCE.keyspan
 
 --------------------------------------------------------------------------
 
@@ -155,6 +158,7 @@ File: emi26/loader.fw
 Converted from Intel HEX files, used in our binary representation of ihex.
 
 Licence: Redistributable. See LICENCE.emi26 for details
+SPDX-License-Identifier: LicenseRef-LICENCE.emi26
 
 --------------------------------------------------------------------------
 
@@ -262,6 +266,7 @@ File: dabusb/firmware.fw
 File: dabusb/bitstream.bin
 
 Licence: Redistributable. See LICENCE.dabusb for details
+SPDX-License-Identifier: LicenseRef-LICENCE.dabusb
 
 --------------------------------------------------------------------------
 
@@ -361,6 +366,7 @@ File: ql2500_fw.bin
 Version: 8.08.207 MIDQ
 
 Licence: Redistributable. See LICENCE.qla2xxx for details
+SPDX-License-Identifier: LicenseRef-LICENCE.qla2xxx
 
 Available from http://ldriver.qlogic.com/firmware/
 
@@ -374,6 +380,7 @@ File: agere_ap_fw.bin
 Version: 9.48 Hermes I
 
 Licence: Redistributable. See LICENCE.agere for details
+SPDX-License-Identifier: LicenseRef-LICENCE.agere
 
 --------------------------------------------------------------------------
 
@@ -383,6 +390,7 @@ File: ar9170-1.fw
 File: ar9170-2.fw
 
 Licence: Redistributable. See LICENCE.atheros_firmware for details
+SPDX-License-Identifier: LicenseRef-LICENCE.atheros_firmware
 
 --------------------------------------------------------------------------
 
@@ -397,6 +405,7 @@ File: htc_7010.fw
 Version: 1.3.1
 
 Licence: Redistributable. See LICENCE.atheros_firmware for details
+SPDX-License-Identifier: LicenseRef-LICENCE.atheros_firmware
 
 File: ath9k_htc/htc_7010-1.4.0.fw
 Version: 1.4.0
@@ -404,6 +413,7 @@ File: ath9k_htc/htc_9271-1.4.0.fw
 Version: 1.4.0
 
 Licence: Free software. See LICENCE.open-ath9k-htc-firmware for details
+SPDX-License-Identifier: LicenseRef-LICENCE.open-ath9k-htc-firmware
 
 --------------------------------------------------------------------------
 
@@ -437,6 +447,7 @@ File: sxg/saharadownloadB.sys
 File: sxg/saharadbgdownloadB.sys
 
 Licence: Redistributable. See LICENCE.alacritech for details
+SPDX-License-Identifier: LicenseRef-LICENCE.alacritech
 
 Found in hex form in kernel source.
 
@@ -464,6 +475,7 @@ File: cxgb3/ael2005_twx_edc.bin
 File: cxgb3/ael2020_twx_edc.bin
 
 Licence: Redistributable. See LICENCE.cxgb3 for details
+SPDX-License-Identifier: LicenseRef-LICENCE.cxgb3
 
 Found in hex form in kernel source.
 
@@ -493,6 +505,7 @@ Link: cxgb4/t5-config.txt -> configs/t5-config-default.txt
 Link: cxgb4/t6-config.txt -> configs/t6-config-default.txt
 
 Licence: Redistributable. See LICENCE.chelsio_firmware for details
+SPDX-License-Identifier: LicenseRef-LICENCE.chelsio_firmware
 
 --------------------------------------------------------------------------
 
@@ -503,6 +516,7 @@ File: e100/d101s_ucode.bin
 File: e100/d102e_ucode.bin
 
 Licence: Redistributable. See LICENCE.e100 for details
+SPDX-License-Identifier: LicenseRef-LICENCE.e100
 
 --------------------------------------------------------------------------
 
@@ -526,6 +540,7 @@ File: tigon/tg3_tso5.bin
 File: tigon/tg357766.bin
 
 Licence: Redistributable. See LICENCE.tigon for details
+SPDX-License-Identifier: LicenseRef-LICENCE.tigon
 
 Found in hex form in kernel source.
 
@@ -580,6 +595,7 @@ File: mrvl/sd8688_helper.bin
 Link: libertas/sd8688_helper.bin -> ../mrvl/sd8688_helper.bin
 
 Licence: Redistributable. See LICENCE.Marvell for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.Marvell
 
 Info:
 Extracted from Linux driver tarballs downloaded from Marvell's
@@ -599,6 +615,7 @@ File: libertas/usb8388_olpc.bin
 Version: 5.110.22.p23
 
 Licence: Redistributable. See LICENCE.OLPC for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.OLPC
 
 Available from http://dev.laptop.org/pub/firmware/libertas/
 
@@ -619,6 +636,7 @@ File: mwl8k/fmimage_8764_ap-1.fw
 Version: 7.4.0.9
 
 Licence: Redistributable. See LICENCE.Marvell for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.Marvell
 
 Info:
 8687 images downloaded from Marvell's "Extranet" with permission.
@@ -677,6 +695,8 @@ File: mrvl/sdsd8977_combo_v2.bin
 Version: W16.68.1.p195
 
 Licence: Redistributable. See LICENCE.NXP for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.NXP
+
 Originates from https://github.com/NXP/mwifiex-firmware.git
 
 --------------------------------------------------------------------------
@@ -2823,6 +2843,7 @@ File: amdgpu/vpe_6_1_1.bin
 File: amdgpu/vpe_6_1_3.bin
 
 Licence: Redistributable. See LICENSE.amdgpu for details.
+SPDX-License-Identifier: LicenseRef-LICENSE.amdgpu
 
 --------------------------------------------------------------------------
 
@@ -2836,6 +2857,7 @@ File: amdnpu/17f0_11/npu.sbin.1.0.0.166
 Link: amdnpu/17f0_11/npu.sbin -> npu.sbin.1.0.0.166
 
 Licence: Redistributable. See LICENSE.amdnpu for details.
+SPDX-License-Identifier: LicenseRef-LICENSE.amdnpu
 
 --------------------------------------------------------------------------
 
@@ -2847,6 +2869,7 @@ File: amdtee/f29bb3d9-bd66-5441-afb88acc2b2b60d6.bin
 Link: amdtee/amd_pmf_v3_1.bin -> f29bb3d9-bd66-5441-afb88acc2b2b60d6.bin
 
 Licence: Redistributable. See LICENSE.amd_pmf for details.
+SPDX-License-Identifier: LicenseRef-LICENSE.amd_pmf
 
 --------------------------------------------------------------------------
 
@@ -2914,6 +2937,7 @@ File: ueagle-atm/eagleIV.fw
 Version: 1.0
 
 Licence: Redistributable. See LICENCE.ueagle-atm4-firmware for details
+SPDX-License-Identifier: LicenseRef-LICENCE.ueagle-atm4-firmware
 
 --------------------------------------------------------------------------
 
@@ -2943,6 +2967,7 @@ File: ueagle-atm/eagleII.fw
 Version: 1.1
 
 Licence: Redistributable. See LICENCE.ueagle for details
+SPDX-License-Identifier: LicenseRef-LICENCE.ueagle
 
 --------------------------------------------------------------------------
 
@@ -2953,6 +2978,7 @@ File: vxge/X3fw-pxe.ncf
 Version: 1.8.1
 
 Licence: Redistributable. See LICENSE.vxge for details.
+SPDX-License-Identifier: LicenseRef-LICENSE.vxge
 
 --------------------------------------------------------------------------
 
@@ -2963,6 +2989,7 @@ File: brcm/bcm43xx_hdr-0.fw
 Version: 610.812
 
 Licence: Redistributable. See LICENCE.broadcom_bcm43xx for details.
+SPDX-License-Identifier: LicenseRef-LICENCE.broadcom_bcm43xx
 
 --------------------------------------------------------------------------
 
